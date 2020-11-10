@@ -1,0 +1,26 @@
+{
+    "content":[
+        {
+            "id":"Robot",
+            "frame":"Monster17",
+            "name":"Roboter",
+            "role":"Bot",
+            
+            "shortDescription": "",
+            "description":"ROBOTER: Geht mit einem zufälligen Spieler auf ein Date, der mit ihm geschrieben hat und mit ihm ausgehen will.</br>Am Ende des Spiels, wenn er auf dem letzten Platz ist, kann er menschliche Emotionen nicht mehr nachvollziehen und zerstört alles. (Jeder verliert)</br>Der Roboter bekommt jede Nacht ein Herz für jeden Spieler, der ihm geschrieben hat und mit ihm ausgehen will.</br>ABER…  er verliert auch ein Herz pro Nacht.",
+            "selfDescription":"",
+            "powerpopup": {"single": "Wurde von einem Spieler eingeladen.",
+                           "multiple": "Wurde von [Number] Spieler eingeladen.",
+                           "decay": "Der Roboter verliert 1 Herz pro Nacht",
+                           "destroy": "Der Roboter zerstört alle!"},
+            "epitaph": { "nobody": "Wurde von niemanden eingeladen, nicht einmal.",
+                         "singular": "Wurde einmal eingeladen.",
+                         "plural": "Wurde [Number] mal eingeladen.",
+                         "destroyer": "<br />Und bereut es, die Menscheit ausgelöscht zu haben.",
+                         "winner": "<br />Und hat irgendwie gewonnen!",
+                         "loser": "<br />Und wurde nicht Letzter (zum Glück)." },
+
+            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Robot"
+        }
+    ]
+}
