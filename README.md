@@ -1,10 +1,10 @@
-***Fiabbage 3***
+***Fibbage 3***
 -
 Translation by
 
 Synchro by
 
-***Fiabbage: Enough About You***
+***Fibbage: Enough About You***
 -
 Translation by Ebcx92
 
