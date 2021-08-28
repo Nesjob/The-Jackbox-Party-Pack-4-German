@@ -4,7 +4,7 @@ Translation by
 
 Synchro by
 
-***Fibbage: Enough About You***
+***Fibbage 3: Enough About You***
 -
 Translation by Ebcx92
 
@@ -16,7 +16,7 @@ Translation by Ebcx92
 
 Synchro by
 
-***Monster seeking Monster***
+***Monster Seeking Monster***
 -
 Translation by BuzZoiD, Rocket55 & SteffoSpieler
 

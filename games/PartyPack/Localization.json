@@ -1,0 +1,72 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "We've just found the internet.",
+        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "We're sorry, a network error occurred and your room was destroyed.<br />Please check that your internet connection is working properly.",
+        "SOCKET_DISCONNECTED": "We're sorry, we've lost your connection to the Jackbox Games servers.",
+        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "USER_DISCONNECT": "We're sorry, the server has disconnected you. Please try again.",
+        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+        "TWITCH_PRIME_ERROR": "We're sorry, we couldn't validate your Twitch license.",
+        "LOST_DLC": "We're sorry, the license for your DLC could not be found. Returning you to the menu...",
+        "CLOSE": "Close",
+        "QUIT": "Quit",
+        "BACK": "Back",
+        "MENU_GAME_NAME_1": "Fibbage 3",
+        "MENU_GAME_NAME_2": "Survive the Internet",
+        "MENU_GAME_NAME_3": "Monster Seeking Monster",
+        "MENU_GAME_NAME_4": "Bracketeering",
+        "MENU_GAME_NAME_5": "Civic Doodle",
+        "MENU_GAME_NAME_DISABLED": "??????????",
+        "MENU_DLC": "DLC",
+        "MENU_SETTINGS": "Settings",
+        "MENU_HOW_TO": "TUTORIAL",
+        "BADGE_TITLE_PLAYERS": "SPIELER",
+        "BADGE_TITLE_FAMILY_MODE": "FAMILIENFREUNDLICH",
+        "BADGE_TITLE_AUDIENCE": "PUBLIKUM",
+        "BADGE_SUB_PLAYERS": "MIT HANDYS/TABLETS",
+        "BADGE_SUB_FAMILY_MODE": "OPTIONAL",
+        "BADGE_SUB_AUDIENCE": "ZUSCHAUER KÖNNEN BEITRETEN",
+        "INFO_DESCRIPTION_GAME_1": "Fib your way through all-new question types and the all-newer game mode Fibbage: Enough About You. Guess the weird facts about your fellow players!",
+        "INFO_DESCRIPTION_GAME_2": "Log on and strap in! It’s survival of the funniest as you playfully take your friends out of context across the World Wide Web.",
+        "INFO_DESCRIPTION_GAME_3": "A dating-themed game where you send funny messages and try to hide your secret monster powers. Just like real dating!",
+        "INFO_DESCRIPTION_GAME_4": "The deranged debate tournament! “What’s the best vegetable for Benedict Cumberbatch to voice in a movie?” Place smart bets on what will win stupid arguments.",
+        "INFO_DESCRIPTION_GAME_5": "You’ve been hired to create murals all over Doodle Valley. Compete to see who can make the best additions in your attempt to “beautify” the city.",
+        "INFO_DESCRIPTION_GAME_DISABLED": "??? ??????? ???? ? ????????? ????? ??????? ??????-???? ????.",
+        "SETTINGS_TITLE": "EINSTELLUNGEN",
+        "SETTINGS_FULL_SCREEN": "Vollbild",
+        "SETTINGS_VOLUME": "Lautstärke",
+        "SETTINGS_FULL_SCREEN_DESCRIPTION": "Schalte das Spiel auf Vollbild.",
+        "SETTINGS_VOLUME_DESCRIPTION": "Mach das Spiel LAUT oder LEISE.",
+        "SETTINGS_TOGGLE_ON": "AN",
+        "SETTINGS_TOGGLE_OFF": "AUS",
+        "HELP_TITLE": "ANLEITUNG",
+        "HELP_LINE_1": "Select and start a game using a controller.",
+        "HELP_LINE_2": "Once you've reached the game lobby, get out your phone, tablet, or laptop.",
+        "HELP_LINE_3": "Go to jackbox.tv on your device.",
+        "HELP_LINE_4": "Enter the 4-letter room code shown on the TV screen.",
+        "HELP_LINE_5": "Enter your player name.",
+        "HELP_LINE_6": "The first player to join the game lobby (the VIP) can start the game<br />from their device once everyone is ready."
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue"
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua"
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache"
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma"
+    }
+}
+}
