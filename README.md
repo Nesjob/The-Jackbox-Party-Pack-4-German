@@ -30,6 +30,6 @@ Synchro by
 
 ***Civic Doodle***
 -
-Translation by Ebcx92
+Translation by Erizzle & Ebcx92
 
 Synchro by
