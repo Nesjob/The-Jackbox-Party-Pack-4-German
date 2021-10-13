@@ -1,0 +1,1006 @@
+{
+    "content":[
+        {
+            "id":"00000000",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Bring bitte Toilettenpapier für Papa mit.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Kann grad nicht reden.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Letztes Mal hast dus vergessen und er hatte Ausschlag am Hintern.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000001",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Ich liebe meine neue Frisur!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"ja mega :)",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Danke nochmal. Du bekommst deine morgen.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"k",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000002",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Was trägst du auf der Hochzeit?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Kein Plan. Wahrscheinlich ein Sakko mit meinen Chuck Taylors.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Ein Anzug mit Sneakern?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Du bist der coolste Typ den ich kenne.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000003",
+            "windowTitle":"Nachricht von Dee23",
+            "messages":[
+                { 
+                    "from":"Luna23",
+                    "text":"Hey süßer ;)",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Hi...kennen wir uns?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Luna23",
+                    "text":"Schau mir zu auf sexysingleswollendich.biz",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Mach ich später. Danke dir für die Einladung!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000004",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Apfelmusqwterz42",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Was machst du, Mama?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Apfelmusqwterz42",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Da kommt NICHT dein Passwort rein, Mama!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000005",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Kannst du vorbeikommen wenn du kurz Zeit hast?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Ich werde nicht wieder Papa nach Zecken untersuchen.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Ich brauche nur Hilfe bei den Oberschenkeln!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000006",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Hast du nachgeschaut?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Yep.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Und?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Helene Fischer ist gar keine Fischerin.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000007",
+            "windowTitle":"Nachricht an Mama",
+            "messages":[
+                { 
+                    "from":"Eric",
+                    "text":"Wie lief es gestern?",
+                    "behavior":"send",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Gut! Ich habe viel Therapie im Einzelhandel gemacht.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Viel gekauft oder was?",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Nee, aber ich hab dem Verkäufer von deinem Vater erzählt.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000008",
+            "windowTitle":"Nachricht an Papa",
+            "messages":[
+                { 
+                    "from":"Eric",
+                    "text":"Ich hab gehört ihr habt ne neue Matratze bekommen.",
+                    "behavior":"send",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Papa",
+                    "text":"Ja. GROSSER Fehler.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Warum?",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Papa",
+                    "text":"Ich bin müde und mit viel zu viel Geld in den Laden gegangen",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000009",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Hast du morgen Abend Zeit?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Klar! Was geht ab?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Ich hab ne Schulaufführung!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Oh warte... Ich hab doch schon was vor. Bin definitiv beschäftigt.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000010",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Ey sorry für's ghosten gestern Abend auf der Party",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Schon okay.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Wäre nur gut gewesen, hättest du nicht mein Bettlaken aufgeschnitten",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":":(",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000011",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Hat es geklappt?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Nein. Weder darkweb.de noch darkweb.org hat geklappt",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Wie kommen wir dann rein?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Ich hab keinen Plan.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000012",
+            "windowTitle":"Nachricht von Papa",
+            "messages":[
+                { 
+                    "from":"Papa",
+                    "text":"Hey, Sohnemann.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Hi, Papa.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Papa",
+                    "text":"Ok, gutes Gespräch.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Papa",
+                    "text":"Muss los.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000013",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Spielst du immer noch diese Videospiele?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Es sind nicht nur “Spiele” Mama.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"ES. IST. MEIN. LEBEN.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Was auch immer. Denk bitte dran Toilettenpapier mitzubringen.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000014",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Spielst du auch mal andere Spiele?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Manchnal",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Manchananl",
+                    "behavior":"send",
+                    "timeTilNextMessage":2.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Nein.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000015",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Ich wünsch dir einen schönen Tag, Schnuckel. Lieb dich, Mama",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Danke Mama, aber du musst jetzt auch nicht unterschreiben.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Ich weiß doch, dass du es bist.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"OH, verstehe. Lieb dich, Mama.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000016",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Ich weiß endlich wie Emojis funktionieren!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mama",
+                    "text":"&:X=:=",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Das hat nicht funktioniert.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Mist! Oh, ich hab's! &:X=:=",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000017",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Wurde dein Computer gehackt?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Nein. Warum?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Du hast mein Bild geliked.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000018",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Ja, manchmal kann Eric einen echt nerven.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Äh...",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Oh hahaha lol! War nur ein kleiner Scherz!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Ich schreibe gerade auf keinen Fall mit Lara!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000019",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Joo!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Hey!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Was geht?",
+                    "behavior":"send",
+                    "timeTilNextMessage":2.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"nix",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000020",
+            "windowTitle":"Nachricht von Papa",
+            "messages":[
+                { 
+                    "from":"Papa",
+                    "text":"Ich bin stolz auf dich, mein Sohn.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"...Mama?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Bist du das?",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Papa",
+                    "text":"Er sagt es vielleicht nicht, aber er meint es so!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000021",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Sarah hat mich gefragt ob du im Fitnessstudio wohnst!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Ach echt?!",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Ich hoffe ich werde nicht zerstört!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Sie hat gefragt weil sie dachte du wärst obdachlos. :(",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000022",
+            "windowTitle":"Nachricht an Mama",
+            "messages":[
+                { 
+                    "from":"Eric",
+                    "text":"Wie lief der Flohmarkt?",
+                    "behavior":"send",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Super! Wir haben alle deine Sachen verkauft.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Was?!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Spaß! Nur deine Kleidung und DVDs.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000023",
+            "windowTitle":"Nachricht von Luna23",
+            "messages":[
+                { 
+                    "from":"Luna23",
+                    "text":"was machst du so, süßer? sexysingleswollendich.biz",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"uh, hey. Ich hab vor ein paar Lektüren zu lesen",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Luna23",
+                    "text":"klingt mega heisss. erzähl mir mehr davon",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Also er zieht in dieses Haus am See und beschließt, einen Baum zu pflanzen...",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000024",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Bereit für heute Nacht?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Ich hab doch nein gesagt",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Komm schon!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Ich kann nicht Peach ohne meinen Mario cosplayen",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000025",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Ich dachte du würdest in Nigeria feststecken.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Was? Nein. Ich war doch die ganze Zeit hier.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Wer hat dann meine 10.000€ bekommen?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000026",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Liebes Tagebuch, ich musste wieder von Antonio träumen.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Mama, das ist nicht dein Tagebuch!",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Er fand mich in der Küche, durchnässt vom Regen.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000027",
+            "windowTitle":"Nachricht von Liz",
+            "messages":[
+                { 
+                    "from":"Liz",
+                    "text":"Ziehen Sie nun den Inbusschlüssel fest und Ihr Futon ist fertig.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Danke! Ich bin Froh, dass ihr Unternehmen hilft!",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Und sorry, dass ich weinen musste, als ich keinen Imbusschlüssel fand.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Liz",
+                    "text":"Passiert ständig.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000028",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Hast du Quizduell von meinem Handy gelöscht?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Das spielt keiner mehr",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Mir egal! Ich liebe es!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000029",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Hast du auch nen harten Tag?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Ja. Die letzte Nacht war irre.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Warum haben wir so viel gesoffen?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000030",
+            "windowTitle":"Nachricht von Walt",
+            "messages":[
+                { 
+                    "from":"Walt",
+                    "text":"Hey, Eric!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Hi Onkel Walter",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Walt",
+                    "text":"Treffen sich 2 Jäger. Beide tot. :)",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"... der war noch nie lustig.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000031",
+            "windowTitle":"Nachricht von Luna23",
+            "messages":[
+                { 
+                    "from":"Luna23",
+                    "text":"Hey Süßer! Was machst du so? sexysingleswollendich.biz",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Mache mir einen leckeren Nudelsalat.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Luna23",
+                    "text":"Klingt heiß!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Nein, es ist Nudelsalat. Der ist kalt.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000032",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Ich habe eine Computerfrage.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Sorry, Hab grad zu tun. Passt später?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Ok, hoffentlich hört das Feuer bis dahin auf.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000033",
+            "windowTitle":"Nachricht von Mama",
+            "messages":[
+                { 
+                    "from":"Mama",
+                    "text":"Dein Cousin ist hier.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Wann kommst du rüber?",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Nach dem Spiel.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mama",
+                    "text":"Bitte mach schnell. Der ist gruselig.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000034",
+            "windowTitle":"Nachricht von Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Ich hatte wieder diesen Traum...",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Wir wollten doch nicht mehr drüber reden.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Es muss etwas bedeuten!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Eric",
+                    "text":"Ich muss los.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        }
+    ]
+}

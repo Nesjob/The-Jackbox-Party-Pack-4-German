@@ -1,0 +1,19 @@
+{
+    "episodeid": "00000000",
+    "content": [
+        { "text" : "Robin BigMac" },
+        { "text" : "Maike Hilmer" },
+        { "text" : "Helga Kersten" },
+        { "text" : "Inge Niehoff" },
+        { "text" : "David Goller" },
+        { "text" : "Anita Ladewig" },
+        { "text" : "Volker Feldkamp" },
+        { "text" : "Thorsten Kette" },
+        { "text" : "Cedric Krämer" },
+        { "text" : "Heiko Prill" },
+        { "text" : "Tobias Deichmann" },
+        { "text" : "Angela Wenzel" },
+        { "text" : "Sarah Mazing" },
+        { "text" : "Mia Kunz" }
+    ]
+}
