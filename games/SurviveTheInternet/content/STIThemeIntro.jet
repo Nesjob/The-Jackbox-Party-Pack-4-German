@@ -3,206 +3,206 @@
         { 
             "id":"00000000", 
             "applicableThemes":["News"], 
-            "responseText":"Let’s hunt him down.",
-            "twistText":"Local Man Wins Lottery" 
+            "responseText":"Wir müssen ihn jagen.",
+            "twistText":"Bewohner gewinnt im Lotto" 
         },
         { 
             "id":"00000001", 
             "applicableThemes":["Video"], 
-            "responseText":"Not that impressive tbh.",
-            "twistText":"Johnny Learns How to Ride a Bike!" 
+            "responseText":"beeindruckt mich kein bisschen.",
+            "twistText":"Jonas lernt Fahrrad fahren!" 
         },
         { 
             "id":"00000002", 
             "applicableThemes":["Store"], 
-            "responseText":"It’s not the most comfortable thing to sit on.",
-            "twistText":"18-inch Wooden Spoon" 
+            "responseText":"Es gibt auf jeden Fall bessere Sitzgelegenheiten.",
+            "twistText":"2m Holzlöffel" 
         },
         { 
             "id":"00000003", 
             "applicableThemes":["FriendFeed"], 
-            "responseText":"It’s got a decent 7-11.",
-            "twistText":"I’m off to see Rome!" 
+            "responseText":"Der Rewe soll ganz gut sein.",
+            "twistText":"Ich reise endlich nach Rom!" 
         },
         { 
             "id":"00000004", 
             "applicableThemes":["Chirp"], 
-            "responseText":"It wakes me up every morning.",
-            "twistText":"MyFarts" 
+            "responseText":"Weckt mich jeden morgen.",
+            "twistText":"MeineFürze" 
         },
         { 
             "id":"00000005", 
             "applicableThemes":["CrowdFund"], 
-            "responseText":"Some things are best kept in the dark.",
-            "twistText":"Help Me Fund My Movie" 
+            "responseText":"Manche Dinge sollten einfach im dunkeln bleiben.",
+            "twistText":"Helft mir meinen Film zu finanzieren" 
         },
         { 
             "id":"00000006", 
             "applicableThemes":["CheckIn"], 
-            "responseText":"Everything is delicious here.",
-            "twistText":"Chemical Factory" 
+            "responseText":"Alles hier ist super lecker.",
+            "twistText":"Chemie Labor" 
         },
         { 
             "id":"00000007", 
             "applicableThemes":["Recommend"], 
-            "responseText":"He’s always there for me.",
+            "responseText":"Er ist immer für mich da.",
             "twistText":"Satan" 
         },
         { 
             "id":"00000008", 
             "applicableThemes":["Forum"], 
-            "responseText":"They gross me out.",
-            "twistText":"How do you feel about hugs?" 
+            "responseText":"Sie ekeln mich an.",
+            "twistText":"Wie findet ihr Umarmungen?" 
         },
         { 
             "id":"00000009", 
             "applicableThemes":["Photo"], 
             "responseText":"",
-            "twistText":"I caught this weird dog." 
+            "twistText":"Ich habe diesen komischen Hund gefunden." 
         },
         { 
             "id":"00000010", 
             "applicableThemes":["Chirp"], 
-            "responseText":"It's my favorite gift to give.",
-            "twistText":"Lice" 
+            "responseText":"Ich liebe es, das zu verschenken.",
+            "twistText":"Läuse" 
         },
         { 
             "id":"00000011", 
             "applicableThemes":["Chirp"], 
-            "responseText":"It's breathtaking!",
-            "twistText":"Choking" 
+            "responseText":"Es ist atemberaubend!",
+            "twistText":"Ersticken" 
         },
         { 
             "id":"00000012", 
             "applicableThemes":["FriendFeed"], 
-            "responseText":"I'm skeptical.",
-            "twistText":"She said yes!" 
+            "responseText":"Da wäre ich mir nicht so sicher.",
+            "twistText":"Sie hat ja gesagt!" 
         },
         { 
             "id":"00000013", 
             "applicableThemes":["FriendFeed"], 
-            "responseText":"Glad to hear it!",
-            "twistText":"Today is the worst." 
+            "responseText":"Bin froh das zu hören!",
+            "twistText":"Der Tag heute ist echt mist." 
         },
         { 
             "id":"00000014", 
             "applicableThemes":["Video"], 
-            "responseText":"Too much nudity.",
-            "twistText":"How to Play Guitar" 
+            "responseText":"Zu viel Nacktheit.",
+            "twistText":"Gitarren Tutorial" 
         },
         { 
             "id":"00000015", 
             "applicableThemes":["Video"], 
-            "responseText":"Jealous!",
-            "twistText":"Panda Giving Birth" 
+            "responseText":"Will auch!",
+            "twistText":"Panda wird geboren" 
         },
         { 
             "id":"00000016", 
             "applicableThemes":["Recommend"], 
-            "responseText":"He's very intimidating.",
-            "twistText":"a scarecrow" 
+            "responseText":"Er ist sehr bedrohlich.",
+            "twistText":"eine Vogelscheuche" 
         },
         { 
             "id":"00000017", 
             "applicableThemes":["Recommend"], 
-            "responseText":"She's lit!",
-            "twistText":"Joan of Arc" 
+            "responseText":"Eine Bereicherung für die Entertainment-Welt!",
+            "twistText":"Til Schweiger" 
         },
         { 
             "id":"00000018", 
             "applicableThemes":["CrowdFund"], 
-            "responseText":"I don't support terrorists.",
-            "twistText":"A New Type of Smartwatch" 
+            "responseText":"Ich unterstütze keine Terroristen.",
+            "twistText":"Eine ganz neue Uhr mit WLAN" 
         },
         { 
             "id":"00000019", 
             "applicableThemes":["CrowdFund"], 
-            "responseText":"They're overrated.",
-            "twistText":"I Need a New Heart" 
+            "responseText":"Die werden überbewertet.",
+            "twistText":"Ich brauche ein neues Herz" 
         },
         { 
             "id":"00000020", 
             "applicableThemes":["CheckIn"], 
-            "responseText":"Our server was an idiot.",
-            "twistText":"Self-serve Ice Cream Shop" 
+            "responseText":"Unsere Bedienung war ein Idiot.",
+            "twistText":"Selbstbedienungs-Eisdiele" 
         },
         { 
             "id":"00000021", 
             "applicableThemes":["CheckIn"], 
-            "responseText":"Everyone was rude.",
-            "twistText":"Missouri" 
+            "responseText":"Alle waren unfreundlich.",
+            "twistText":"Berlin" 
         },
         { 
             "id":"00000022", 
             "applicableThemes":["Store"], 
-            "responseText":"I don't care for the taste.",
-            "twistText":"Bubblewrap" 
+            "responseText":"Der Geschmack ist mir egal.",
+            "twistText":"Kaugummi" 
         },
         { 
             "id":"00000023", 
             "applicableThemes":["Store"], 
-            "responseText":"It's super flat.",
-            "twistText":"Table" 
+            "responseText":"Irgendwie super flach.",
+            "twistText":"Tisch" 
         },
         { 
             "id":"00000024", 
             "applicableThemes":["News"], 
-            "responseText":"Yawn.",
-            "twistText":"Bank Robber on the Loose" 
+            "responseText":"Gähn.",
+            "twistText":"Bankräuber ist ausgebrochen!" 
         },
         { 
             "id":"00000025", 
             "applicableThemes":["News"], 
-            "responseText":"The government is lying to you.",
+            "responseText":"Die Regierung lügt euch an.",
             "twistText":"18 Food Hacks" 
         },
         { 
             "id":"00000026", 
             "applicableThemes":["Forum"], 
-            "responseText":"The bathroom",
-            "twistText":"Where do you cry the most?" 
+            "responseText":"Das Badezimmer",
+            "twistText":"Wo weint ihr am meisten?" 
         },
         { 
             "id":"00000027", 
             "applicableThemes":["Forum"], 
-            "responseText":"Pretty terrible.",
-            "twistText":"How are you at your job?" 
+            "responseText":"Absolut katastrophal.",
+            "twistText":"Wie machst du dich in deinem Job?" 
         },
         { 
             "id":"00000028", 
             "applicableThemes":["Photo"], 
             "responseText":"",
-            "twistText":"We're engaged!" 
+            "twistText":"Wir sind verlobt!" 
         },
         { 
             "id":"00000029", 
             "applicableThemes":["Photo"], 
             "responseText":"",
-            "twistText":"Brunch with my bestie!" 
+            "twistText":"Brunch mit meinem Liebling!" 
         },
         { 
             "id":"00000030", 
             "applicableThemes":["Photo"], 
             "responseText":"",
-            "twistText":"He stole my wallet." 
+            "twistText":"Er hat mein Geld geklaut." 
         },
         { 
             "id":"00000031", 
             "applicableThemes":["Photo"], 
             "responseText":"",
-            "twistText":"Look how interesting my life is!" 
+            "twistText":"Schaut wie spannend mein Leben ist!" 
         },
         { 
             "id":"00000032", 
             "applicableThemes":["Photo"], 
             "responseText":"",
-            "twistText":"This better get a lot of likes!" 
+            "twistText":"Das bekommt hoffentlich viele Likes!" 
         },
         { 
             "id":"00000033", 
             "applicableThemes":["Photo"], 
             "responseText":"",
-            "twistText":"Freshest sushi in the city." 
+            "twistText":"Leckerste Sushi der Stadt." 
         },
         { 
             "id":"00000034", 
@@ -214,13 +214,13 @@
             "id":"00000035", 
             "applicableThemes":["Photo"], 
             "responseText":"",
-            "twistText":"This Ecco the Dolphin VR is amazing!" 
+            "twistText":"Dieses Delfin-VR-Spiel ist der Hammer!" 
         },
         { 
             "id":"00000036", 
             "applicableThemes":["Photo"], 
             "responseText":"",
-            "twistText":"Vacation life! #ImSoLonely" 
+            "twistText":"Endlich Urlaub gönnen! #IchBinEinsam" 
         }
     ]
 }
