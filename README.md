@@ -12,9 +12,9 @@ Synchro by
 
 ***Survive the Internet***
 -
-Translation by Ebcx92
+Translation by Ebcx92 & Erizzle
 
-Synchro by
+Synchro by Louis Coyote
 
 ***Monster Seeking Monster***
 -
