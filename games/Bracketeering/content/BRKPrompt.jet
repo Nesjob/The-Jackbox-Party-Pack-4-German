@@ -986,14 +986,14 @@
                     "text": "Spiel zu dem ein Live Kommentar am besten passen würde."
                 },
                 {
-                    "text": "Awesomest if adapted into a Jerry Bruckheimer action movie"
+                    "text": "Wäre als Michael Bay Film am coolsten."
                 },
                 {
-                    "text": "The best board game to play at a funeral"
+                    "text": "Würde auf einer Beerdigung am ehesten einheizen"
                 }
             ],
             "prompt": {
-                "text": "Name Any Board or Card Game"
+                "text": "Nenne ein Brett- oder Kartenspiel"
             },
             "facts": []
         },
@@ -1003,25 +1003,25 @@
                     "text": "Bazinga!"
                 },
                 {
-                    "text": "Did I do that?"
+                    "text": "Titel deines Sex Tapes"
                 },
                 {
-                    "text": "Danger, Will Robinson"
+                    "text": "Eiskalt"
                 },
                 {
                     "text": "D\u2019oh!"
                 },
                 {
-                    "text": "The numbers all go to 11"
+                    "text": "Die Kälte, sie ist nun ein Teil von mir"
                 },
                 {
                     "text": "Yabba Dabba Doo"
                 },
                 {
-                    "text": "This is Sparta!"
+                    "text": "Das ist Sparta!"
                 },
                 {
-                    "text": "Soylent Green is people!"
+                    "text": "Ich sehe tote Menschen!"
                 }
             ],
             "x": false,
@@ -1029,17 +1029,17 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Best pick-up line"
+                    "text": "Bester Anmachspruch,"
                 },
                 {
-                    "text": "Best fortune cookie fortune"
+                    "text": "Würde sich gut in einem Glückskeks machen."
                 },
                 {
-                    "text": "Best text message to receive from you mom"
+                    "text": "Beste Nachricht von deiner Mutter."
                 }
             ],
             "prompt": {
-                "text": "Quote any popular television or movie catchphrase"
+                "text": "Zitiere eine berühmte Catchphrase aus Film und Fernsehen."
             },
             "facts": []
         },
@@ -1049,10 +1049,10 @@
                     "text": "Bowser"
                 },
                 {
-                    "text": "Glass Joe"
+                    "text": "Link"
                 },
                 {
-                    "text": "Witcher\u2019s horse Roach"
+                    "text": "Plötze"
                 },
                 {
                     "text": "Luigi"
@@ -1064,10 +1064,10 @@
                     "text": "Kirby"
                 },
                 {
-                    "text": "Pac-Man"
+                    "text": "Duckhunt Duo"
                 },
                 {
-                    "text": "Q*Bert"
+                    "text": "Ezio"
                 }
             ],
             "x": true,
@@ -1075,45 +1075,45 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "The video game character you\u2019d most want to live as for one day"
+                    "text": "Als dieser Charakter würdest du am liebsten einen Tag verbringen."
                 },
                 {
-                    "text": "Which video game character would be the best rapper?"
+                    "text": "Welcher Charakter wäre der beste Rapper?"
                 },
                 {
-                    "text": "Which video game character probably enjoys sex the most"
+                    "text": "Welcher Charakter hätte am meisten Spaß an Sex?"
                 }
             ],
             "prompt": {
-                "text": "Name Any Video Game Character"
+                "text": "Nenne einen Videospielcharakter"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "speaking"
+                    "text": "Sprechen"
                 },
                 {
-                    "text": "combing"
+                    "text": "Kämmen"
                 },
                 {
-                    "text": "listening"
+                    "text": "Zuhören"
                 },
                 {
-                    "text": "wondering"
+                    "text": "Wundern"
                 },
                 {
-                    "text": "skiing"
+                    "text": "Skifahren"
                 },
                 {
-                    "text": "breathing"
+                    "text": "Atmen"
                 },
                 {
-                    "text": "floating"
+                    "text": "Treiben"
                 },
                 {
-                    "text": "drying"
+                    "text": "Trocknen"
                 }
             ],
             "x": true,
@@ -1121,45 +1121,45 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "The weirdest thing for hipsters to suddenly consider \u201ccool\u201d"
+                    "text": "Es würde dich am ehesten verwundern, wenn ein Hipster diese Sache plötzlich als hip abstempelt."
                 },
                 {
-                    "text": "The best activity to precede sex in an erotic film"
+                    "text": "Die beste Aktivität vor Sex in einem Erotikfilm"
                 },
                 {
-                    "text": "Coolest thing to be caught doing when you\u2019re pulled over for speeding"
+                    "text": "Es wäre am lustigsten, wenn dich die Polizei bei genau dieser Sache inspiziert."
                 }
             ],
             "prompt": {
-                "text": "Enter Any Word Ending in \u201cing\u201d"
+                "text": "Nenne eine Tätigkeit"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Phone Tone"
+                    "text": "Wackel Dackel"
                 },
                 {
-                    "text": "Fog Dog"
+                    "text": "Socken Rocken"
                 },
                 {
-                    "text": "Crazy Lazy"
+                    "text": "Rock Schock"
                 },
                 {
-                    "text": "Cat Hat"
+                    "text": "Katze Fratze"
                 },
                 {
                     "text": "Sand Land"
                 },
                 {
-                    "text": "Hair Lair"
+                    "text": "Haare Paare"
                 },
                 {
-                    "text": "Mad Pad"
+                    "text": "Krass Nass"
                 },
                 {
-                    "text": "Bag Tag"
+                    "text": "Sonne Tonne"
                 }
             ],
             "x": true,
@@ -1167,45 +1167,45 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Best name for a \u201860\u2019s Batman villain"
+                    "text": "Bester Name für einen Batman Bösewicht"
                 },
                 {
-                    "text": "Best name for an \u201880\u2019s pop duo"
+                    "text": "Bester Name für ein Pop Duo"
                 },
                 {
-                    "text": "Best nickname for your privates"
+                    "text": "Bester Spitzname für deine Weichteile"
                 }
             ],
             "prompt": {
-                "text": "Give Two Words That Rhyme"
+                "text": "Gib mir zwei Wörter die sich reimen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Wal-Mart"
+                    "text": "Lidl"
                 },
                 {
-                    "text": "Chili\u2019s"
+                    "text": "Rewe"
                 },
                 {
-                    "text": "Qdoba"
+                    "text": "Kaufland"
                 },
                 {
-                    "text": "Denny\u2019s"
+                    "text": "Denn\u2019s"
                 },
                 {
-                    "text": "IHOP"
+                    "text": "IKEA"
                 },
                 {
-                    "text": "Waffle House"
+                    "text": "Wonder Waffle"
                 },
                 {
-                    "text": "K-Mart"
+                    "text": "Kik"
                 },
                 {
-                    "text": "Autozone"
+                    "text": "Rossmann"
                 }
             ],
             "x": true,
@@ -1213,45 +1213,45 @@
             "category": "",
             "twists": [
                 {
-                    "text": "Best place to meet your romantic soul mate"
+                    "text": "Bester Platz um deinen Seelenverwandten zu treffen"
                 },
                 {
-                    "text": "Best place to go when drunk"
+                    "text": "Hier lohnt es sich am ehesten betrunken hinzugehen"
                 },
                 {
-                    "text": "If offered a million dollars, best name to give your child"
+                    "text": "Wenn du eine Millionen Euro bekommen würdest, würdest du dein Kind am ehesten so benennen"
                 }
             ],
             "prompt": {
-                "text": "Name Any Store or Recognizable Restaurant"
+                "text": "Nenne einen Laden oder ein Restaurant"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Hope Floats"
+                    "text": "Hotel Transsilvanien"
                 },
                 {
-                    "text": "The Boss Baby"
+                    "text": "Boss Baby"
                 },
                 {
-                    "text": "Independence Day 2"
+                    "text": "Independence Day"
                 },
                 {
-                    "text": "Batman v Superman"
+                    "text": "Batman vs Superman"
                 },
                 {
-                    "text": "Kong: Skull Island"
+                    "text": "Der Minion Film"
                 },
                 {
-                    "text": "Despicable Me 3"
+                    "text": "Ice Age"
                 },
                 {
                     "text": "The Emoji Movie"
                 },
                 {
-                    "text": "Power Rangers"
+                    "text": "Shrek"
                 }
             ],
             "x": false,
@@ -1259,17 +1259,17 @@
             "category": "Movie",
             "twists": [
                 {
-                    "text": "Movie that will probably hold up the best in 10 years"
+                    "text": "Film der sich die nächsten 10 Jahre am besten hält"
                 },
                 {
-                    "text": "The best movie to leave playing in your home to scare burglars"
+                    "text": "Bester Film zum einfach laufen lassen um Einbrecher abzuschrecken."
                 },
                 {
-                    "text": "Best movie title to work into your wedding vows"
+                    "text": "Bester Filmtitel zum Einbauen in dein Hochzeitsgelübde "
                 }
             ],
             "prompt": {
-                "text": "Name Any Movie"
+                "text": "Nenne einen Film"
             },
             "facts": []
         },
@@ -1279,25 +1279,25 @@
                     "text": "Twix"
                 },
                 {
-                    "text": "Three Musketeers"
+                    "text": "Mars"
                 },
                 {
                     "text": "Smarties"
                 },
                 {
-                    "text": "Milk duds"
+                    "text": "Jokolade"
                 },
                 {
-                    "text": "Swedish fish"
+                    "text": "Pick-Up"
                 },
                 {
-                    "text": "sourpatch kids"
+                    "text": "Hitschies"
                 },
                 {
-                    "text": "certs"
+                    "text": "MAOAM"
                 },
                 {
-                    "text": "life savers"
+                    "text": "Ahoj Brause"
                 }
             ],
             "x": true,
@@ -1305,45 +1305,45 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Best name for a professional dancer"
+                    "text": "Bester Name für einen professionellen Tänzer"
                 },
                 {
-                    "text": "Coolest candy for an evil witch to build her child-luring house out of"
+                    "text": "Viel besser als jedes Lebkuchenhaus, sind Häuser hieraus"
                 },
                 {
-                    "text": "Best candy to swallow whole"
+                    "text": "Am besten runterzuschlucken ohne zu Kauen."
                 }
             ],
             "prompt": {
-                "text": "Name Any Candy"
+                "text": "Nenne eine Süßigkeit"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "rover"
+                    "text": "Oreo"
                 },
                 {
-                    "text": "ruff"
+                    "text": "Nugget"
                 },
                 {
-                    "text": "scruffy"
+                    "text": "Zwiebel"
                 },
                 {
-                    "text": "sheldon"
+                    "text": "Luna"
                 },
                 {
-                    "text": "meowsy"
+                    "text": "Teddy"
                 },
                 {
-                    "text": "paws"
+                    "text": "Findus"
                 },
                 {
-                    "text": "waggles"
+                    "text": "Toby"
                 },
                 {
-                    "text": "snoopy"
+                    "text": "Stinki"
                 }
             ],
             "x": true,
@@ -1351,45 +1351,45 @@
             "category": "Name",
             "twists": [
                 {
-                    "text": "Best password to get into a speakeasy"
+                    "text": "Bestes Zoomkonferenz Passwort"
                 },
                 {
-                    "text": "Best thing to say at the end of a prayer instead of \u201cAmen\u201d"
+                    "text": "Bestes Wort das man nach einem Gebet statt Amen sagen kann"
                 },
                 {
-                    "text": "Weirdest thing for your proctologist to call your butt"
+                    "text": "Es würde dich am meisten verwundern, wenn dein Arzt deinen Hintern so betitelt"
                 }
             ],
             "prompt": {
-                "text": "Any Name For a Pet"
+                "text": "Nenne einen guten Namen für ein Haustier"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "frog"
+                    "text": "Frosch"
                 },
                 {
-                    "text": "peas"
+                    "text": "Erbsen"
                 },
                 {
-                    "text": "leaf"
+                    "text": "Blätter"
                 },
                 {
-                    "text": "green beans"
+                    "text": "Bohnen"
                 },
                 {
-                    "text": "zucchini"
+                    "text": "Zucchini"
                 },
                 {
-                    "text": "celery"
+                    "text": "Sellerie"
                 },
                 {
-                    "text": "cabbage"
+                    "text": "Salat"
                 },
                 {
-                    "text": "turtle"
+                    "text": "Schildkröte"
                 }
             ],
             "x": false,
@@ -1397,17 +1397,17 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Tastiest new juice box flavor"
+                    "text": "Bester Geschmack für eine Caprisonne"
                 },
                 {
-                    "text": "Best name for a hybrid car"
+                    "text": "Bester Name für ein Hybridauto"
                 },
                 {
-                    "text": "The best thing to cover yourself with as camouflage in the woods"
+                    "text": "Damit würdest du dich am ehesten eindecken, damit dich im Wald keiner entdecken kann."
                 }
             ],
             "prompt": {
-                "text": "Name Something that\u2019s green"
+                "text": "Nenne Etwas, was grün ist."
             },
             "facts": []
         },
