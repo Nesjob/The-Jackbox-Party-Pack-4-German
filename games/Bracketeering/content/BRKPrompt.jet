@@ -540,13 +540,13 @@
         {
             "decoys": [
                 {
-                    "text": "Piano Man"
+                    "text": "Haus am See"
                 },
                 {
-                    "text": "Smooth"
+                    "text": "Über den Wolken"
                 },
                 {
-                    "text": "Like a Rolling Stone"
+                    "text": "Mamma Mia"
                 },
                 {
                     "text": "Macarena"
@@ -558,7 +558,7 @@
                     "text": "Hey Jude"
                 },
                 {
-                    "text": "Low"
+                    "text": "Never Gonna Give You Up"
                 },
                 {
                     "text": "Every Breath You Take"
@@ -569,17 +569,17 @@
             "category": "Song",
             "twists": [
                 {
-                    "text": "Best entrance music to play whenever you walk into a room"
+                    "text": "Der Song der am ehesten spielen sollte, wenn du einen Raum betrittst."
                 },
                 {
-                    "text": "Best song for a barbershop quartet to sing"
+                    "text": "Bester Song für ein Schlager Remake"
                 },
                 {
-                    "text": "What our new national anthem should be"
+                    "text": "Bester Song für eine neue Nationalhymne."
                 }
             ],
             "prompt": {
-                "text": "Name Any Song"
+                "text": "Nenne einen Song"
             },
             "facts": []
         },
@@ -592,7 +592,7 @@
                     "text": "Jay Z"
                 },
                 {
-                    "text": "Tom Cruise"
+                    "text": "Mark Forster"
                 },
                 {
                     "text": "Brad PItt"
@@ -607,7 +607,7 @@
                     "text": "Justin Bieber"
                 },
                 {
-                    "text": "Bruce Springsteen"
+                    "text": "Til Schweiger"
                 }
             ],
             "x": true,
@@ -615,30 +615,30 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Most deserving of a swipe to the right on Tinder"
+                    "text": "Am ehesten ein Tinder Match."
                 },
                 {
-                    "text": "Best celebrity to endorse a brand of extra-large condoms"
+                    "text": "Bestes Werbegesicht für extragroße Kondome."
                 },
                 {
-                    "text": "Probably the best tipper"
+                    "text": "Gibt wahrscheinlich das meiste Trinkgeld."
                 }
             ],
             "prompt": {
-                "text": "Name Any Celebrity"
+                "text": "Nenne irgendeine prominente Person"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "The Godfather"
+                    "text": "Der Pate"
                 },
                 {
-                    "text": "The Dark Knight"
+                    "text": "Batman"
                 },
                 {
-                    "text": "12 Angry men"
+                    "text": "Mamma Mia"
                 },
                 {
                     "text": "Pulp Fiction"
@@ -650,10 +650,10 @@
                     "text": "Inception"
                 },
                 {
-                    "text": "It\u2019s a Wonderful Life"
+                    "text": "Get Out"
                 },
                 {
-                    "text": "Saving Private Ryan"
+                    "text": "Der Soldat Jamey Ryan"
                 }
             ],
             "x": false,
@@ -661,45 +661,45 @@
             "category": "Movie",
             "twists": [
                 {
-                    "text": "Best movie to have to watch three times a day every day for the rest of your life"
+                    "text": "Diesen Film würdest du am ehesten wählen, wenn du ihn jeden Tag dreimal für den Rest deines Lebens schauen müsstest."
                 },
                 {
-                    "text": "Worst pick for a child\u2019s first movie theatre experience"
+                    "text": "Schlechtester Film für den ersten Kinobesuch eines Kindes."
                 },
                 {
-                    "text": "Would make the best theme for one of those trendy Escape the Room experiences"
+                    "text": "Würde am ehesten einen coolen Escape Room abgeben."
                 }
             ],
             "prompt": {
-                "text": "Name Any Movie"
+                "text": "Nenne irgendeinen Film."
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "hot dogs"
+                    "text": "Hot Dogs"
                 },
                 {
-                    "text": "burgers"
+                    "text": "Burger"
                 },
                 {
-                    "text": "rolls"
+                    "text": "Brötchen"
                 },
                 {
-                    "text": "salad"
+                    "text": "Salat"
                 },
                 {
-                    "text": "brownies"
+                    "text": "Brownies"
                 },
                 {
-                    "text": "potato chips"
+                    "text": "Chips"
                 },
                 {
-                    "text": "salsa"
+                    "text": "Salsa"
                 },
                 {
-                    "text": "clam chowder"
+                    "text": "Erbsensuppe"
                 }
             ],
             "x": false,
@@ -707,45 +707,45 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "The food that tastes the best as leftovers"
+                    "text": "Dieses Gericht schmeckt nach einem Tag im Kühlschrank am ehesten noch gut."
                 },
                 {
-                    "text": "The coolest food to have growing on a tree in your yard"
+                    "text": "Wenn dieses Essen an Bäumen wachsen würde, sähe es am coolsten aus."
                 },
                 {
-                    "text": "Best flavor for a craft beer"
+                    "text": "Bester Geschmack für Likör."
                 }
             ],
             "prompt": {
-                "text": "Name Any Food Item"
+                "text": "Nenne ein Gericht."
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "red"
+                    "text": "rot"
                 },
                 {
-                    "text": "blue"
+                    "text": "blau"
                 },
                 {
-                    "text": "green"
+                    "text": "grün"
                 },
                 {
-                    "text": "white"
+                    "text": "weiß"
                 },
                 {
-                    "text": "yellow"
+                    "text": "gelb"
                 },
                 {
-                    "text": "black"
+                    "text": "schwarz"
                 },
                 {
                     "text": "orange"
                 },
                 {
-                    "text": "purple"
+                    "text": "lila"
                 }
             ],
             "x": false,
@@ -753,17 +753,17 @@
             "category": "Color",
             "twists": [
                 {
-                    "text": "Scariest color for your poop to be"
+                    "text": "Wenn deine Kacke diese Farbe hätte, würdest du dich am meisten erschrecken."
                 },
                 {
-                    "text": "The best color for a rebellious teenager\u2019s hair"
+                    "text": "Die beste Farbe für die Haare eines rebellischen Teens."
                 },
                 {
-                    "text": "Best color for a wedding gown"
+                    "text": "Beste Farbe für ein Hochzeitskleid."
                 }
             ],
             "prompt": {
-                "text": "Name Any Color"
+                "text": "Nenne eine Farbe."
             },
             "facts": []
         },
@@ -799,45 +799,45 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Most impressive personal reference for a job"
+                    "text": "Würde als Arbeitgeber in deinem Lebenslauf am coolsten aussehen."
                 },
                 {
-                    "text": "Would look the coolest with a mohawk"
+                    "text": "Würde mit einem Vokuhila am besten aussehen."
                 },
                 {
-                    "text": "Most likely to hit it off with Kim Jong Un"
+                    "text": "Würde am ehesten mit Kim Jong Un rummachen."
                 }
             ],
             "prompt": {
-                "text": "Name Any Celebrity"
+                "text": "Nenne irgendeine prominente Person."
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "vanilla"
+                    "text": "Vanille"
                 },
                 {
-                    "text": "chocolate"
+                    "text": "Schokolade"
                 },
                 {
-                    "text": "strawberry"
+                    "text": "Erdbeere"
                 },
                 {
-                    "text": "mint chocolate chip"
+                    "text": "After Eight"
                 },
                 {
-                    "text": "cookie dough"
+                    "text": "Cookie Dough"
                 },
                 {
-                    "text": "pistachio"
+                    "text": "Pistazie"
                 },
                 {
-                    "text": "butter pecan"
+                    "text": "Marzipan"
                 },
                 {
-                    "text": "cotton candy"
+                    "text": "Blau"
                 }
             ],
             "x": false,
@@ -845,24 +845,24 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Best name for a boy band"
+                    "text": "Bester Name für eine Boyband"
                 },
                 {
-                    "text": "Would taste the best as a baked potato topping"
+                    "text": "Würde am ehesten okay auf einer Backkartoffel schmecken."
                 },
                 {
-                    "text": "Tastiest lip-balm flavor"
+                    "text": "Bester Geschmack für einen Lippenbalsam."
                 }
             ],
             "prompt": {
-                "text": "Name an Ice Cream Flavor"
+                "text": "Nenne einen Eiscremegeschmack."
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Butterfinger"
+                    "text": "Mars"
                 },
                 {
                     "text": "Snickers"
@@ -871,19 +871,19 @@
                     "text": "Kit Kat"
                 },
                 {
-                    "text": "Hershey bar"
+                    "text": "Milka"
                 },
                 {
-                    "text": "3 Muskateers"
+                    "text": "Haribo Schlümpfe"
                 },
                 {
-                    "text": "Starburst"
+                    "text": "Lakritze"
                 },
                 {
-                    "text": "gummy bears"
+                    "text": "Gummibärchen"
                 },
                 {
-                    "text": "Twizzlers"
+                    "text": "Gebrannte Mandeln"
                 }
             ],
             "x": true,
@@ -891,45 +891,45 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Best candy to mix into a tub of movie popcorn"
+                    "text": "Würde als Popcorn Topping am besten schmecken."
                 },
                 {
-                    "text": "Coolest clown name"
+                    "text": "Coolster Clown Name"
                 },
                 {
-                    "text": "Best candy to grind into a powder and snort"
+                    "text": "Lässt sich am besten zu Puder verarbeiten und schnupfen "
                 }
             ],
             "prompt": {
-                "text": "Name Any Candy"
+                "text": "Nenne eine Süßigkeit"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "peanut butter and jelly"
+                    "text": "Erdnussbutter und Marmelade"
                 },
                 {
-                    "text": "street and road"
+                    "text": "Erdbeermarmeladenbrot mit Honig"
                 },
                 {
-                    "text": "slim and trim"
+                    "text": "kurz und knackig"
                 },
                 {
-                    "text": "nose and throat"
+                    "text": "Hals und Nase"
                 },
                 {
-                    "text": "tall and short"
+                    "text": "Käse und Weintrauben"
                 },
                 {
-                    "text": "burger and fries"
+                    "text": "Burger und Pommes"
                 },
                 {
-                    "text": "cops and robbers"
+                    "text": "Pizza und Käse"
                 },
                 {
-                    "text": "doctor and patient"
+                    "text": "Doktor und Patient"
                 }
             ],
             "x": false,
@@ -937,17 +937,17 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Best name for a vaudeville act"
+                    "text": "Bester Name für einen Schlagersong"
                 },
                 {
-                    "text": "Best nicknames for Alabama and Mississippi"
+                    "text": "Beste Bezeichnung für ein Liebespärchen"
                 },
                 {
-                    "text": "Best name for a secret society"
+                    "text": "Bester Name für eine Sekte"
                 }
             ],
             "prompt": {
-                "text": "Write Any Two Words and Place<br />\u201cand\u201d or \u201c&\u201d Between Them"
+                "text": "Nenne zwei Dinge und trenne sie durch ein und"
             },
             "facts": []
         },
@@ -957,25 +957,25 @@
                     "text": "UNO"
                 },
                 {
-                    "text": "Trivial Pursuit"
+                    "text": "Kniffel"
                 },
                 {
-                    "text": "Go Fish"
+                    "text": "Mensch-Ärger-Dich-Nicht"
                 },
                 {
-                    "text": "Checkers"
+                    "text": "Spiel des Lebens"
                 },
                 {
-                    "text": "Ants in the Pants"
+                    "text": "Mühle"
                 },
                 {
                     "text": "Monopoly"
                 },
                 {
-                    "text": "Sorry!"
+                    "text": "Cards Against Humanity"
                 },
                 {
-                    "text": "Boggle"
+                    "text": "Phase 10"
                 }
             ],
             "x": true,
@@ -983,7 +983,7 @@
             "category": "Game",
             "twists": [
                 {
-                    "text": "Game that would most benefit from a British soccer announcer<br />doing play-by-play"
+                    "text": "Spiel zu dem ein Live Kommentar am besten passen würde."
                 },
                 {
                     "text": "Awesomest if adapted into a Jerry Bruckheimer action movie"
