@@ -4,7 +4,7 @@
         {
             "decoys": [
                 {
-                    "text": "Adler"
+                    "text": "eagle"
                 },
                 {
                     "text": "whale"
@@ -19,13 +19,13 @@
                     "text": "a cool dog"
                 },
                 {
-                    "text": "jackal"
+                    "text": "Schakal"
                 },
                 {
-                    "text": "dinosaurs"
+                    "text": "Dinosaurier"
                 },
                 {
-                    "text": "elk"
+                    "text": "Elch"
                 }
             ],
             "x": false,
@@ -33,35 +33,35 @@
             "category": "Animal",
             "twists": [],
             "prompt": {
-                "text": "Freaking coolest animal"
+                "text": "Ein verdammt cooles Tier"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "largemouth bass"
+                    "text": "Anglerfisch"
                 },
                 {
-                    "text": "killer whale"
+                    "text": "Orca"
                 },
                 {
-                    "text": "barn swallow"
+                    "text": "Schwalbe"
                 },
                 {
-                    "text": "bluebird"
+                    "text": "Eisvogel"
                 },
                 {
-                    "text": "sewer rat"
+                    "text": "U-Bahn Ratte"
                 },
                 {
-                    "text": "king cobra"
+                    "text": "Riesenkobra"
                 },
                 {
-                    "text": "box turtle"
+                    "text": "Dosenschildkröte"
                 },
                 {
-                    "text": "snow leopard"
+                    "text": "Schneeleopard"
                 }
             ],
             "x": false,
@@ -69,64 +69,64 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Animal it would probably be coolest to have a conversation with"
+                    "text": "Ein Tier mit dem man ein cooles Gespräch führen könnte."
                 }
             ],
             "prompt": {
-                "text": "Name Any Animal"
+                "text": "Nenne irgendein Tier"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "running"
+                    "text": "Rennen"
                 },
                 {
-                    "text": "yawning"
+                    "text": "Gähnen"
                 },
                 {
-                    "text": "stretching"
+                    "text": "Stretchen"
                 },
                 {
-                    "text": "walking"
+                    "text": "Laufen"
                 },
                 {
-                    "text": "shouting"
+                    "text": "Schreien"
                 },
                 {
-                    "text": "bathing"
+                    "text": "Baden"
                 },
                 {
-                    "text": "grabbing"
+                    "text": "Grabschen"
                 },
                 {
-                    "text": "falling"
+                    "text": "Fallen"
                 }
             ],
             "x": false,
             "id": 49299,
-            "category": "Word",
+            "category": "Wort",
             "twists": [
                 {
-                    "text": "Best activity to suddenly become \u201cuncontrollable\u201d"
+                    "text": "Beste Tätigkeit um plötzlich dabei \u201causzurasten\u201d"
                 },
                 {
-                    "text": "Best title for a new British Soap Opera"
+                    "text": "Bester Titel für einen Til Schweiger Film"
                 },
                 {
-                    "text": "The dumbest thing to have as your middle name"
+                    "text": "Der schrecklichste Zweitname"
                 }
             ],
             "prompt": {
-                "text": "Enter any word ending in \u201cing\u201d"
+                "text": "Nenne eine \u201cTätigkeit\u201d"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Tom Hanks"
+                    "text": "Til Schweiger"
                 },
                 {
                     "text": "Will Smith"
@@ -138,7 +138,7 @@
                     "text": "Taylor Swift"
                 },
                 {
-                    "text": "Kylie Jenner"
+                    "text": "Günther Jauch"
                 },
                 {
                     "text": "Katy Perry"
@@ -147,7 +147,7 @@
                     "text": "Miley Cyrus"
                 },
                 {
-                    "text": "Orlando Bloom"
+                    "text": "Bully Herbig"
                 }
             ],
             "x": true,
@@ -155,45 +155,45 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Whose house would you most want to spend the night in?"
+                    "text": "In wessen Haus, würdest du am liebsten eine Nacht verbringen?"
                 },
                 {
-                    "text": "Most deserves a spanking"
+                    "text": "Verdient einen Popoklatscher"
                 },
                 {
-                    "text": "Coolest celebrity to name an elementary school after"
+                    "text": "Nach dieser Person sollte eine Grundschule benannt werden"
                 }
             ],
             "prompt": {
-                "text": "Name Any Celebrity"
+                "text": "Nenne irgendeine prominente Person"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Did I do that?"
+                    "text": "Space Taxi to the Sky"
                 },
                 {
-                    "text": "Live long and prosper."
+                    "text": "Möge die Macht mit dir sein"
                 },
                 {
-                    "text": "Don\u2019t have a cow, man."
+                    "text": "Drinnen ist sie größer."
                 },
                 {
-                    "text": "Good grief."
+                    "text": "Hey, listen!"
                 },
                 {
-                    "text": "Hey now!"
+                    "text": "Hasta La Vista, Baby!"
                 },
                 {
-                    "text": "I\u2019m king of the world!"
+                    "text": "Ich bin der König der Welt!"
                 },
                 {
-                    "text": "Say hello to my little friend!"
+                    "text": "Hier ist Johnny!"
                 },
                 {
-                    "text": "May the force be with you."
+                    "text": "Ich habe deinen Vater getötet."
                 }
             ],
             "x": false,
@@ -201,45 +201,45 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Most likely to hurt your political career if said in a debate"
+                    "text": "Wird am wahrscheinlichsten deine politische Karriere zerstören, wenn du es vor dem Bundestag sagst."
                 },
                 {
-                    "text": "Most worth paying to have skywritten"
+                    "text": "Sein Geld am ehesten wert, wenn ein Flugzeug es in den Himmel schreiben soll."
                 },
                 {
-                    "text": "Best Yelp review"
+                    "text": "Beste Google Maps Review"
                 }
             ],
             "prompt": {
-                "text": "Quote any popular television or movie catchphrase"
+                "text": "Zitiere eine Catchphrase aus Film und Fernsehen."
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Never give up."
+                    "text": "Gib niemals auf."
                 },
                 {
-                    "text": "It\u2019s ok to fail."
+                    "text": "Es ist ok manchmal zu verkacken."
                 },
                 {
-                    "text": "Reach for the stars."
+                    "text": "Greife nach den Sternen!"
                 },
                 {
-                    "text": "Picture them in their underwear."
+                    "text": "Stell sie dir einfach alle in Unterwäsche vor."
                 },
                 {
-                    "text": "Good things come to those who wait."
+                    "text": "Gute Dinge sind auf dem Weg zu dir."
                 },
                 {
-                    "text": "Never go to bed angry."
+                    "text": "Verlasse niemals wütend das Haus."
                 },
                 {
-                    "text": "Honesty is the best policy."
+                    "text": "Ehrlichkeit währt am längsten."
                 },
                 {
-                    "text": "Don\u2019t take no for an answer."
+                    "text": "Lass dich nicht so einfach abwimmeln."
                 }
             ],
             "x": false,
@@ -247,17 +247,17 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Most effective political slogan"
+                    "text": "Am effektivsten auf einem Wahlplakat."
                 },
                 {
-                    "text": "Best quote to put on an inspirational cat poster"
+                    "text": "Macht sich am besten auf einem Katzenposter."
                 },
                 {
-                    "text": "The perfect inscription on a tombstone"
+                    "text": "Macht auf einem Grabstein am ehesten was her."
                 }
             ],
             "prompt": {
-                "text": "Give a Good Piece of Advice"
+                "text": "Gebe einen guten Ratschlag."
             },
             "facts": []
         },
@@ -273,19 +273,19 @@
                     "text": "Instagram"
                 },
                 {
-                    "text": "Slack"
+                    "text": "LinkedIn"
                 },
                 {
-                    "text": "Uber"
+                    "text": "Lieferando"
                 },
                 {
-                    "text": "Lyft"
+                    "text": "Duolingo"
                 },
                 {
-                    "text": "GrubHub"
+                    "text": "PayPal"
                 },
                 {
-                    "text": "Venmo"
+                    "text": "YouTube"
                 }
             ],
             "x": false,
@@ -293,45 +293,45 @@
             "category": "Emoji",
             "twists": [
                 {
-                    "text": "The app that knows you the best"
+                    "text": "Diese App kennt dich am allerbesten."
                 },
                 {
-                    "text": "App that most deserves its own movie"
+                    "text": "App über die man am ehesten einen Film machen sollte."
                 },
                 {
-                    "text": "Most necessary app for your survival"
+                    "text": "Überlebenswichtigste App"
                 }
             ],
             "prompt": {
-                "text": "Name Any App on Your Phone"
+                "text": "Nenne irgendeine App, die du auf deinem Handy hast."
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "dog & ball"
+                    "text": "Hund & Ball"
                 },
                 {
-                    "text": "pen & paper"
+                    "text": "Stift & Papier"
                 },
                 {
-                    "text": "bowl & stickers"
+                    "text": "Salz & Pfeffer"
                 },
                 {
-                    "text": "hat and Shoe"
+                    "text": "Socke & Schuh"
                 },
                 {
-                    "text": "game & player"
+                    "text": "Brettspiel & Würfel"
                 },
                 {
-                    "text": "phone and pocket"
+                    "text": "Handy & Hülle"
                 },
                 {
-                    "text": "floor & ceiling"
+                    "text": "Boden & Decke"
                 },
                 {
-                    "text": "fire and water"
+                    "text": "Feuer & Wasser"
                 }
             ],
             "x": true,
@@ -339,13 +339,13 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Cutest title for a Saturday morning cartoon show"
+                    "text": "Niedlichster Titel für einen Samstagmorgen Cartoon"
                 },
                 {
-                    "text": "Best name for a truck stop"
+                    "text": "Bester Name für ein Tankstellenrestaurant"
                 },
                 {
-                    "text": "Best euphemism for dying"
+                    "text": "Bestes Synonym für Sterben"
                 }
             ],
             "prompt": {
@@ -356,28 +356,28 @@
         {
             "decoys": [
                 {
-                    "text": "zebra"
+                    "text": "Zebra"
                 },
                 {
-                    "text": "salmon"
+                    "text": "Lachs"
                 },
                 {
-                    "text": "whale"
+                    "text": "Wal"
                 },
                 {
-                    "text": "anteater"
+                    "text": "Ameisenbär"
                 },
                 {
-                    "text": "sheep"
+                    "text": "Schaf"
                 },
                 {
-                    "text": "pig"
+                    "text": "Schwein"
                 },
                 {
-                    "text": "rabbit"
+                    "text": "Hase"
                 },
                 {
-                    "text": "chipmunk"
+                    "text": "Backenhörnchen"
                 }
             ],
             "x": true,
@@ -385,45 +385,45 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Best animal to train to guard your children"
+                    "text": "Dieses Tier könnte deine Kinder am besten beschützen."
                 },
                 {
-                    "text": "Best tattoo to get on your butt"
+                    "text": "Beste Tattooidee für deinen Hintern."
                 },
                 {
-                    "text": "The animal that probably tastes the most like chicken"
+                    "text": "Das Tier, das am ehesten nach Hühnchen schmeckt."
                 }
             ],
             "prompt": {
-                "text": "Name Any Animal"
+                "text": "Nenne irgendein Tier."
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "running"
+                    "text": "Rennen"
                 },
                 {
-                    "text": "walking"
+                    "text": "Laufen"
                 },
                 {
-                    "text": "jumping"
+                    "text": "Springen"
                 },
                 {
-                    "text": "watching"
+                    "text": "Beobachten"
                 },
                 {
-                    "text": "listening"
+                    "text": "Zuhören"
                 },
                 {
-                    "text": "talking"
+                    "text": "Sprechen"
                 },
                 {
-                    "text": "pacing"
+                    "text": "Stolzieren"
                 },
                 {
-                    "text": "hopping"
+                    "text": "Hopsen"
                 }
             ],
             "x": true,
@@ -431,17 +431,17 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Most awesome thing to see yourself doing on the news"
+                    "text": "Damit würdest du in den Nachrichten allen die Schau stehlen."
                 },
                 {
-                    "text": "The best way to take your mind off sex"
+                    "text": "Der beste Weg nicht mehr über Sex nachzudenken."
                 },
                 {
-                    "text": "Would make the best Boy Scout merit badge"
+                    "text": "Wäre die beste Pfadpfinderauszeichnung."
                 }
             ],
             "prompt": {
-                "text": "Enter Any Word Ending in \u201cing\u201d"
+                "text": "Nenne irgendeine Tätigkeit."
             },
             "facts": []
         },
@@ -451,19 +451,19 @@
                     "text": "Superman"
                 },
                 {
-                    "text": "Lex Luther"
+                    "text": "Harley Quinn"
                 },
                 {
                     "text": "Batman"
                 },
                 {
-                    "text": "The Joker"
+                    "text": "Der Joker"
                 },
                 {
                     "text": "Wonder Woman"
                 },
                 {
-                    "text": "The Scarecrow"
+                    "text": "Megamind"
                 },
                 {
                     "text": "Bane"
@@ -477,30 +477,30 @@
             "category": "Super",
             "twists": [
                 {
-                    "text": "Superhero or supervillain you\u2019d most trust to get your food order right"
+                    "text": "Dieser Person würdest du am ehesten damit vertrauen, dir Essen zu bestellen."
                 },
                 {
-                    "text": "Look at the two villains and tell me which would be Most in need of a makeover"
+                    "text": "Wer bräuchte am ehesten ein komplettes Make Over?"
                 },
                 {
-                    "text": "Superhero or supervillain that should say \u201cI\u2019m sassy\u201d more often"
+                    "text": "Diese Person sollte sich häufiger einen Scherz erlauben."
                 }
             ],
             "prompt": {
-                "text": "Name Any Superhero or Supervillain"
+                "text": "Nenne deine liebste COmicfigur."
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Target"
+                    "text": "Lidl"
                 },
                 {
-                    "text": "Walmart"
+                    "text": "Penny"
                 },
                 {
-                    "text": "Taco Bell"
+                    "text": "REWE"
                 },
                 {
                     "text": "McDonalds"
@@ -509,7 +509,7 @@
                     "text": "Burger King"
                 },
                 {
-                    "text": "KFC"
+                    "text": "Netto"
                 },
                 {
                     "text": "IKEA"
@@ -523,17 +523,17 @@
             "category": "Store",
             "twists": [
                 {
-                    "text": "Best place for teens to loiter in if they have no other choices in their sad, small town"
+                    "text": "Hier hängen Teens am ehesten rum, weil ihre traurige, kleine Stadt sonst nichts hergibt."
                 },
                 {
-                    "text": "Most likely to be discovered is actually a drug front"
+                    "text": "Am ehesten nur ein Cover für eine Drogenmission."
                 },
                 {
-                    "text": "The first place a recently thawed caveman should go"
+                    "text": "Hierhin sollte ein frisch aufgetauter Höhlenmensch zuerst gehen."
                 }
             ],
             "prompt": {
-                "text": "Name Any Store or Recognizable Restaurant"
+                "text": "Nenne einen Laden oder ein Restaurant."
             },
             "facts": []
         },
