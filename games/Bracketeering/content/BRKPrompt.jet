@@ -1414,28 +1414,28 @@
         {
             "decoys": [
                 {
-                    "text": "chips and salsa"
+                    "text": "Tortillas und Dip"
                 },
                 {
-                    "text": "cops and robbers"
+                    "text": "Salz und Pfeffer"
                 },
                 {
-                    "text": "paper & pencils"
+                    "text": "Stift und Papier"
                 },
                 {
-                    "text": "hot and bothered"
+                    "text": "heiß und geil"
                 },
                 {
-                    "text": "hair and skin"
+                    "text": "Haut und Haar"
                 },
                 {
-                    "text": "orange & yogurt"
+                    "text": "Engel und Dämon"
                 },
                 {
-                    "text": "people & ghosts"
+                    "text": "Räuber und Gendarm"
                 },
                 {
-                    "text": "wood and water"
+                    "text": "Spiel und Spaß"
                 }
             ],
             "x": false,
@@ -1443,17 +1443,17 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Best name for a law firm"
+                    "text": "Bester Name für eine Anwaltskanzlei"
                 },
                 {
-                    "text": "Best name for a Disney Channel sitcom starring a set of twins"
+                    "text": "Bester Name für eine Disney Sitcom mit Zwillingen"
                 },
                 {
-                    "text": "Best diner-speak slang for \u201ceggs and sausages\u201d"
+                    "text": "Bestes Synonym für Eier und Bacon"
                 }
             ],
             "prompt": {
-                "text": "Write Any Two Words and Place<br />\u201cand\u201d or \u201c&\u201d Between Them"
+                "text": "Schreibe zwei beliebige Worte und trenne sie durch ein und"
             },
             "facts": []
         },
@@ -1469,19 +1469,19 @@
                     "text": "Cleopatra"
                 },
                 {
-                    "text": "Alexander the Great"
+                    "text": "Michael Jackson"
                 },
                 {
-                    "text": "JFK"
+                    "text": "Marie Curie"
                 },
                 {
-                    "text": "FDR"
+                    "text": "Caesar"
                 },
                 {
-                    "text": "Winston Churchill"
+                    "text": "Prinzessin Diana"
                 },
                 {
-                    "text": "Johannes Gutenberg"
+                    "text": "Stephen Hawking"
                 }
             ],
             "x": true,
@@ -1489,30 +1489,30 @@
             "category": "People",
             "twists": [
                 {
-                    "text": "Most annoying historical figure to be stuck in a car with"
+                    "text": "Diese Person wäre am nervigsten, wenn man zusammen mit ihr in einem Auto feststecken würde"
                 },
                 {
-                    "text": "Would probably have the best Twitter feed"
+                    "text": "Würde wahrscheinlich die besten Tweets schreiben"
                 },
                 {
-                    "text": "Most likely to \u201cget around\u201d"
+                    "text": "Hüpft am ehesten von Bett zu Bett"
                 }
             ],
             "prompt": {
-                "text": "Name Any Historical Figure"
+                "text": "Nenne irgendeine historische Figur"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Kyle"
+                    "text": "Sprotte"
                 },
                 {
-                    "text": "Mary"
+                    "text": "Konrad"
                 },
                 {
-                    "text": "Ramon"
+                    "text": "Wilhelm"
                 },
                 {
                     "text": "Ariel"
@@ -1527,7 +1527,7 @@
                     "text": "Paul"
                 },
                 {
-                    "text": "Janet"
+                    "text": "Susanne"
                 }
             ],
             "x": false,
@@ -1535,45 +1535,45 @@
             "category": "Names",
             "twists": [
                 {
-                    "text": "Best name for a kitten"
+                    "text": "Bester Name für ein Kätzchen"
                 },
                 {
-                    "text": "Coolest name for a Blues singer\u2019s guitar"
+                    "text": "Coolster Name für die Gitarre eines Blues Sängers"
                 },
                 {
-                    "text": "Best new name for the state of Florida"
+                    "text": "Bester neuer Name für Berlin"
                 }
             ],
             "prompt": {
-                "text": "A first Name You\u2019d Like To Have"
+                "text": "Ein Vorname den du gerne hättest"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Never give up."
+                    "text": "Gib niemals auf."
                 },
                 {
-                    "text": "Reach for the stars."
+                    "text": "Greife nach den Sternen."
                 },
                 {
-                    "text": "Stay hungry."
+                    "text": "Bleib hungrig."
                 },
                 {
-                    "text": "Never go to bed angry."
+                    "text": "Verlasse nie wütend das Haus."
                 },
                 {
-                    "text": "You miss the shots you don\u2019t take."
+                    "text": "Nutze jede Chance."
                 },
                 {
-                    "text": "Don\u2019t get into a lot of debt."
+                    "text": "Sammle dir keine Schulden an."
                 },
                 {
-                    "text": "Study something practical"
+                    "text": "Lerne etwas praktisches"
                 },
                 {
-                    "text": "Invest early."
+                    "text": "Investiere frühstmöglich."
                 }
             ],
             "x": false,
@@ -1581,45 +1581,45 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Kindest line to dump someone with"
+                    "text": "Wenn du so Schluss machst, wird es dir am ehesten niemand verübeln."
                 },
                 {
-                    "text": "Best quote to inaccurately attribute to Gandhi"
+                    "text": "Am lustigsten, wenn Gandhi es gesagt hätte."
                 },
                 {
-                    "text": "Best title for a country song"
+                    "text": "Bester Titel für einen Schlager-Song"
                 }
             ],
             "prompt": {
-                "text": "Give a Good Piece of Advice"
+                "text": "Gib einen guten Ratschlag"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "smiley face"
+                    "text": "Tränenlachemoji"
                 },
                 {
-                    "text": "clapping"
+                    "text": "Klatschen"
                 },
                 {
-                    "text": "crying face"
+                    "text": "Weinen"
                 },
                 {
-                    "text": "heart"
+                    "text": "Herz"
                 },
                 {
-                    "text": "eggplant"
+                    "text": "Aubergine"
                 },
                 {
-                    "text": "thumbs up"
+                    "text": "Daumen hoch"
                 },
                 {
-                    "text": "praying"
+                    "text": "beten"
                 },
                 {
-                    "text": "frowny face"
+                    "text": "trauriges Gesicht"
                 }
             ],
             "x": false,
@@ -1627,45 +1627,45 @@
             "category": "Emoji",
             "twists": [
                 {
-                    "text": "Best mascot for a new pro football team"
+                    "text": "Bestes Maskottchen für ein Fussballteam"
                 },
                 {
-                    "text": "Prettiest decoration for a beauty parlor"
+                    "text": "Schönste Dekoration für einen Beauty Salon"
                 },
                 {
-                    "text": "Best emoji to text the police instead of 911"
+                    "text": "Bestes Emoji um damit die Polizei zu kontaktieren"
                 }
             ],
             "prompt": {
-                "text": "Describe Any Emoji"
+                "text": "Beschreibe irgendein Emoji"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "You suck."
+                    "text": "Du bist doof."
                 },
                 {
-                    "text": "Screw you."
+                    "text": "Ach, halt die Klappe."
                 },
                 {
-                    "text": "You\u2019re a loser."
+                    "text": "Du bist ein Loser."
                 },
                 {
-                    "text": "Give up."
+                    "text": "Gib einfach auf."
                 },
                 {
-                    "text": "You\u2019re boring."
+                    "text": "Du bist langweilig."
                 },
                 {
-                    "text": "You smell bad."
+                    "text": "Du riechst schlecht."
                 },
                 {
                     "text": "Nerd!"
                 },
                 {
-                    "text": "You idiot!"
+                    "text": "Du Dummerchen!"
                 }
             ],
             "x": false,
@@ -1673,45 +1673,45 @@
             "category": "Sentence",
             "twists": [
                 {
-                    "text": "Best tagline for a \u201cReal Housewife\u201d to say during the opening credits"
+                    "text": "Beste Catchphrase für eine Cartoonfigur"
                 },
                 {
-                    "text": "Best name for a restaurant where the waiters insult you"
+                    "text": "Bester Name für ein Restaurant, in dem du von Kellnern beleidigt wirst"
                 },
                 {
-                    "text": "Best pet name"
+                    "text": "Bester Name für ein Haustier"
                 }
             ],
             "prompt": {
-                "text": "Give Any Short Insult"
+                "text": "Beleidige mich kurz und knackig!"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "brick and brack"
+                    "text": "Knick und Knack"
                 },
                 {
-                    "text": "hot and ready"
+                    "text": "einfach und schwer"
                 },
                 {
-                    "text": "bug & insect"
+                    "text": "Insekt und Spinne"
                 },
                 {
-                    "text": "hair & ham"
+                    "text": "Haar und Schinken"
                 },
                 {
-                    "text": "woods & lake"
+                    "text": "Wälder und Seen"
                 },
                 {
-                    "text": "water & soil"
+                    "text": "Wasser und Erde"
                 },
                 {
-                    "text": "paper and pens"
+                    "text": "Stift und Papier"
                 },
                 {
-                    "text": "socks & sandals"
+                    "text": "Socken und Sandalen"
                 }
             ],
             "x": false,
@@ -1719,27 +1719,27 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Best names for a pair of scary junkyard guard dogs"
+                    "text": "Bester Name für ein paar Schrottplatz Hunde "
                 },
                 {
-                    "text": "Best name for an acoustic guitar rock duo"
+                    "text": "Bester Name für ein Rockgitarrenduo"
                 },
                 {
-                    "text": "Best name for a farm-to-table restaurant"
+                    "text": "Bester Name für ein veganes Restaurant"
                 }
             ],
             "prompt": {
-                "text": "Write Any Two Words and Place<br />\u201cand\u201d or \u201c&\u201d Between Them"
+                "text": "Nenne zwei beliebige Worte und trenne sie durch und"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Oasis"
+                    "text": "BTS"
                 },
                 {
-                    "text": "Third Eye Blind"
+                    "text": "BlackPink"
                 },
                 {
                     "text": "Nsync"
@@ -1748,10 +1748,10 @@
                     "text": "Backstreet Boys"
                 },
                 {
-                    "text": "Pearl Jam"
+                    "text": "Rammstein"
                 },
                 {
-                    "text": "Chumbawamba"
+                    "text": "Silbermond"
                 },
                 {
                     "text": "Red Hot Chili Peppers"
@@ -1765,45 +1765,45 @@
             "category": "People",
             "twists": [
                 {
-                    "text": "Band that the most people got pregnant to, probably"
+                    "text": "Band die wahrscheinlich bei den meisten Leuten im Hintergrund gespielt hat, als sie schwanger wurden"
                 },
                 {
-                    "text": "Most likely to be heard at the mall"
+                    "text": "Spielt am wahrscheinlichsten gerade in irgendeinem Einkaufszentrum"
                 },
                 {
-                    "text": "Mostly likely to be working at the mall"
+                    "text": "Arbeitet am wahrscheinlichsten heute in einem Einkaufszentrum"
                 }
             ],
             "prompt": {
-                "text": "Name Any Band From the \u201890s or Early 2000s"
+                "text": "Nenne irgendeine Band."
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "mustard"
+                    "text": "Senf"
                 },
                 {
-                    "text": "ketchup"
+                    "text": "Ketchup"
                 },
                 {
-                    "text": "relish"
+                    "text": "Tartar Soße"
                 },
                 {
-                    "text": "sprinkles"
+                    "text": "Streusel"
                 },
                 {
-                    "text": "cream cheese"
+                    "text": "Pudding"
                 },
                 {
-                    "text": "mayo"
+                    "text": "Mayo"
                 },
                 {
-                    "text": "bbq sauce"
+                    "text": "BBQ Soße"
                 },
                 {
-                    "text": "ranch"
+                    "text": "Ranch Dressing"
                 }
             ],
             "x": true,
@@ -1811,17 +1811,17 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Best vape flavor"
+                    "text": "Bester Vape Geschmack"
                 },
                 {
-                    "text": "Best replacement for the jelly in a jelly donut"
+                    "text": "Würde als Donutfüllung am besten schmecken"
                 },
                 {
-                    "text": "Best thing to shoot out of a cannon"
+                    "text": "Wäre am lustigsten, wenn man es aus einer Kanone schießt"
                 }
             ],
             "prompt": {
-                "text": "Name any condiment or topping that you put on top of,<br />spread on or sprinkle over other foods"
+                "text": "Nenne irgendein Gewürz oder ein Topping, was auf andere Gerichte obendrauf kommt"
             },
             "facts": []
         },
@@ -1837,7 +1837,7 @@
                     "text": "Sony"
                 },
                 {
-                    "text": "Dell"
+                    "text": "ASUS"
                 },
                 {
                     "text": "HP"
@@ -1857,24 +1857,24 @@
             "category": "Name",
             "twists": [
                 {
-                    "text": "Best name for a new Star Trek planet"
+                    "text": "Bester Name für einen Star Trek Planeten"
                 },
                 {
-                    "text": "Coolest name for a robot cop"
+                    "text": "Coolster Name für einen Roboter Polizisten"
                 },
                 {
-                    "text": "Best name for a new wave band"
+                    "text": "Bester Name für eine New Wave Band"
                 }
             ],
             "prompt": {
-                "text": "Any Electronic Brand Name"
+                "text": "Nenne irgendeine Elektronikmarke"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Venmo"
+                    "text": "PayPal"
                 },
                 {
                     "text": "Facebook"
@@ -1886,16 +1886,16 @@
                     "text": "Instagram"
                 },
                 {
-                    "text": "Lyft"
+                    "text": "Tinder"
                 },
                 {
-                    "text": "Uber"
+                    "text": "Duolingo"
                 },
                 {
-                    "text": "GrubHub"
+                    "text": "Babbel"
                 },
                 {
-                    "text": "Slack"
+                    "text": "Parship"
                 }
             ],
             "x": false,
@@ -1903,45 +1903,45 @@
             "category": "Emoji",
             "twists": [
                 {
-                    "text": "Best app to show someone from the past"
+                    "text": "Wenn du Zeitreisender wärst, würdest du diese App am ehesten rumzeigen"
                 },
                 {
-                    "text": "Most likely to destroy you if it becomes sentient"
+                    "text": "Würde am ehesten die Weltherrschaft an sich reißen, wenn sie ein Gewissen entwickeln würde."
                 },
                 {
-                    "text": "Easiest app to get your parents to understand and use"
+                    "text": "Diese App könntest du deinen Eltern am einfachsten erklären"
                 }
             ],
             "prompt": {
-                "text": "Name Any App on Your Phone"
+                "text": "Nenne eine App, die du auf deinem Handy hast"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "black"
+                    "text": "schwarz"
                 },
                 {
-                    "text": "brown"
+                    "text": "braun"
                 },
                 {
-                    "text": "gray"
+                    "text": "grau"
                 },
                 {
-                    "text": "navy blue"
+                    "text": "blau"
                 },
                 {
-                    "text": "charcoal"
+                    "text": "violett"
                 },
                 {
-                    "text": "cream"
+                    "text": "gelb"
                 },
                 {
-                    "text": "tan"
+                    "text": "beige"
                 },
                 {
-                    "text": "chestnut"
+                    "text": "flieder"
                 }
             ],
             "x": false,
@@ -1949,45 +1949,45 @@
             "category": "Color",
             "twists": [
                 {
-                    "text": "Sweetest color for a wedding tux"
+                    "text": "Schönste Farbe für einen Hochzeitsanzug"
                 },
                 {
-                    "text": "The color that best describes the feeling after pooping"
+                    "text": "Die Farbe die am besten das Gefühl beschreibt nachdem man einen abgeseilt hat"
                 },
                 {
-                    "text": "The scariest color for the glowing eyes under your bed"
+                    "text": "Die gruseligste Farbe für bedrohlich leuchtende Augen unter deinem Bett"
                 }
             ],
             "prompt": {
-                "text": "Name Any Color"
+                "text": "Nenne irgendeine Farbe"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "rice"
+                    "text": "Reis"
                 },
                 {
-                    "text": "raisin bran"
+                    "text": "Cornflakes"
                 },
                 {
-                    "text": "yogurt"
+                    "text": "Jogurt"
                 },
                 {
-                    "text": "bananas"
+                    "text": "Bananen"
                 },
                 {
-                    "text": "green tea"
+                    "text": "Grüner Tee"
                 },
                 {
-                    "text": "birthday cake"
+                    "text": "Benjamin Blümchen Torte"
                 },
                 {
-                    "text": "flour"
+                    "text": "Mehl"
                 },
                 {
-                    "text": "spaghetti"
+                    "text": "Spaghetti"
                 }
             ],
             "x": false,
@@ -1995,45 +1995,45 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Food that\u2019s improved the most if you add bacon"
+                    "text": "Essen das am meisten von Bacon profitieren würde"
                 },
                 {
-                    "text": "Easiest food to eat a crazy amount of in an eating contest"
+                    "text": "Bestes Essen für einen Esswettbewerb"
                 },
                 {
-                    "text": "Best food to have stuck in your teeth on a date"
+                    "text": "Essen das bei einem Date am ehesten zwischen deinen Zähnen hängenbleibt"
                 }
             ],
             "prompt": {
-                "text": "Name Any Food Item"
+                "text": "Nenne irgendein Essen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Napping"
+                    "text": "Schlafen"
                 },
                 {
-                    "text": "staring"
+                    "text": "Starren"
                 },
                 {
-                    "text": "snoring"
+                    "text": "Schnarchen"
                 },
                 {
-                    "text": "listening"
+                    "text": "Zuhören"
                 },
                 {
-                    "text": "reading"
+                    "text": "Lesen"
                 },
                 {
-                    "text": "back to school shopping"
+                    "text": "Shopping"
                 },
                 {
-                    "text": "birdwatching"
+                    "text": "Beobachten"
                 },
                 {
-                    "text": "learning"
+                    "text": "Ertrinken"
                 }
             ],
             "x": true,
@@ -2041,45 +2041,45 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Coolest thing to do in virtual reality"
+                    "text": "Würde in VR am ehesten Spaß machen"
                 },
                 {
-                    "text": "The hardest thing to do while drunk"
+                    "text": "Am schwersten, wenn du betrunken bist"
                 },
                 {
-                    "text": "What every parent should teach their child"
+                    "text": "Das sollte alle Eltern ihren Kindern unbedingt beibringen"
                 }
             ],
             "prompt": {
-                "text": "Enter Any Word Ending in \u201cing\u201d"
+                "text": "Nenne eine Tätigkeit"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Don Quixote"
+                    "text": "Eine weihnachtsgeschichte"
                 },
                 {
-                    "text": "Wuthering Heights"
+                    "text": "Moby Dick"
                 },
                 {
-                    "text": "The Scarlet Letter"
+                    "text": "Das Wandelnde Schloss"
                 },
                 {
-                    "text": "Brave New World"
+                    "text": "Unten am Fluss"
                 },
                 {
-                    "text": "Catcher in the Rye"
+                    "text": "In 80 Tagen um die Welt"
                 },
                 {
-                    "text": "On the Road"
+                    "text": "Der Schwarze Turm"
                 },
                 {
-                    "text": "War and Peace"
+                    "text": "Harry Potter"
                 },
                 {
-                    "text": "A Room of One\u2019s Own"
+                    "text": "Die Tribute von Panem"
                 }
             ],
             "x": true,
@@ -2087,45 +2087,45 @@
             "category": "Books",
             "twists": [
                 {
-                    "text": "Best book to add \u201cin Bed\u201d to the end of the title"
+                    "text": "Am lustigsten, wenn man \u201cim Bett\u201d hinter den Titel setzt"
                 },
                 {
-                    "text": "Best name for a hip cocktail bar"
+                    "text": "Bester Name für eine hippe Cocktail Bar"
                 },
                 {
-                    "text": "The best book to read to a toddler before bed"
+                    "text": "Am besten geeignet um es einem Kind vor der Schlafenszeit vorzulesen"
                 }
             ],
             "prompt": {
-                "text": "Name Any Classic Book"
+                "text": "Nenne irgendein Buch"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "blarg"
+                    "text": "oof"
                 },
                 {
-                    "text": "tootles"
+                    "text": "yeet"
                 },
                 {
-                    "text": "wooooop"
+                    "text": "ohje"
                 },
                 {
-                    "text": "lulu"
+                    "text": "Salami"
                 },
                 {
-                    "text": "raisinette"
+                    "text": "Wackelpudding"
                 },
                 {
-                    "text": "muffintoe"
+                    "text": "Augensand"
                 },
                 {
-                    "text": "eyegunk"
+                    "text": "Ekellippe"
                 },
                 {
-                    "text": "nosedrip"
+                    "text": "Naselaufen"
                 }
             ],
             "x": false,
@@ -2133,17 +2133,17 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "The best name for a new Dr. Seuss location"
+                    "text": "Der beste Name für ein Disneykönigreich"
                 },
                 {
-                    "text": "Best name for a racehorse"
+                    "text": "Der beste Name für ein Rennpferd"
                 },
                 {
-                    "text": "The best replacement name for England"
+                    "text": "Der beste Ersatz für England."
                 }
             ],
             "prompt": {
-                "text": "Give the Silliest Word You Can Think Of"
+                "text": "Gib mir das dämlichste Wort, das dir einfällt"
             },
             "facts": []
         },
