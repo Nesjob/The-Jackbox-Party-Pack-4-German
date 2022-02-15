@@ -2150,28 +2150,28 @@
         {
             "decoys": [
                 {
-                    "text": "icepick"
+                    "text": "Spitzhacke"
                 },
                 {
-                    "text": "tire iron"
+                    "text": "Bügeleisen"
                 },
                 {
-                    "text": "stun gun"
+                    "text": "Taser"
                 },
                 {
-                    "text": "shield"
+                    "text": "Schild"
                 },
                 {
-                    "text": "hockey stick"
+                    "text": "Hockey Schläger"
                 },
                 {
-                    "text": "hand grenade"
+                    "text": "Handgranate"
                 },
                 {
-                    "text": "board with a nail in it"
+                    "text": "Morgenstern"
                 },
                 {
-                    "text": "death ray"
+                    "text": "Todesstrahl"
                 }
             ],
             "x": true,
@@ -2179,17 +2179,17 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Which weapon would you have if you were<br />the new Teenage Mutant Ninja Turtle?"
+                    "text": "Welche Waffe würdest du am ehsten für dich wählen, wenn du eine neue Teenage Mutant Ninja Turtle wärst?"
                 },
                 {
-                    "text": "Scariest name for your prison cellmate"
+                    "text": "Gruseligster Name für deinen Mitbewohner im Gefängnis"
                 },
                 {
-                    "text": "Best weapon to use as a vibrator (if you had to)"
+                    "text": "Am ehsten als Vibrator verwendbar (also, natürlich nur, wenn du das unbedingt müsstest)"
                 }
             ],
             "prompt": {
-                "text": "Name Any Weapon"
+                "text": "Nenne irgendeine Waffe"
             },
             "facts": []
         },
@@ -2199,25 +2199,25 @@
                     "text": "UNO"
                 },
                 {
-                    "text": "solitaire"
+                    "text": "Solitär"
                 },
                 {
-                    "text": "backgammon"
+                    "text": "Mühle"
                 },
                 {
-                    "text": "go fish"
+                    "text": "Wer war es?"
                 },
                 {
-                    "text": "Sorry!"
+                    "text": "Cluedo"
                 },
                 {
                     "text": "memory"
                 },
                 {
-                    "text": "yahtzee"
+                    "text": "Kniffel"
                 },
                 {
-                    "text": "scrabble"
+                    "text": "Scrabble"
                 }
             ],
             "x": false,
@@ -2225,45 +2225,45 @@
             "category": "Game",
             "twists": [
                 {
-                    "text": "Would make the best<br />televised game show"
+                    "text": "Würde die beste Gameshow abgeben"
                 },
                 {
-                    "text": "Best game to be trapped inside of, Jumanji-style"
+                    "text": "Bestes Spiel um darin Jumanji-mäßig gefangen genommen zu werden"
                 },
                 {
-                    "text": "Best title for your autobiography"
+                    "text": "Bester Titel für deine Autobiografie"
                 }
             ],
             "prompt": {
-                "text": "Name Any Board or Card Game"
+                "text": "Nenne irgendein Brett- oder Kartenspiel"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "horse and buggy"
+                    "text": "müde und kaputt"
                 },
                 {
-                    "text": "sleepy and tired"
+                    "text": "fix und fertig"
                 },
                 {
-                    "text": "steak and eggs"
+                    "text": "Bacon und Eier"
                 },
                 {
-                    "text": "ketchup and fries"
+                    "text": "Mayo und Ketchup"
                 },
                 {
-                    "text": "fire and water"
+                    "text": "Feuer und Wasser"
                 },
                 {
-                    "text": "socks and shoes"
+                    "text": "Socken und Schuhe"
                 },
                 {
-                    "text": "bread and water"
+                    "text": "Brot und Wasser"
                 },
                 {
-                    "text": "hook and sinker"
+                    "text": "angebissen und versenkt"
                 }
             ],
             "x": true,
@@ -2271,45 +2271,45 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Coolest name for a buddy cop action movie"
+                    "text": "Coolster Name für einen Cop-Film"
                 },
                 {
-                    "text": "Most likely to be veterinarian slang for inseminating a cow"
+                    "text": "Am ehesten Tierarztslang für das Befruchten einer Kuh"
                 },
                 {
-                    "text": "Best nicknames for Grandma and Grandpa"
+                    "text": "Beste Spitznamen für deine Großeltern"
                 }
             ],
             "prompt": {
-                "text": "Write Any Two Words and Place<br />\u201cand\u201d or \u201c&\u201d Between Them"
+                "text": "Schreibe zwei beliebige Worte und trenne sie durch ein und"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "You\u2019re mean"
+                    "text": "Du bist fies"
                 },
                 {
-                    "text": "You smell"
+                    "text": "Du stinkst"
                 },
                 {
-                    "text": "You\u2019re too tall"
+                    "text": "Du bist zu groß"
                 },
                 {
-                    "text": "You look like Frankenstein"
+                    "text": "Du siehst aus wie Frankensteins Monster"
                 },
                 {
-                    "text": "You have atrocious manners"
+                    "text": "Du hast schreckliche Manieren"
                 },
                 {
-                    "text": "You smell of cheap ham"
+                    "text": "Du riechst wie billiger Schinken"
                 },
                 {
-                    "text": "You\u2019re just a big dummy"
+                    "text": "Du bist ein großer Dummie"
                 },
                 {
-                    "text": "You\u2019re no Einstein"
+                    "text": "Deine Mudder"
                 }
             ],
             "x": true,
@@ -2317,45 +2317,45 @@
             "category": "Sentence",
             "twists": [
                 {
-                    "text": "Most likely thing to hear in a New York City cab"
+                    "text": "Würde man am ehesten in einer Berliner Seitenstraße hören"
                 },
                 {
-                    "text": "Best chant at a sporting event"
+                    "text": "Bester Anfeuerungsruf bei einer Sportveranstaltung"
                 },
                 {
-                    "text": "Best slogan for an airline"
+                    "text": "Bester Slogan für eine Fluggesellschaft"
                 }
             ],
             "prompt": {
-                "text": "Give any short insult"
+                "text": "Beleidige mich kurz und knackig"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "hard-boiled egg"
+                    "text": "7 Minuten Ei"
                 },
                 {
-                    "text": "raisin bran"
+                    "text": "Cornflakes"
                 },
                 {
-                    "text": "vegan bacon"
+                    "text": "Veganer Bacon"
                 },
                 {
-                    "text": "unflavored oatmeal"
+                    "text": "Haferflocken ohne irgendwas"
                 },
                 {
-                    "text": "cold pizza"
+                    "text": "kalte Pizza"
                 },
                 {
-                    "text": "granola"
+                    "text": "Müsliriegel"
                 },
                 {
                     "text": "Pop-Tarts"
                 },
                 {
-                    "text": "bran muffin"
+                    "text": "Muffin"
                 }
             ],
             "x": true,
@@ -2363,45 +2363,45 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "The best breakfast food to eat for dinner"
+                    "text": "Eignet sich am besten für Frühstück zum Abendbrot"
                 },
                 {
-                    "text": "The food to serve after a one night stand"
+                    "text": "Schmeckt nach einem One Night Stand am besten"
                 },
                 {
-                    "text": "The best thing to eat right after you get over the stomach flu"
+                    "text": "Bestes Essen nachdem man eine Magen-Darm-Grippe überstanden hat"
                 }
             ],
             "prompt": {
-                "text": "Name Any Breakfast Food"
+                "text": "Nenne irgendein Frühstücksessen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "extremely tired"
+                    "text": "verdammt müde"
                 },
                 {
-                    "text": "very angry"
+                    "text": "sehr wütend"
                 },
                 {
-                    "text": "livid"
+                    "text": "freudig"
                 },
                 {
-                    "text": "revolted"
+                    "text": "angeekelt"
                 },
                 {
-                    "text": "fear"
+                    "text": "ängstlich"
                 },
                 {
-                    "text": "sadness"
+                    "text": "traurig"
                 },
                 {
-                    "text": "new love joy"
+                    "text": "frisch verliebt"
                 },
                 {
-                    "text": "disgusted"
+                    "text": "angewidert"
                 }
             ],
             "x": true,
@@ -2409,45 +2409,45 @@
             "category": "Feelings",
             "twists": [
                 {
-                    "text": "The best emotion to inspire art"
+                    "text": "Die inspirierendste Emotion für Kunst"
                 },
                 {
-                    "text": "The best emotion if you could teach a robot just one"
+                    "text": "Wenn du einem Robot eine Emotion beibringen könntest, dann wäre es diese"
                 },
                 {
-                    "text": "Most inappropriate emotion to feel during a parent teacher conference"
+                    "text": "Wäre am unangebrachtesten während eines Elternabends"
                 }
             ],
             "prompt": {
-                "text": "Name a very specific emotion"
+                "text": "Nenne eine spezifische Emotion"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "rice vinegar"
+                    "text": "Reisessig"
                 },
                 {
-                    "text": "horseradish"
+                    "text": "Meerrettich"
                 },
                 {
-                    "text": "maple glaze"
+                    "text": "Ahornsirup"
                 },
                 {
-                    "text": "sriracha"
+                    "text": "Sriracha"
                 },
                 {
-                    "text": "sea salt"
+                    "text": "Meersalz"
                 },
                 {
-                    "text": "expired mustard"
+                    "text": "abgelaufener Senf"
                 },
                 {
-                    "text": "capers"
+                    "text": "Kapern"
                 },
                 {
-                    "text": "tobasco"
+                    "text": "Tabasco"
                 }
             ],
             "x": false,
@@ -2455,45 +2455,45 @@
             "category": "",
             "twists": [
                 {
-                    "text": "Best food to eat a whole bowl of"
+                    "text": "Von diesem Essen könnte man am besten direkt eine ganze Schüssel verdrücken"
                 },
                 {
-                    "text": "Best thing to replace water on a slip and slide"
+                    "text": "Bester Ersatz für Wasser auf einer Wasserrutsche"
                 },
                 {
-                    "text": "Best name for a puppy"
+                    "text": "Bester Name für einen Welpen"
                 }
             ],
             "prompt": {
-                "text": "Name any condiment or topping that you put on top of,<br />spread on or sprinkle over other foods"
+                "text": "Nenne ein Gewürz oder Topping, was man auf sein Essen tun kann"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "doctor"
+                    "text": "Doktor"
                 },
                 {
-                    "text": "farmer"
+                    "text": "Bauer"
                 },
                 {
-                    "text": "teacher"
+                    "text": "Lehrer"
                 },
                 {
                     "text": "CEO"
                 },
                 {
-                    "text": "lawyer"
+                    "text": "Anwalt"
                 },
                 {
-                    "text": "fireman"
+                    "text": "Feuerwehr"
                 },
                 {
-                    "text": "judge"
+                    "text": "Richter"
                 },
                 {
-                    "text": "programmer"
+                    "text": "Programmierer"
                 }
             ],
             "x": false,
@@ -2501,45 +2501,45 @@
             "category": "Job",
             "twists": [
                 {
-                    "text": "Strangest thing for a child to want to be when they grow up"
+                    "text": "Es wäre am komischsten, wenn ein Kind das als Jobwunsch hätte"
                 },
                 {
-                    "text": "Best setting for a workplace sitcom"
+                    "text": "Bestes Setting für eine Sitcom"
                 },
                 {
-                    "text": "Best theme for a professional wrestler"
+                    "text": "Bestes Theme für einen Wrestler"
                 }
             ],
             "prompt": {
-                "text": "Name Any Job or Occupation"
+                "text": "Nenne irgendeinen Beruf"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "coffee grounds"
+                    "text": "Kaffeesatz"
                 },
                 {
-                    "text": "used diapers"
+                    "text": "Benutzte Windeln"
                 },
                 {
-                    "text": "paper plates"
+                    "text": "Papierteller"
                 },
                 {
-                    "text": "paint cans"
+                    "text": "Farbeimer"
                 },
                 {
-                    "text": "old boots"
+                    "text": "alte Stiefel"
                 },
                 {
-                    "text": "chip bag"
+                    "text": "Chips"
                 },
                 {
-                    "text": "apple core"
+                    "text": "Apfelgrips"
                 },
                 {
-                    "text": "potato peels"
+                    "text": "Kartoffelschalen"
                 }
             ],
             "x": false,
@@ -2547,45 +2547,45 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Best thing to put in your mouth"
+                    "text": "Würdest du dir am ehesten in den Mund stecken"
                 },
                 {
-                    "text": "Best thing to try to \u201cregift\u201d"
+                    "text": "Bestes Geschenk"
                 },
                 {
-                    "text": "Most likely to contain a genie"
+                    "text": "Hierdrin versteckt sich am ehesten ein Dschinn"
                 }
             ],
             "prompt": {
-                "text": "Name Something You Might Find in<br />the Garbage or a Landfill"
+                "text": "Nenne etwas, was du wahrscheinlich in einem Mülleimer finden würdest"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "middle toe"
+                    "text": "mittlerer Zeh"
                 },
                 {
-                    "text": "kneecap"
+                    "text": "Kniescheibe"
                 },
                 {
-                    "text": "wisdom teeth"
+                    "text": "Weisheitszähne"
                 },
                 {
-                    "text": "ear lobe"
+                    "text": "Ohrläppchen"
                 },
                 {
-                    "text": "thumbnail"
+                    "text": "Daumennagel"
                 },
                 {
-                    "text": "uvula"
+                    "text": "Zäpfchen"
                 },
                 {
-                    "text": "prostate"
+                    "text": "Prostata"
                 },
                 {
-                    "text": "belly button"
+                    "text": "Bauchnabel"
                 }
             ],
             "x": true,
@@ -2593,45 +2593,45 @@
             "category": "Body",
             "twists": [
                 {
-                    "text": "If forced to choose, the body part you\u2019d make bigger"
+                    "text": "Wenn du dir ein Körperteil aussuchen zum Vergrößern aussuchen müsstest, wäre es dieses"
                 },
                 {
-                    "text": "Best nickname for a hitman"
+                    "text": "Bester Spitzname für einen Auftragsmörder"
                 },
                 {
-                    "text": "The most impressive body part to be able to shred on a guitar with"
+                    "text": "Es wäre ziemlich beeindruckend wenn du mit diesem Körperteil Gitarre spielen könntest"
                 }
             ],
             "prompt": {
-                "text": "Name Any Body Part"
+                "text": "Nenne ein Körperteil"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "trap doors"
+                    "text": "Falltür"
                 },
                 {
-                    "text": "polo horses"
+                    "text": "Polo Pferde"
                 },
                 {
-                    "text": "big vaults"
+                    "text": "Abflussrohre"
                 },
                 {
-                    "text": "long driveways"
+                    "text": "Autobahnen"
                 },
                 {
-                    "text": "a condor"
+                    "text": "einen Kondor"
                 },
                 {
-                    "text": "heated swimming pool"
+                    "text": "einen beheizten Pool "
                 },
                 {
-                    "text": "Rolls Royce"
+                    "text": "Kaviar"
                 },
                 {
-                    "text": "an airport"
+                    "text": "ein Flughafen"
                 }
             ],
             "x": false,
@@ -2639,17 +2639,17 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Best thing to give out as party favors"
+                    "text": "Das beste Mitbringsel auf einer Party"
                 },
                 {
-                    "text": "Most bitterly ironic thing to still have after you\u2019ve lost everything else"
+                    "text": "Es wäre am ironischsten, wenn dieses Ding dein einziger Besitztum wäre, nachdem du alles verloren hast"
                 },
                 {
-                    "text": "Best item to plate in gold and wear on a chain around your neck"
+                    "text": "Würde sich am besten in Gold an einer Kette um deinen Hals machen"
                 }
             ],
             "prompt": {
-                "text": "Name Something an Insanely Rich Person Probably Owns"
+                "text": "Nenne etwas, was eine verdammt reiche Person wahrscheinlich besitzt"
             },
             "facts": []
         },
@@ -2659,22 +2659,22 @@
                     "text": "Titanic"
                 },
                 {
-                    "text": "Gone With The Wind"
+                    "text": "Vom Winde verweht"
                 },
                 {
                     "text": "Forrest Gump"
                 },
                 {
-                    "text": "The Godfather"
+                    "text": "Der Pate"
                 },
                 {
-                    "text": "Braveheart"
+                    "text": "König der Löwen"
                 },
                 {
-                    "text": "Rear Window"
+                    "text": "Fight Club"
                 },
                 {
-                    "text": "Goodfellas"
+                    "text": "Parasite"
                 },
                 {
                     "text": "Pulp Fiction"
@@ -2685,45 +2685,45 @@
             "category": "Movie",
             "twists": [
                 {
-                    "text": "Best movie to remake with an all-monkey cast"
+                    "text": "Wäre am besten als Remake mit Affen statt menschlichen Schauspielern"
                 },
                 {
-                    "text": "Best pick if you can only speak from now on<br />using quotes from one movie"
+                    "text": "Wäre am nützlichsten, wenn du ab heute nur noch mit Zitaten aus diesen Film kommunizieren könntest"
                 },
                 {
-                    "text": "Movie with characters that would make the awesomest group<br />Halloween costume for you and your friends"
+                    "text": "Würde das beste Gruppen-Kostüm für dich und deine Freunde hergeben"
                 }
             ],
             "prompt": {
-                "text": "Name Any Movie"
+                "text": "Nenne irgendeinen Film"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "tom and jerry"
+                    "text": "Tom und Jerry"
                 },
                 {
-                    "text": "yin and yang"
+                    "text": "Yin und Yang"
                 },
                 {
-                    "text": "trinidad and tobago"
+                    "text": "Pfeife und Tobak"
                 },
                 {
-                    "text": "pros and cons"
+                    "text": "Pros und Cons"
                 },
                 {
-                    "text": "arts and crafts"
+                    "text": "Kunst und Skulpturen"
                 },
                 {
-                    "text": "blood and guts"
+                    "text": "Blut und Gedärme"
                 },
                 {
-                    "text": "cloak and dagger"
+                    "text": "Hexe und Katze"
                 },
                 {
-                    "text": "bait and switch"
+                    "text": "Flora und Fauna"
                 }
             ],
             "x": true,
@@ -2731,39 +2731,39 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Best slang for oral sex"
+                    "text": "Bester Slang für Oralverkehr"
                 }
             ],
             "prompt": {
-                "text": "Write Any Two Words and Place<br />\u201cand\u201d or \u201c&\u201d Between Them"
+                "text": "Nenne zwei beliebige Worte und trenne sie durch ein und"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "smelly"
+                    "text": "stinkig"
                 },
                 {
-                    "text": "hairy"
+                    "text": "haarig"
                 },
                 {
-                    "text": "tiny"
+                    "text": "klein"
                 },
                 {
-                    "text": "empty"
+                    "text": "leer"
                 },
                 {
-                    "text": "mighty"
+                    "text": "mächtig"
                 },
                 {
-                    "text": "goofy"
+                    "text": "dämlich"
                 },
                 {
-                    "text": "silly"
+                    "text": "lustig"
                 },
                 {
-                    "text": "feisty"
+                    "text": "verschmitzt"
                 }
             ],
             "x": true,
@@ -2771,45 +2771,45 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Best name for a grizzled truck driver"
+                    "text": "Bester Name für einen Truck Fahrer"
                 },
                 {
-                    "text": "Best movie title for a Meryl Streep Oscar winner"
+                    "text": "Bester Filmtitel für einen Oscar Gewinn"
                 },
                 {
-                    "text": "Coolest word to have tattooed above your junk"
+                    "text": "Eignet sich am besten für ein Intimtattoo"
                 }
             ],
             "prompt": {
-                "text": "Give any adjective that ends with a y"
+                "text": "Gib mir ein Adjektiv"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "running"
+                    "text": "Rennen"
                 },
                 {
-                    "text": "walking"
+                    "text": "Laufen"
                 },
                 {
-                    "text": "hunting"
+                    "text": "Jagen"
                 },
                 {
-                    "text": "skating"
+                    "text": "Skaten"
                 },
                 {
-                    "text": "punching"
+                    "text": "Schlagen"
                 },
                 {
-                    "text": "painting"
+                    "text": "Malen"
                 },
                 {
-                    "text": "sliding"
+                    "text": "Rutschen"
                 },
                 {
-                    "text": "driving"
+                    "text": "Fahren"
                 }
             ],
             "x": true,
