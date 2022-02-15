@@ -2817,45 +2817,45 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "The best excuse for being late"
+                    "text": "Die beste Entschuldigung dafür, dass man zu spät aufgetaucht ist."
                 },
                 {
-                    "text": "Best activity to do in the nude"
+                    "text": "Macht nackt am ehesten Spaß"
                 },
                 {
-                    "text": "Coolest thing to say you\u2019re in the middle of doing<br />when your parents call"
+                    "text": "Die beste Entschuldigung wenn deine Eltern anrufen, du aber nicht mit ihnen sprechen willst"
                 }
             ],
             "prompt": {
-                "text": "Enter Any Word Ending in \u201cing\u201d"
+                "text": "Nenne eine Tätigkeit"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "shark"
+                    "text": "Hai"
                 },
                 {
-                    "text": "seal"
+                    "text": "Robbe"
                 },
                 {
-                    "text": "walrus"
+                    "text": "Walross"
                 },
                 {
-                    "text": "sea lion"
+                    "text": "Seelöwe"
                 },
                 {
-                    "text": "otter"
+                    "text": "Otter"
                 },
                 {
-                    "text": "hippo"
+                    "text": "Nilpferd"
                 },
                 {
-                    "text": "clown fish"
+                    "text": "Clownfisch"
                 },
                 {
-                    "text": "salmon"
+                    "text": "Lachs"
                 }
             ],
             "x": true,
@@ -2863,45 +2863,45 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Coolest ocean buddy for Aquaman to summon"
+                    "text": "Coolster Sidekick für Aquaman"
                 },
                 {
-                    "text": "Most likely to save you if you were drowning"
+                    "text": "Würde dich am ehesten retten, wenn du ertrinkst"
                 },
                 {
-                    "text": "Aquatic animal that would look the best dressed up as a sexy bumblebee for Halloween"
+                    "text": "Würde am besten aussehen, wenn es sich an Halloween als sexy Hummel verkleiden würde"
                 }
             ],
             "prompt": {
-                "text": "Name Any Specific Aquatic Animal"
+                "text": "Nenne irgendein Tier, was im oder am Wasser lebt"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "spinich"
+                    "text": "Spinat"
                 },
                 {
-                    "text": "carrot"
+                    "text": "Karotte"
                 },
                 {
-                    "text": "bell pepper"
+                    "text": "Paprika"
                 },
                 {
-                    "text": "green beans"
+                    "text": "Grüne Bohnen"
                 },
                 {
-                    "text": "broccoli"
+                    "text": "Brokkoli"
                 },
                 {
-                    "text": "kale"
+                    "text": "Grünkohl"
                 },
                 {
-                    "text": "lettuce"
+                    "text": "Salat"
                 },
                 {
-                    "text": "mushrooms"
+                    "text": "Pilze"
                 }
             ],
             "x": true,
@@ -2909,45 +2909,45 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Coolest vegetable to name your biker gang after"
+                    "text": "Coolster Name für eine Biker Gang"
                 },
                 {
-                    "text": "The best vegetable to stuff in your pants and pretend are genitals"
+                    "text": "Eignet sich am besten dafür es in deine Hose zu stopfen und so aussehen zu lassen, als wäre es deine Genitalien."
                 },
                 {
-                    "text": "The tastiest cough syrup flavor"
+                    "text": "Der beste Geschmack für einen Hustensaft"
                 }
             ],
             "prompt": {
-                "text": "Name Any Vegetable"
+                "text": "Nenne ein Gemüse"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "peas"
+                    "text": "Erbsen"
                 },
                 {
-                    "text": "eggplant"
+                    "text": "Aubergine"
                 },
                 {
-                    "text": "spinich"
+                    "text": "Spinat"
                 },
                 {
-                    "text": "onion"
+                    "text": "Zwiebel"
                 },
                 {
-                    "text": "lettuce"
+                    "text": "Salat"
                 },
                 {
-                    "text": "kale"
+                    "text": "Grünkohl"
                 },
                 {
-                    "text": "zucchini"
+                    "text": "Zucchini"
                 },
                 {
-                    "text": "garlic"
+                    "text": "Knoblauch"
                 }
             ],
             "x": false,
@@ -2955,45 +2955,45 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Probably tastes the best when deep-fried"
+                    "text": "Schmeckt frittiert wahrscheinlich am besten"
                 },
                 {
-                    "text": "Best rock-n-roll band name"
+                    "text": "Bester Name für eine Rock Band"
                 },
                 {
-                    "text": "The best giant vegetable to hollow out<br />and sail around the world in"
+                    "text": "Bestes Gemüse zum aushöhlen und darin auf dem Meer rumfahren"
                 }
             ],
             "prompt": {
-                "text": "Name Any Vegetable"
+                "text": "Nenne ein Gemüse"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "picnic"
+                    "text": "Picknick"
                 },
                 {
-                    "text": "baseball"
+                    "text": "Baseball"
                 },
                 {
-                    "text": "mowing the lawn"
+                    "text": "Den Rasen mähen"
                 },
                 {
-                    "text": "painting a house"
+                    "text": "Ein Haus anmalen"
                 },
                 {
-                    "text": "playing frisbee"
+                    "text": "Frisbee spielen"
                 },
                 {
-                    "text": "wedding"
+                    "text": "Heirat"
                 },
                 {
-                    "text": "horse riding"
+                    "text": "Pferdereiten"
                 },
                 {
-                    "text": "catching butterflies"
+                    "text": "Schmetterlinge fangen"
                 }
             ],
             "x": false,
@@ -3001,42 +3001,42 @@
             "category": "Activity",
             "twists": [
                 {
-                    "text": "Scariest activity to do blindfolded"
+                    "text": "Wäre am gruseligsten, wenn du dabei eine Augenbinde tragen müsstest"
                 },
                 {
-                    "text": "The best activity to pick as an easy college course"
+                    "text": "Wäre ein super Wahlfach um deine Noten aufzubessern"
                 },
                 {
-                    "text": "Best activity for a first date"
+                    "text": "Beste Aktivität für ein erstes Date"
                 }
             ],
             "prompt": {
-                "text": "Name Any Outdoor Activity"
+                "text": "Nenne irgendeine Sache, die man draußen machen kann"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Frankenstein"
+                    "text": "Frankensteins Monster"
                 },
                 {
-                    "text": "Mummy"
+                    "text": "Mumie"
                 },
                 {
-                    "text": "Werewolf"
+                    "text": "Werwolf"
                 },
                 {
-                    "text": "Vampire"
+                    "text": "Vampir"
                 },
                 {
-                    "text": "The Blob"
+                    "text": "Der Blob"
                 },
                 {
                     "text": "Godzilla"
                 },
                 {
-                    "text": "Cyclops"
+                    "text": "Zyklop"
                 },
                 {
                     "text": "Loch Ness Monster"
@@ -3047,45 +3047,45 @@
             "category": "Monster",
             "twists": [
                 {
-                    "text": "The best monster to have as a boss"
+                    "text": "Der beste Boss"
                 },
                 {
-                    "text": "Monster that would probably make the best lover"
+                    "text": "Wäre wahrscheinlich am besten im Bett"
                 },
                 {
-                    "text": "The coolest monster to turn into when you get wet"
+                    "text": "Wenn man nass wird, wäre es am coolsten sich in dieses Monster zu verwandeln"
                 }
             ],
             "prompt": {
-                "text": "Name Any Monster"
+                "text": "Nenne irgendein Monster"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "water"
+                    "text": "Wasser"
                 },
                 {
-                    "text": "oil"
+                    "text": "Öl"
                 },
                 {
-                    "text": "soda"
+                    "text": "Sprudel"
                 },
                 {
-                    "text": "vinegar"
+                    "text": "Essig"
                 },
                 {
-                    "text": "bleach"
+                    "text": "Bleichmittel"
                 },
                 {
-                    "text": "urine"
+                    "text": "Urin"
                 },
                 {
-                    "text": "cough syrup"
+                    "text": "Hustensaft"
                 },
                 {
-                    "text": "Windex"
+                    "text": "Fensterputzmittel"
                 }
             ],
             "x": false,
@@ -3093,42 +3093,42 @@
             "category": "Fluid",
             "twists": [
                 {
-                    "text": "Coolest fluid to surf on a wave of"
+                    "text": "Eine Welle davon zu reiten wäre am coolsten"
                 },
                 {
-                    "text": "Best fluid to throw in an enemy\u2019s face"
+                    "text": "Beste Flüssigkeit um sie jemanden ins Gesicht zu schleudern, den man nicht mag"
                 },
                 {
-                    "text": "Best fluid to swish around in your mouth for five minutes"
+                    "text": "Beste Flüssigkeit um damit zu gurgeln"
                 }
             ],
             "prompt": {
-                "text": "Name Any Fluid"
+                "text": "Nenne irgendeine Flüssigkeit"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "black"
+                    "text": "schwarz"
                 },
                 {
-                    "text": "white"
+                    "text": "weiß"
                 },
                 {
-                    "text": "yellow"
+                    "text": "gelb"
                 },
                 {
-                    "text": "green"
+                    "text": "grün"
                 },
                 {
-                    "text": "red"
+                    "text": "rot"
                 },
                 {
-                    "text": "purple"
+                    "text": "lila"
                 },
                 {
-                    "text": "grey"
+                    "text": "grau"
                 },
                 {
                     "text": "orange"
@@ -3139,17 +3139,17 @@
             "category": "Color",
             "twists": [
                 {
-                    "text": "Sexiest underwear color"
+                    "text": "Sexieste Unterwäschefarbe"
                 },
                 {
-                    "text": "Best color to repaint the White House"
+                    "text": "Beste Farbe für einen Neuanstrich des White House"
                 },
                 {
-                    "text": "Hands down, the best popsicle color"
+                    "text": "Die beste Farbe für Eis am Stiel"
                 }
             ],
             "prompt": {
-                "text": "Name Any Color"
+                "text": "Nenne irgendeine Farbe"
             },
             "facts": []
         },
