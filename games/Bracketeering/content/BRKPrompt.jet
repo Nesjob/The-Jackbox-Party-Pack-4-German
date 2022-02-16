@@ -3156,16 +3156,16 @@
         {
             "decoys": [
                 {
-                    "text": "Heart of Darkness"
+                    "text": "Herr der Ringe"
                 },
                 {
-                    "text": "To Kill a Mockingbird"
+                    "text": "Die Tribute von Panem"
                 },
                 {
-                    "text": "The Secret Garden"
+                    "text": "Der geheime Garten"
                 },
                 {
-                    "text": "Animal Farm"
+                    "text": "Es"
                 },
                 {
                     "text": "Oliver Twist"
@@ -3174,10 +3174,10 @@
                     "text": "Lolita"
                 },
                 {
-                    "text": "The Hobbit"
+                    "text": "Der Hobbit"
                 },
                 {
-                    "text": "The Call of the Wild"
+                    "text": "Ruf der Wildnis"
                 }
             ],
             "x": false,
@@ -3185,45 +3185,45 @@
             "category": "Books",
             "twists": [
                 {
-                    "text": "Best book for Morgan Freeman to read aloud to you"
+                    "text": "Dieses Buch sollte Morgan Freeman am ehesten vorlesen"
                 },
                 {
-                    "text": "The best book to use as a guide on how to live your life"
+                    "text": "Der beste Ratgeber fürs Leben"
                 },
                 {
-                    "text": "Best book to hit an intruder over the head with"
+                    "text": "Bestes Buch um einem Einbrecher damit eins überzubraten"
                 }
             ],
             "prompt": {
-                "text": "Name Any Classic Book"
+                "text": "Nenne irgendein Buch"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Crime and Punishment"
+                    "text": "Eine Weihnachtsgeschichte"
                 },
                 {
                     "text": "Moby Dick"
                 },
                 {
-                    "text": "Slaugherhouse Five"
+                    "text": "Pippi Langstrumpf"
                 },
                 {
-                    "text": "A Tale of Two Cities"
+                    "text": "Ronja Räubertochter"
                 },
                 {
                     "text": "1984"
                 },
                 {
-                    "text": "The Great Gatsby"
+                    "text": "Der große Gatsby"
                 },
                 {
                     "text": "Little Women"
                 },
                 {
-                    "text": "Lord of the Flies"
+                    "text": "Per Anhalter durch die Galaxis"
                 }
             ],
             "x": true,
@@ -3231,45 +3231,45 @@
             "category": "Books",
             "twists": [
                 {
-                    "text": "Best book to turn into a classic 8-bit video game"
+                    "text": "Dieses Buch würde sich als 8-bit Spiel am besten machen"
                 },
                 {
-                    "text": "The book that most needs to be adapted into a hip hop musical"
+                    "text": "Dieses Buch wäre das beste Hip-Hop Musical"
                 },
                 {
-                    "text": "Most kickass name for a gang"
+                    "text": "Der krasseste Name für eine Straßenbande"
                 }
             ],
             "prompt": {
-                "text": "Name Any Classic Book"
+                "text": "Nenne irgendein Buch"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "motor oil"
+                    "text": "Motoröl"
                 },
                 {
-                    "text": "olive oil"
+                    "text": "Olivenöl"
                 },
                 {
-                    "text": "water"
+                    "text": "Wasser"
                 },
                 {
-                    "text": "saliva"
+                    "text": "Spucke"
                 },
                 {
-                    "text": "urine"
+                    "text": "Urin"
                 },
                 {
-                    "text": "ammonia"
+                    "text": "Ammoniak"
                 },
                 {
-                    "text": "alcohol"
+                    "text": "Alkohol"
                 },
                 {
-                    "text": "freon"
+                    "text": "Lavalampensaft"
                 }
             ],
             "x": false,
@@ -3277,17 +3277,17 @@
             "category": "Fluid",
             "twists": [
                 {
-                    "text": "Best thing to freeze and use for a snowball fight"
+                    "text": "Beste Flüssigkeit zum Einfrieren vor einer Schneeballschlacht"
                 },
                 {
-                    "text": "Best fluid to replace gasoline as fuel"
+                    "text": "Diese Flüssigkeit sollte Benzin ersetzen können"
                 },
                 {
-                    "text": "Best fluid to pour on a flesh wound"
+                    "text": "Beste Flüssigkeit um sie auf eine Fleischwunde zu träufeln"
                 }
             ],
             "prompt": {
-                "text": "Name Any Fluid"
+                "text": "Nenne eine Flüssigkeit"
             },
             "facts": []
         },
@@ -3297,19 +3297,19 @@
                     "text": "Kanye West"
                 },
                 {
-                    "text": "Tom Hanks"
+                    "text": "Til Schweiger"
                 },
                 {
                     "text": "Kim Kardashian"
                 },
                 {
-                    "text": "Kevin Hart"
+                    "text": "Hazel Brugger"
                 },
                 {
                     "text": "Taylor Swift"
                 },
                 {
-                    "text": "Jay Z"
+                    "text": "Moneyboy"
                 },
                 {
                     "text": "Oprah"
@@ -3323,45 +3323,45 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Celebrity that would be the most entertaining to officiate a wedding"
+                    "text": "Würde den besten Trauzeugen abgeben"
                 },
                 {
-                    "text": "Most likely to text multiple people at 2 a.m. for booty calls"
+                    "text": "Würde am ehesten ein Bild seiner Genitalien auf Tinder senden"
                 },
                 {
-                    "text": "Best person to have as your defense lawyer in a murder trial"
+                    "text": "Bester Anwalt, nachdem du des Mordes beschuldigt wurdest"
                 }
             ],
             "prompt": {
-                "text": "Name Any Celebrity"
+                "text": "Nenne eine berühmte Person"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Pepper Snowball"
+                    "text": "Lotte Sprotte"
                 },
                 {
-                    "text": "Tommy Evergreen"
+                    "text": "Tommy Immergrün"
                 },
                 {
-                    "text": "Sugarplum, Sherry"
+                    "text": "Sherry"
                 },
                 {
                     "text": "Lollipop Happyfree"
                 },
                 {
-                    "text": "Noel Giftgiver"
+                    "text": "Noel Geschenk"
                 },
                 {
                     "text": "Mr. Tinsel"
                 },
                 {
-                    "text": "Shiny Brasstacks"
+                    "text": "Coolbert Nudel"
                 },
                 {
-                    "text": "Lisa Mistletoe"
+                    "text": "Lisa Zweig"
                 }
             ],
             "x": false,
@@ -3369,18 +3369,18 @@
             "category": "Name",
             "twists": [
                 {
-                    "text": "Best name for a children\u2019s rock band"
+                    "text": "Bester Name für eine Toggo-Band"
                 }
             ],
             "prompt": {
-                "text": "A good name to give one of Santa\u2019s new elves"
+                "text": "Ein guter Name für einen Elfenhelfer vom Weihnachtsmann"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Harrison Ford"
+                    "text": "Elias M'Barek"
                 },
                 {
                     "text": "Katy Perry"
@@ -3389,7 +3389,7 @@
                     "text": "Justin Bieber"
                 },
                 {
-                    "text": "Ellen DeGeneres"
+                    "text": "Stefan Raab"
                 },
                 {
                     "text": "Adam Sandler"
@@ -3401,7 +3401,7 @@
                     "text": "Tom Cruise"
                 },
                 {
-                    "text": "Rick Moranis"
+                    "text": "Lena Meyer-Landrut"
                 }
             ],
             "x": false,
@@ -3409,17 +3409,17 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Would probably do the best job playing Batman"
+                    "text": "Würde wahrscheinlich den besten Batman abgeben"
                 },
                 {
-                    "text": "Best person to have visit you every night in your dreams"
+                    "text": "Dieser Promi wäre am ehesten willkommen, wenn du jede Nacht von ihm träumen würdest"
                 },
                 {
-                    "text": "Would be the best president"
+                    "text": "Dieser Promi wäre der beste Bundeskanzler"
                 }
             ],
             "prompt": {
-                "text": "Name Any Celebrity"
+                "text": "Nenne eine berühmte Person"
             },
             "facts": []
         },
@@ -3444,10 +3444,10 @@
                     "text": "Will Smith"
                 },
                 {
-                    "text": "Jon Stewart"
+                    "text": "Apo Red"
                 },
                 {
-                    "text": "John Oliver"
+                    "text": "Montana Black"
                 }
             ],
             "x": true,
@@ -3455,45 +3455,45 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Coolest face to have tattooed on your back"
+                    "text": "Bestes Motiv für ein Tattoo auf deinem Rücken"
                 },
                 {
-                    "text": "Probably has the most hair on their entire body right now"
+                    "text": "Hat wahrscheinlich die meisten Haare am Körper"
                 },
                 {
-                    "text": "Best person to do a \u201cFreaky Friday\u201d-style body swap with"
+                    "text": "Beste Person für einen Körpertausch"
                 }
             ],
             "prompt": {
-                "text": "Name Any Celebrity"
+                "text": "Nenne eine berühmte Person"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "bull"
+                    "text": "Bulle"
                 },
                 {
-                    "text": "herring"
+                    "text": "Hering"
                 },
                 {
-                    "text": "cat"
+                    "text": "Katze"
                 },
                 {
-                    "text": "goose"
+                    "text": "Gans"
                 },
                 {
-                    "text": "rabbit"
+                    "text": "Hase"
                 },
                 {
-                    "text": "mouse"
+                    "text": "Maus"
                 },
                 {
-                    "text": "horse"
+                    "text": "Pferd"
                 },
                 {
-                    "text": "chicken"
+                    "text": "Huhn"
                 }
             ],
             "x": true,
@@ -3501,45 +3501,45 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Scariest nickname for your daughter\u2019s boyfriend"
+                    "text": "Gruseligster Spitzname für deinen Partner"
                 },
                 {
-                    "text": "Best animal to brag that you \u201chave sex like\u201d"
+                    "text": "Bestes Tier um sein Sexleben damit zu vergleichen"
                 },
                 {
-                    "text": "Coolest animal to train to be a service animal that helps you manage your anxiety"
+                    "text": "Coolstes Tier um es dazu auszubilden dir gegen Depressionen zu helfen "
                 }
             ],
             "prompt": {
-                "text": "Name Any Animal"
+                "text": "Nenne ein Tier"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "reptile"
+                    "text": "Reptil"
                 },
                 {
-                    "text": "turtle"
+                    "text": "Schildkröte"
                 },
                 {
-                    "text": "mole"
+                    "text": "Maulwurf"
                 },
                 {
-                    "text": "beaver"
+                    "text": "Biber"
                 },
                 {
-                    "text": "eagle"
+                    "text": "Adler"
                 },
                 {
-                    "text": "dog"
+                    "text": "Hund"
                 },
                 {
-                    "text": "mouse"
+                    "text": "Maus"
                 },
                 {
-                    "text": "whale"
+                    "text": "Wal"
                 }
             ],
             "x": true,
@@ -3547,45 +3547,45 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Animal that would look funniest dressed up in human clothes"
+                    "text": "Das Tier, das in Menschenkleidung am lustigsten aussieht"
                 },
                 {
-                    "text": "Animal that probably tastes the best"
+                    "text": "Das Tier, das wahrscheinlich am besten schmeckt"
                 },
                 {
-                    "text": "Best animal to suckle from"
+                    "text": "Bestes Tier um sich davon stillen zu lassen"
                 }
             ],
             "prompt": {
-                "text": "Name Any Animal"
+                "text": "Nenne irgendein Tier"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "otter"
+                    "text": "Otter"
                 },
                 {
-                    "text": "starfish"
+                    "text": "Seestern"
                 },
                 {
-                    "text": "seal"
+                    "text": "Robbe"
                 },
                 {
-                    "text": "squid"
+                    "text": "Tintenfisch"
                 },
                 {
-                    "text": "porcupine"
+                    "text": "Stachelschwein"
                 },
                 {
-                    "text": "pelican"
+                    "text": "Pelikan"
                 },
                 {
-                    "text": "coyote"
+                    "text": "Kojote"
                 },
                 {
-                    "text": "peacock"
+                    "text": "Pfau"
                 }
             ],
             "x": true,
@@ -3593,45 +3593,45 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Dopest animal to have<br />in your entourage"
+                    "text": "Coolster Sidekick"
                 },
                 {
-                    "text": "Cutest nickname for a baby"
+                    "text": "Niedlichster Spitzname für ein Baby"
                 },
                 {
-                    "text": "Animal you would prefer<br />to be killed by"
+                    "text": "Tier von dem du am ehesten getötet werden wölltest"
                 }
             ],
             "prompt": {
-                "text": "Name Any Animal"
+                "text": "Nenne ein Tier"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "chipmunk"
+                    "text": "Backenhörnchen"
                 },
                 {
-                    "text": "bison"
+                    "text": "Bison"
                 },
                 {
-                    "text": "duck"
+                    "text": "Ente"
                 },
                 {
-                    "text": "flamingo"
+                    "text": "Flamingo"
                 },
                 {
-                    "text": "lemur"
+                    "text": "Lemur"
                 },
                 {
-                    "text": "walrus"
+                    "text": "Walross"
                 },
                 {
-                    "text": "panda"
+                    "text": "Panda"
                 },
                 {
-                    "text": "llama"
+                    "text": "Lama"
                 }
             ],
             "x": false,
@@ -3639,45 +3639,45 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Animal you\u2019d most want to trap your worst enemy<br />in a small room with"
+                    "text": "Mit diesem Tier würdest du deinen größten Feind am liebsten in einen Raum stecken"
                 },
                 {
-                    "text": "Best stuffed animal for a baby\u2019s crib"
+                    "text": "Bestes Plüschtier für ein Baby"
                 },
                 {
-                    "text": "Best animal for a Bond villain to stroke"
+                    "text": "Bestes Tier für den Schoß eines Bond Bösewichts"
                 }
             ],
             "prompt": {
-                "text": "Name Any Animal"
+                "text": "Nenne ein Tier"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "hippo"
+                    "text": "Nilpferd"
                 },
                 {
-                    "text": "whale"
+                    "text": "Wal"
                 },
                 {
-                    "text": "elephant"
+                    "text": "Elefant"
                 },
                 {
-                    "text": "giraffe"
+                    "text": "Giraffe"
                 },
                 {
-                    "text": "gorilla"
+                    "text": "Gorilla"
                 },
                 {
-                    "text": "crocodile"
+                    "text": "Krokodil"
                 },
                 {
-                    "text": "ostrich"
+                    "text": "Strauß"
                 },
                 {
-                    "text": "cow"
+                    "text": "Kuh"
                 }
             ],
             "x": false,
@@ -3685,45 +3685,45 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Awesomest animal to paint on the hood of a sports car"
+                    "text": "Würde am coolsten aussehen, wenn man es auf ein Auto lackiert"
                 },
                 {
-                    "text": "Clearly the best animal to replace Santa\u2019s reindeer"
+                    "text": "Eindeutig das beste Tier um die Rentiere des Weihnachtsmanns damit zu ersetzen"
                 },
                 {
-                    "text": "Best animal to dress up in human clothes"
+                    "text": "Würde am besten mit Menschenkleidung aussehen"
                 }
             ],
             "prompt": {
-                "text": "Name an Animal that Is Bigger Than You"
+                "text": "Nenne ein Tier, das größer ist als du"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "panda"
+                    "text": "Panda"
                 },
                 {
-                    "text": "polar bear"
+                    "text": "Eisbär"
                 },
                 {
-                    "text": "whale"
+                    "text": "Wal"
                 },
                 {
-                    "text": "giraffe"
+                    "text": "Giraffe"
                 },
                 {
-                    "text": "grizzly bear"
+                    "text": "Grizzly"
                 },
                 {
-                    "text": "hippo"
+                    "text": "Nilpferd"
                 },
                 {
-                    "text": "rhino"
+                    "text": "Nashorn"
                 },
                 {
-                    "text": "lion"
+                    "text": "Löwe"
                 }
             ],
             "x": false,
@@ -3731,45 +3731,45 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Coolest shape for a kid\u2019s bouncy house"
+                    "text": "Coolste Form für eine Hüpfburg"
                 },
                 {
-                    "text": "Funniest animal to sneak into your carry-on luggage"
+                    "text": "Lustigstes Tier um es im Handgepäck mitzuschmuggeln"
                 },
                 {
-                    "text": "Best animal to hypnotize into thinking<br />it\u2019s a Lady Gaga backup dancer"
+                    "text": "Tier das sich am besten als Background Tänzer für Lady Gaga eignen würde"
                 }
             ],
             "prompt": {
-                "text": "Name an Animal that Is Bigger Than You"
+                "text": "Nenne ein Tier das größer ist als du"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "rhino"
+                    "text": "Nashorn"
                 },
                 {
-                    "text": "giraffe"
+                    "text": "Giraffe"
                 },
                 {
-                    "text": "gorilla"
+                    "text": "Gorilla"
                 },
                 {
-                    "text": "brown bear"
+                    "text": "Braunbär"
                 },
                 {
-                    "text": "hippo"
+                    "text": "Nilpferf"
                 },
                 {
-                    "text": "elephant"
+                    "text": "Elefant"
                 },
                 {
-                    "text": "orangutan"
+                    "text": "Orangutan"
                 },
                 {
-                    "text": "alligator"
+                    "text": "Alligator"
                 }
             ],
             "x": false,
@@ -3777,17 +3777,17 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Animal that would make the coolest giant robot mech"
+                    "text": "Wäre der coolste gigantische Roboter"
                 },
                 {
-                    "text": "Animal it would be most worth taking the time<br />to teach to tap dance"
+                    "text": "Tier dem man am ehesten Stepptanz beibringen sollte"
                 },
                 {
-                    "text": "Most likely to be voiced by Woody Allen in a cartoon"
+                    "text": "Würde in einem Cartoon am ehesten von Til Schweiger gesprochen werden"
                 }
             ],
             "prompt": {
-                "text": "Name an Animal that Is Bigger Than You"
+                "text": "Nenne ein Tier das größer ist als du"
             },
             "facts": []
         },
