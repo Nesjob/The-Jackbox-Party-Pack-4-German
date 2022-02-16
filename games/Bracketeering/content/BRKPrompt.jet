@@ -3794,7 +3794,7 @@
         {
             "decoys": [
                 {
-                    "text": "Hank Hill"
+                    "text": "Donald Duck"
                 },
                 {
                     "text": "Lisa Simpson"
@@ -3803,7 +3803,7 @@
                     "text": "Cartman"
                 },
                 {
-                    "text": "Rocko"
+                    "text": "Pikachu"
                 },
                 {
                     "text": "Mickey Mouse"
@@ -3812,10 +3812,10 @@
                     "text": "Goofy"
                 },
                 {
-                    "text": "Stewie Griffin"
+                    "text": "Peter Griffin"
                 },
                 {
-                    "text": "Tommy Pickles"
+                    "text": "SPongebob Schwammkopf"
                 }
             ],
             "x": false,
@@ -3823,45 +3823,45 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "The most annoying<br />cartoon character"
+                    "text": "Der nervigste<br />Cartoon Charakter"
                 },
                 {
-                    "text": "Which cartoon character has a dark secret?"
+                    "text": "Welcher Charakter hat ein dunkles Geheimnis?"
                 },
                 {
-                    "text": "Most likely to break your heart"
+                    "text": "Würde am ehesten dein Herz brechen"
                 }
             ],
             "prompt": {
-                "text": "Name a Cartoon Character"
+                "text": "Nenne einen Cartoon Charakter"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "heart"
+                    "text": "Herz"
                 },
                 {
-                    "text": "nervous face"
+                    "text": "Nervöses Gesicht"
                 },
                 {
-                    "text": "thumbs down"
+                    "text": "Daumen runter"
                 },
                 {
-                    "text": "crying face"
+                    "text": "Weinendes Gesicht"
                 },
                 {
-                    "text": "blowing kiss"
+                    "text": "Küsschen"
                 },
                 {
                     "text": "angry face"
                 },
                 {
-                    "text": "blank face"
+                    "text": "wütendes Gesicht"
                 },
                 {
-                    "text": "shrug"
+                    "text": "Achselzucken"
                 }
             ],
             "x": false,
@@ -3869,45 +3869,45 @@
             "category": "Emoji",
             "twists": [
                 {
-                    "text": "Best emoji to receive from a grandparent"
+                    "text": "Das beste Emoji das deine Großeltern dir senden könnten"
                 },
                 {
-                    "text": "Most effective symbol to use on a<br />\u201cWarning! Danger Ahead!\u201d sign"
+                    "text": "Das effektivste Emoji für ein ACHTUNG GEFAHR! Schild"
                 },
                 {
-                    "text": "Best logo to put on a sign for a greasy spoon diner"
+                    "text": "Bestes neues Logo für McDonalds"
                 }
             ],
             "prompt": {
-                "text": "Describe Any Emoji"
+                "text": "Beschreibe irgendein Emoji"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "fist pound"
+                    "text": "Faust"
                 },
                 {
-                    "text": "peace sign"
+                    "text": "Peace"
                 },
                 {
-                    "text": "hand clapping"
+                    "text": "Klatschen"
                 },
                 {
-                    "text": "gushing tears"
+                    "text": "Tränen"
                 },
                 {
-                    "text": "heart"
+                    "text": "Herz"
                 },
                 {
-                    "text": "smiley face"
+                    "text": "Lachen"
                 },
                 {
-                    "text": "shocked face"
+                    "text": "Schockiertes Gesicht"
                 },
                 {
-                    "text": "goofy face"
+                    "text": "Verrücktes Gesicht"
                 }
             ],
             "x": true,
@@ -3915,45 +3915,45 @@
             "category": "Emoji",
             "twists": [
                 {
-                    "text": "Best emoji response to a late night \u201cu up?\u201d text"
+                    "text": "Bestes Emoji als Antwort, wenn dir dein Ex schreibt"
                 },
                 {
-                    "text": "Best emoji to add to every message you ever send to your boss"
+                    "text": "Bestes Emoji um es jeder Nachricht anzuhängen die du deinem Boss zu sendest"
                 },
                 {
-                    "text": "Best emoji to replace your name"
+                    "text": "Bestes Emoji um deinen Namen zu ersetzen"
                 }
             ],
             "prompt": {
-                "text": "Describe Any Emoji"
+                "text": "Beschreibe irgendein Emoji"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "bobby pin"
+                    "text": "Haarnadel"
                 },
                 {
-                    "text": "button"
+                    "text": "Knopf"
                 },
                 {
-                    "text": "postage stamp"
+                    "text": "Poststempel"
                 },
                 {
-                    "text": "shell"
+                    "text": "Muschel"
                 },
                 {
-                    "text": "screw"
+                    "text": "Schraube"
                 },
                 {
-                    "text": "eraser"
+                    "text": "Radiergummi"
                 },
                 {
-                    "text": "pebble"
+                    "text": "Kieselstein"
                 },
                 {
-                    "text": "hook"
+                    "text": "Haken"
                 }
             ],
             "x": false,
@@ -3961,45 +3961,45 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Funniest new murder weapon for the board game CLUE"
+                    "text": "Lustigste neue Mörderwaffe für CLUEDO"
                 },
                 {
-                    "text": "Most acceptable item to be buried with"
+                    "text": "Beste Grabbeigabe"
                 },
                 {
-                    "text": "Best item to have fall out of a piñata"
+                    "text": "Beste Sache um sie in eine Pinata zu tun"
                 }
             ],
             "prompt": {
-                "text": "Any Small Object"
+                "text": "Nenne ein kleines Objekt"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "thimble"
+                    "text": "Fingerhut"
                 },
                 {
-                    "text": "button"
+                    "text": "Knopf"
                 },
                 {
-                    "text": "bead"
+                    "text": "Perle"
                 },
                 {
-                    "text": "tooth"
+                    "text": "Zahn"
                 },
                 {
-                    "text": "earring"
+                    "text": "Ohrring"
                 },
                 {
-                    "text": "nut"
+                    "text": "Nuss"
                 },
                 {
-                    "text": "pea"
+                    "text": "Erbse"
                 },
                 {
-                    "text": "nail"
+                    "text": "Nagel"
                 }
             ],
             "x": false,
@@ -4007,45 +4007,45 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Best item to replace \u201cscissors\u201d in an updated version<br />of Rock, Paper, Scissors"
+                    "text": "Beste Sache um die \u201cSchere\u201d bei Schere Stein Papier zu ersetzen"
                 },
                 {
-                    "text": "Item you\u2019d most quickly suspect is an important clue<br />in an Escape Room puzzle"
+                    "text": "Bester Hinweis in einem Escape Room "
                 },
                 {
-                    "text": "Inanimate object you would fall in love with"
+                    "text": "Du würdest dich am ehesten in diese Sache verlieben"
                 }
             ],
             "prompt": {
-                "text": "Any Small Object"
+                "text": "Nenne eine kleine Sache"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "battery"
+                    "text": "Batterie"
                 },
                 {
-                    "text": "earring"
+                    "text": "Ohrring"
                 },
                 {
-                    "text": "paper clip"
+                    "text": "Papierklammer"
                 },
                 {
-                    "text": "marble"
+                    "text": "Murmel"
                 },
                 {
-                    "text": "postage stamp"
+                    "text": "Briefmarke"
                 },
                 {
-                    "text": "penny"
+                    "text": "Penny"
                 },
                 {
-                    "text": "cracker"
+                    "text": "Cracker"
                 },
                 {
-                    "text": "pen cap"
+                    "text": "Stiftkappe"
                 }
             ],
             "x": false,
@@ -4053,45 +4053,45 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Best item to have an oversized novelty version of<br />to prove that you\u2019re hilarious"
+                    "text": "Beste Sache um sie in einer XL Version zu haben, nur um lustig zu sein"
                 },
                 {
-                    "text": "Best thing to give a child as a replacement for their \u201cblankie\u201d"
+                    "text": "Bestes Spielzeug für ein Kleinkind"
                 },
                 {
-                    "text": "In a pinch, the best substitute for a toothbrush"
+                    "text": "Der beste Ersatz für eine Zahnbürste, wenn man in der Klemme sitzt"
                 }
             ],
             "prompt": {
-                "text": "Any Small Object"
+                "text": "Nenne ein kleines Objekt"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "paul"
+                    "text": "Paul"
                 },
                 {
-                    "text": "johnny"
+                    "text": "Johnny"
                 },
                 {
-                    "text": "mr. sparkly"
+                    "text": "Mr. Sparkly"
                 },
                 {
-                    "text": "dumblepop"
+                    "text": "Dumblepop"
                 },
                 {
-                    "text": "mr littlefoot"
+                    "text": "Littlefoot"
                 },
                 {
-                    "text": "gumdrop simmons"
+                    "text": "Kaugummikerl"
                 },
                 {
-                    "text": "candy cane charlie"
+                    "text": "Typ Typ"
                 },
                 {
-                    "text": "sylvester slide whistle"
+                    "text": "Sylverster Stallohne"
                 }
             ],
             "x": true,
@@ -4099,39 +4099,39 @@
             "category": "Name",
             "twists": [
                 {
-                    "text": "Best euphemism for going to the bathroom"
+                    "text": "Bestes Synonym für einen abseilen"
                 }
             ],
             "prompt": {
-                "text": "A good name to give one of Santa\u2019s new elves"
+                "text": "Ein guter Name für einen Helfer vom Weihnachtsmann"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "cranky"
+                    "text": "zickig"
                 },
                 {
-                    "text": "busy"
+                    "text": "beschäftigt"
                 },
                 {
-                    "text": "smelly"
+                    "text": "stinkig"
                 },
                 {
-                    "text": "goofy"
+                    "text": "verrückt"
                 },
                 {
-                    "text": "twitchy"
+                    "text": "nervös"
                 },
                 {
-                    "text": "pushy"
+                    "text": "eindringlich"
                 },
                 {
-                    "text": "stinky"
+                    "text": "eklig"
                 },
                 {
-                    "text": "hairy"
+                    "text": "haarig"
                 }
             ],
             "x": true,
@@ -4139,39 +4139,39 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Best name for a new dating app"
+                    "text": "Bester Name für eine neue Datingapp"
                 }
             ],
             "prompt": {
-                "text": "Give any adjective that ends with a \u201cy\u201d"
+                "text": "Gib mir ein Adjektiv"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "back"
+                    "text": "Rücken"
                 },
                 {
-                    "text": "ears"
+                    "text": "Ohren"
                 },
                 {
-                    "text": "head"
+                    "text": "Kopf"
                 },
                 {
-                    "text": "neck"
+                    "text": "Hals"
                 },
                 {
-                    "text": "belly"
+                    "text": "Bauch"
                 },
                 {
-                    "text": "knees"
+                    "text": "Knie"
                 },
                 {
-                    "text": "nose"
+                    "text": "Nase"
                 },
                 {
-                    "text": "hands"
+                    "text": "Hände"
                 }
             ],
             "x": true,
