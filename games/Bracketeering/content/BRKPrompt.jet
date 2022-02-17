@@ -4179,45 +4179,45 @@
             "category": "Body",
             "twists": [
                 {
-                    "text": "Best body part to have a mind of its own and act independently of the rest of your body"
+                    "text": "Körperteil der am ehesten ein eigenes Bewusstsein entwickeln und sich unabhängig machen sollte"
                 },
                 {
-                    "text": "Most disturbing body part to find in a bag in the fridge at work"
+                    "text": "Körperteil der am verstörendsten wäre, wenn man ihm im Pausenraum-Kühlschrank finden würde"
                 },
                 {
-                    "text": "Best place for an \u201cI (Heart) Mom\u201d tattoo"
+                    "text": "Bester Platz für ein Herz-Mom Tattoo"
                 }
             ],
             "prompt": {
-                "text": "Name Any Body Part"
+                "text": "Nenne ein Körperteil"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "a penny saved is a penny earned"
+                    "text": "Immer schön sparen"
                 },
                 {
-                    "text": "eat your vegetables"
+                    "text": "Iss dein Gemüse"
                 },
                 {
-                    "text": "change your underwear"
+                    "text": "Wechsel regelmäßig deine Unterwäsche"
                 },
                 {
-                    "text": "pay your bills"
+                    "text": "Bezahle deine Rechnungen"
                 },
                 {
-                    "text": "wash your feet"
+                    "text": "Wasche deine Füße"
                 },
                 {
-                    "text": "tip your server"
+                    "text": "Gib gutes Trinkgeld"
                 },
                 {
-                    "text": "get plenty of sleep"
+                    "text": "Schlaf ausreichend"
                 },
                 {
-                    "text": "call your mother"
+                    "text": "Ruf deine Mutter an"
                 }
             ],
             "x": false,
@@ -4225,39 +4225,39 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Best subtitle for the next<br />\u201cCall of Duty\u201d video game"
+                    "text": "Bester Untertitel für das nächste Call of Duty Game"
                 }
             ],
             "prompt": {
-                "text": "Give a good piece of advice"
+                "text": "Gib einen guten Ratschlag"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "bed and breakfast"
+                    "text": "Buch und Tinte"
                 },
                 {
-                    "text": "cat and mouse"
+                    "text": "Glas und Stein"
                 },
                 {
-                    "text": "fish and chips"
+                    "text": "Makkaroni und Käse"
                 },
                 {
-                    "text": "heart and soul"
+                    "text": "Kloß und Soße"
                 },
                 {
-                    "text": "Rizzoli and Isles"
+                    "text": "Jean und Len"
                 },
                 {
-                    "text": "hoof and mouth"
+                    "text": "Huf und Mund"
                 },
                 {
-                    "text": "mac and cheese"
+                    "text": "Schule und Uni"
                 },
                 {
-                    "text": "supply and demand"
+                    "text": "Angebot und Nachfrage"
                 }
             ],
             "x": false,
@@ -4265,39 +4265,39 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Coolest pro wrestling move"
+                    "text": "Coolster Pro Wrestling Move"
                 }
             ],
             "prompt": {
-                "text": "Write Any Two Words and Place<br />\u201cand\u201d or \u201c&\u201d Between Them"
+                "text": "Nenne zwei Worte und trenne sie durch und"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Ford Taurus"
+                    "text": "BMW"
                 },
                 {
-                    "text": "Honda Civic"
+                    "text": "Polo"
                 },
                 {
-                    "text": "Schwinn Bike"
+                    "text": "Mini Cooper"
                 },
                 {
-                    "text": "Toyota Prius"
+                    "text": "Suzuki"
                 },
                 {
                     "text": "Segway"
                 },
                 {
-                    "text": "Chevrolet Volt"
+                    "text": "Landrover"
                 },
                 {
-                    "text": "Toyota Tercel"
+                    "text": "Toyota"
                 },
                 {
-                    "text": "Subaru Impreza"
+                    "text": "Subaru"
                 }
             ],
             "x": true,
@@ -4305,45 +4305,45 @@
             "category": "Vehicle",
             "twists": [
                 {
-                    "text": "Best substitute for the Batmobile"
+                    "text": "Bester Ersatz für das Batmobil"
                 },
                 {
-                    "text": "The best vehicle to make whoopie in"
+                    "text": "Das beste Fahrzeug um darin intime Dinge zu treiben"
                 },
                 {
-                    "text": "The best vehicle to put into Mario Kart"
+                    "text": "Würde sich am besten in Mario Kart machen"
                 }
             ],
             "prompt": {
-                "text": "Name Any Specific Vehicle"
+                "text": "Nenne irgendein Fahrzeug"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "quilting"
+                    "text": "Briefmarken sammeln"
                 },
                 {
-                    "text": "calligraphy"
+                    "text": "Kalligrafie"
                 },
                 {
-                    "text": "chess"
+                    "text": "Schach"
                 },
                 {
-                    "text": "stamp collecting"
+                    "text": "Münzen sammeln"
                 },
                 {
-                    "text": "genealogy"
+                    "text": "Videospiele"
                 },
                 {
-                    "text": "scrapbooking"
+                    "text": "Scrapbooking"
                 },
                 {
-                    "text": "modern dance"
+                    "text": "Moderner Tanz"
                 },
                 {
-                    "text": "homebrewing"
+                    "text": "Kochen"
                 }
             ],
             "x": false,
@@ -4351,39 +4351,39 @@
             "category": "Hobby",
             "twists": [
                 {
-                    "text": "Most useful hobby to have during a crisis"
+                    "text": "Bestes Hobby während einer Wirtschaftskrise"
                 }
             ],
             "prompt": {
-                "text": "Name any hobby"
+                "text": "Nenne irgendein Hobby"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Rosebud"
+                    "text": "Das Leben ist wie eine Schachtel Pralinen"
                 },
                 {
-                    "text": "You had me at \u201chello.\u201d"
+                    "text": "Ich bin der König der Welt"
                 },
                 {
-                    "text": "Shane. Shane. Come back!"
+                    "text": "So anyway, hows your Sexlife?"
                 },
                 {
-                    "text": "I\u2019ll be back"
+                    "text": "Ich komme wieder"
                 },
                 {
-                    "text": "Say \u201chello\u201d to my little friend"
+                    "text": "Hier ist Johnny"
                 },
                 {
-                    "text": "Open the pod bay doors, please, HAL"
+                    "text": "Alles was du hast, hat irgendwann dich"
                 },
                 {
-                    "text": "I\u2019m king of the world!"
+                    "text": "Houston, wir haben ein Problem."
                 },
                 {
-                    "text": "Yo, Adrian!"
+                    "text": "Energie!"
                 }
             ],
             "x": false,
@@ -4391,39 +4391,39 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Best advice to go back in time and give to your younger self"
+                    "text": "Bester Ratschlag für dein jüngeres Ich"
                 }
             ],
             "prompt": {
-                "text": "Quote any popular television or movie catchphrase"
+                "text": "Zitiere einen berühmten Satz aus Film und Fernsehen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "tweezers"
+                    "text": "Pinzette"
                 },
                 {
-                    "text": "hair gel"
+                    "text": "Haargel"
                 },
                 {
-                    "text": "hair dryer"
+                    "text": "Föhn"
                 },
                 {
-                    "text": "soap"
+                    "text": "Seife"
                 },
                 {
-                    "text": "ibuprofen"
+                    "text": "Ibuprofen"
                 },
                 {
-                    "text": "light bulb"
+                    "text": "Glühbirne"
                 },
                 {
-                    "text": "rubbing alcohol"
+                    "text": "Desinfektionsmittel"
                 },
                 {
-                    "text": "curling iron"
+                    "text": "Lockenstab"
                 }
             ],
             "x": false,
@@ -4431,39 +4431,39 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Probably has the most germs on it"
+                    "text": "Hat wahrscheinlich die meisten Bakterien auf seiner Oberfläche"
                 }
             ],
             "prompt": {
-                "text": "Name Something you would find in Your Bathroom"
+                "text": "Nenne etwas, was du in einem Badezimmer finden würdest"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "ocean"
+                    "text": "Ozean"
                 },
                 {
-                    "text": "smurf"
+                    "text": "Schlumpf"
                 },
                 {
-                    "text": "cookie monster"
+                    "text": "Krümelmonster"
                 },
                 {
-                    "text": "robin eggs"
+                    "text": "Blaubeere"
                 },
                 {
-                    "text": "crayon"
+                    "text": "Wachsmalstift"
                 },
                 {
-                    "text": "blue jeans"
+                    "text": "Jeans"
                 },
                 {
-                    "text": "butterflies"
+                    "text": "Schmetterlinge"
                 },
                 {
-                    "text": "blueberries"
+                    "text": "Himmel"
                 }
             ],
             "x": false,
@@ -4471,36 +4471,36 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Best thing to give your daughter on her wedding day"
+                    "text": "Bestes Geschenk für deine Tochter an ihrem Hochzeitstag"
                 }
             ],
             "prompt": {
-                "text": "Name anything that\u2019s blue"
+                "text": "Nenne irgendwas, was blau ist"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "lara croft"
+                    "text": "Lara Croft"
                 },
                 {
-                    "text": "kratos"
+                    "text": "Kratos"
                 },
                 {
-                    "text": "nathan drake"
+                    "text": "Nathan Drake"
                 },
                 {
-                    "text": "luigi"
+                    "text": "Luigi"
                 },
                 {
-                    "text": "yoshi"
+                    "text": "Yoshi"
                 },
                 {
-                    "text": "agent 47"
+                    "text": "Agent 47"
                 },
                 {
-                    "text": "pac man"
+                    "text": "Pac Man"
                 },
                 {
                     "text": "Q*bert"
@@ -4511,39 +4511,39 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "Most deserving of being played by Tom Hanks in a new movie trilogy"
+                    "text": "Sollte in einer Filmtrilogie zum Game von Til Schweiger gespielt werden"
                 }
             ],
             "prompt": {
-                "text": "Name Any Video Game Character"
+                "text": "Nenne einen Videospielcharakter"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "eating"
+                    "text": "Essen"
                 },
                 {
-                    "text": "combing"
+                    "text": "Kämmen"
                 },
                 {
-                    "text": "licking"
+                    "text": "Lecken"
                 },
                 {
-                    "text": "painting"
+                    "text": "Malen"
                 },
                 {
-                    "text": "sweating"
+                    "text": "Schwitzen"
                 },
                 {
-                    "text": "juggling"
+                    "text": "Jonglieren"
                 },
                 {
-                    "text": "writing"
+                    "text": "Schreiben"
                 },
                 {
-                    "text": "fishing"
+                    "text": "Angeln"
                 }
             ],
             "x": false,
@@ -4551,39 +4551,39 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Thing to be most grateful you can still do when you\u2019re 100 years old"
+                    "text": "Es würde dich am ehesten freuen, wenn du diese Sache mit 100 Jahren noch machen könntest"
                 }
             ],
             "prompt": {
-                "text": "Enter any Word Ending in \u201cing\u201d"
+                "text": "Nenne eine Tätigkeit"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "frog bog"
+                    "text": "Frosch Bosch"
                 },
                 {
-                    "text": "booze snooze"
+                    "text": "Kilch Knilch"
                 },
                 {
-                    "text": "cat pat"
+                    "text": "Katze Matratze"
                 },
                 {
-                    "text": "hair care"
+                    "text": "Haar Klar"
                 },
                 {
-                    "text": "meal wheel"
+                    "text": "Essen nässen"
                 },
                 {
-                    "text": "rain pain"
+                    "text": "Regen Segen"
                 },
                 {
-                    "text": "cold hold"
+                    "text": "Kalt Halt"
                 },
                 {
-                    "text": "swing thing"
+                    "text": "Sing Ring"
                 }
             ],
             "x": false,
@@ -4591,39 +4591,39 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Would make for the coolest rhyme in a song"
+                    "text": "Wäre der beste Reim in einem Song"
                 }
             ],
             "prompt": {
-                "text": "Any Two Words that Rhyme with Each Other"
+                "text": "Nenne zwei Worte die sich reimen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "nice smile"
+                    "text": "nettes Lächeln"
                 },
                 {
-                    "text": "kind heart"
+                    "text": "gutes Herz"
                 },
                 {
-                    "text": "long hair"
+                    "text": "langes Haar"
                 },
                 {
-                    "text": "good head on their shoulders"
+                    "text": "schlaues Köpfchen"
                 },
                 {
-                    "text": "nice abs"
+                    "text": "sexy Sixpack"
                 },
                 {
-                    "text": "baby talk"
+                    "text": "tiefe Stimme"
                 },
                 {
-                    "text": "big butt"
+                    "text": "großer Hintern"
                 },
                 {
-                    "text": "long eyelashes"
+                    "text": "lange Wimpern"
                 }
             ],
             "x": true,
@@ -4631,39 +4631,39 @@
             "category": "Turn On",
             "twists": [
                 {
-                    "text": "Most impressive \u201cspecial skill\u201d to put on a resume"
+                    "text": "Beste Referenz für den Lebenslauf"
                 }
             ],
             "prompt": {
-                "text": "Name Any \u201cTurn-On\u201d"
+                "text": "Nenne eine Sache die du an einem Menschen schön findest"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "ear nibble"
+                    "text": "Ohre anknabbern"
                 },
                 {
-                    "text": "foot rub"
+                    "text": "Fußmassage"
                 },
                 {
-                    "text": "nudity"
+                    "text": "Nacktheit"
                 },
                 {
-                    "text": "tight clothes"
+                    "text": "Enge Klamotten"
                 },
                 {
-                    "text": "perfume"
+                    "text": "Parfüm"
                 },
                 {
-                    "text": "blonde hair"
+                    "text": "blonde Haare"
                 },
                 {
-                    "text": "good posture"
+                    "text": "gute Haltung"
                 },
                 {
-                    "text": "high intelligence"
+                    "text": "hohe Intelligenz"
                 }
             ],
             "x": true,
@@ -4671,11 +4671,11 @@
             "category": "Turn On",
             "twists": [
                 {
-                    "text": "Best title for a Nicki Minaj song"
+                    "text": "Bester Titel für einen Nicki Minaj Song"
                 }
             ],
             "prompt": {
-                "text": "Name Any \u201cTurn-On\u201d"
+                "text": "Nenne eine Sache die dich anmacht."
             },
             "facts": []
         },
@@ -4685,13 +4685,13 @@
                     "text": "Amazon"
                 },
                 {
-                    "text": "Walmart"
+                    "text": "Lidl"
                 },
                 {
                     "text": "Burger King"
                 },
                 {
-                    "text": "Whole Foods"
+                    "text": "Kik"
                 },
                 {
                     "text": "Subway"
@@ -4711,18 +4711,18 @@
             "category": "Store",
             "twists": [
                 {
-                    "text": "Most likely to still be around 100 years from now"
+                    "text": "Gibt es in 100 Jahren am ehesten immer noch"
                 }
             ],
             "prompt": {
-                "text": "Name Any Store or Recognizable Restaurant"
+                "text": "Nenne irgendeinen Laden oder Restaurant"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Gap"
+                    "text": "Nike"
                 },
                 {
                     "text": "McDonald\u2019s"
@@ -4734,13 +4734,13 @@
                     "text": "Starbucks"
                 },
                 {
-                    "text": "7-Eleven"
+                    "text": "Starbucks"
                 },
                 {
                     "text": "Burger King"
                 },
                 {
-                    "text": "Target"
+                    "text": "Penny"
                 },
                 {
                     "text": "Taco Bell"
@@ -4751,11 +4751,11 @@
             "category": "Store",
             "twists": [
                 {
-                    "text": "Best place to accidentally get locked in overnight"
+                    "text": "Über Nacht eingesperrt zu sein, wäre hier am coolsten"
                 }
             ],
             "prompt": {
-                "text": "Name Any Store or Recognizable Restaurant"
+                "text": "Nenne irgendeinen Laden oder Restaurant"
             },
             "facts": []
         },
@@ -4771,19 +4771,19 @@
                     "text": "Stayin\u2019 Alive"
                 },
                 {
-                    "text": "Aquarius/Let the Sunshine in"
+                    "text": "Schwarz zu Blau"
                 },
                 {
-                    "text": "Ebony and Ivory"
+                    "text": "Über den Wolken"
                 },
                 {
-                    "text": "I Heard It Through the Grapevine"
+                    "text": "We don't talk about Bruno"
                 },
                 {
-                    "text": "My Sharona"
+                    "text": "Nur noch kurz die Welt retten"
                 },
                 {
-                    "text": "Beer Barrel Polka"
+                    "text": "Macarena"
                 }
             ],
             "x": true,
@@ -4791,11 +4791,11 @@
             "category": "Song",
             "twists": [
                 {
-                    "text": "Best song to do an erotic dance to"
+                    "text": "Bester Song für einen Lapdance"
                 }
             ],
             "prompt": {
-                "text": "Name any song"
+                "text": "Nenne einen Song"
             },
             "facts": []
         },
@@ -4814,7 +4814,7 @@
                     "text": "Eye of the Tiger"
                 },
                 {
-                    "text": "I Love Rock \u2018N Roll"
+                    "text": "Bohemian Rhapsody"
                 },
                 {
                     "text": "Gangsta\u2019s Paradise"
@@ -4823,7 +4823,7 @@
                     "text": "Le Freak"
                 },
                 {
-                    "text": "Theme to Knight Rider"
+                    "text": "Batman Theme"
                 }
             ],
             "x": false,
@@ -4831,11 +4831,11 @@
             "category": "Song",
             "twists": [
                 {
-                    "text": "Best song to help you get over a breakup"
+                    "text": "Bester Song nach einer Trennung"
                 }
             ],
             "prompt": {
-                "text": "Name any song"
+                "text": "Nenne einen Song"
             },
             "facts": []
         },
@@ -4854,7 +4854,7 @@
                     "text": "Orpheus"
                 },
                 {
-                    "text": "Icarus"
+                    "text": "Ikarus"
                 },
                 {
                     "text": "Hades"
@@ -4863,7 +4863,7 @@
                     "text": "Aphrodite"
                 },
                 {
-                    "text": "Diana"
+                    "text": "Zeus"
                 }
             ],
             "x": true,
@@ -4871,21 +4871,21 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "Best nickname for a penis"
+                    "text": "Bester Spitzname für einen Penis"
                 }
             ],
             "prompt": {
-                "text": "Name Any Mythological Person or Creature"
+                "text": "Nenne irgendeine mythologische Figur oder Kreatur"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "what?"
+                    "text": "was?"
                 },
                 {
-                    "text": "ok sure"
+                    "text": "ok meinetwegen"
                 },
                 {
                     "text": "woo woo woo"
@@ -4894,13 +4894,13 @@
                     "text": "hubba hubba"
                 },
                 {
-                    "text": "here is something"
+                    "text": "yeet"
                 },
                 {
-                    "text": "even this?"
+                    "text": "bjdhjbfdbhjfdhjbsds"
                 },
                 {
-                    "text": "whatever"
+                    "text": "ähm"
                 },
                 {
                     "text": "huh?"
@@ -4911,24 +4911,24 @@
             "category": "Anything",
             "twists": [
                 {
-                    "text": "Best bet when answering any question on \u201cFamily Feud\u201d"
+                    "text": "Am lustigsten"
                 },
                 {
-                    "text": "Best secret password"
+                    "text": "Bestes geheimes Passwort"
                 },
                 {
-                    "text": "Best review you could leave for this game"
+                    "text": "Beste Revie für dieses Spiel"
                 }
             ],
             "prompt": {
-                "text": "Just type in anything at all, really, just type in anything"
+                "text": "Schreib einfach irgendwas. Wirklich. Einfach irgendwas."
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Zero Dark Thirty"
+                    "text": "Year One"
                 },
                 {
                     "text": "Shutter Island"
@@ -4937,19 +4937,19 @@
                     "text": "Inception"
                 },
                 {
-                    "text": "Argo"
+                    "text": "Fargo"
                 },
                 {
-                    "text": "The King\u2019s Speech"
+                    "text": "Harry Potter"
                 },
                 {
                     "text": "Black Swan"
                 },
                 {
-                    "text": "Money Ball"
+                    "text": "Findet Nemo"
                 },
                 {
-                    "text": "Hacksaw Ridge"
+                    "text": "Schweigen der Lämmer"
                 }
             ],
             "x": false,
@@ -4957,18 +4957,18 @@
             "category": "Movie",
             "twists": [
                 {
-                    "text": "Movie that would make the best kids\u2019 birthday party theme"
+                    "text": "Bester Film für eine Kindergeburtstags-Theme-Party"
                 }
             ],
             "prompt": {
-                "text": "Name Any Movie"
+                "text": "Nenne einen Film"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "The Social Network"
+                    "text": "Nice Guys"
                 },
                 {
                     "text": "The Grand Budapest Hotel"
@@ -4977,19 +4977,19 @@
                     "text": "The Wolf of Wall Street"
                 },
                 {
-                    "text": "Toy Story3"
+                    "text": "Toy Story 3"
                 },
                 {
                     "text": "Black Swan"
                 },
                 {
-                    "text": "The Dark Knight Rises"
+                    "text": "Bat Man"
                 },
                 {
                     "text": "La La Land"
                 },
                 {
-                    "text": "How to Train Your Dragon"
+                    "text": "Drachenzähmen leicht gemacht"
                 }
             ],
             "x": false,
@@ -4997,11 +4997,11 @@
             "category": "Movie",
             "twists": [
                 {
-                    "text": "Best movie for aliens to watch to form their opinion about life on Earth"
+                    "text": "Film den man einem Außerirdischen am ehesten zeigen sollte"
                 }
             ],
             "prompt": {
-                "text": "Name Any Movie"
+                "text": "Nenne einen Film"
             },
             "facts": []
         },
@@ -5011,25 +5011,25 @@
                     "text": "Fantastic Mr. Fox"
                 },
                 {
-                    "text": "There Will Be Blood"
+                    "text": "Stirb langsam"
                 },
                 {
-                    "text": "Lost in Translation"
+                    "text": "Herr Der Ringe"
                 },
                 {
                     "text": "Ratatouille"
                 },
                 {
-                    "text": "Gosford Park"
+                    "text": "Forrest Gump"
                 },
                 {
-                    "text": "High Fidelity"
+                    "text": "Encanto"
                 },
                 {
-                    "text": "The Departed"
+                    "text": "Big Fish"
                 },
                 {
-                    "text": "Oldboy"
+                    "text": "Das Labyrinth"
                 }
             ],
             "x": false,
@@ -5037,39 +5037,39 @@
             "category": "Movie",
             "twists": [
                 {
-                    "text": "Best movie to describe to a stranger as if it\u2019s a true story that happened to you"
+                    "text": "Bester Film um zu behaupten, die Story wäre dir im echten Leben passiert"
                 }
             ],
             "prompt": {
-                "text": "Name Any Movie"
+                "text": "Nenne einen Film"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Mr. Peanut"
+                    "text": "Tony Tiger"
                 },
                 {
                     "text": "Chester Cheetah"
                 },
                 {
-                    "text": "The California Raisins"
+                    "text": "Meister Proper"
                 },
                 {
-                    "text": "Toucan Sam"
+                    "text": "Ronald McDonald"
                 },
                 {
-                    "text": "Snap, Crackle and Pop"
+                    "text": "Snap, Crackle und Pop"
                 },
                 {
-                    "text": "Dig \u2018Em Frog"
+                    "text": "Mickey Maus"
                 },
                 {
-                    "text": "The Keebler Elf"
+                    "text": "Colonel Sanders"
                 },
                 {
-                    "text": "Chef Boyardee"
+                    "text": "Linola Blob"
                 }
             ],
             "x": true,
@@ -5077,39 +5077,39 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "The best mascot to voice an erotic audiobook"
+                    "text": "Dieses Maskottchen sollte am ehesten ein erotisches Hörbuch einsprechen"
                 }
             ],
             "prompt": {
-                "text": "Name Any Mascot for a Food Product"
+                "text": "Nenne irgendein Maskottchen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Columbus Day"
+                    "text": "Tag der deutschen Einheit"
                 },
                 {
-                    "text": "Arbor Day"
+                    "text": "Rosenmontag"
                 },
                 {
-                    "text": "Memorial Day"
+                    "text": "Männertag"
                 },
                 {
-                    "text": "President\u2019s Day"
+                    "text": "Ostermontag"
                 },
                 {
-                    "text": "Earth Day"
+                    "text": "Tag der Jogginghose"
                 },
                 {
-                    "text": "Flag Day"
+                    "text": "Halloween"
                 },
                 {
-                    "text": "Groundhog Day"
+                    "text": "Nikolaus"
                 },
                 {
-                    "text": "Veteran\u2019s Day"
+                    "text": "Valentinstag"
                 }
             ],
             "x": false,
@@ -5117,33 +5117,33 @@
             "category": "Holiday",
             "twists": [
                 {
-                    "text": "Best name for an emo rock band"
+                    "text": "Bester Name für eine Emorockband"
                 }
             ],
             "prompt": {
-                "text": "Name Any Lesser Celebrated Holiday"
+                "text": "Nenne irgendeinen Feiertag"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Forret Gump"
+                    "text": "Forrest Gump"
                 },
                 {
                     "text": "Harry Potter"
                 },
                 {
-                    "text": "Pippi Longstocking"
+                    "text": "Pippi Langstrumpf"
                 },
                 {
-                    "text": "Madame Bovary"
+                    "text": "Miss Marple"
                 },
                 {
                     "text": "Sherlock Holmes"
                 },
                 {
-                    "text": "Rabbit Angstrom"
+                    "text": "Roger Rabbit"
                 },
                 {
                     "text": "Jay Gatsby"
@@ -5157,39 +5157,39 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "The best character to be played by Seth Rogen"
+                    "text": "Dieser Charakter sollte am ehesten von Elyas M'Barek gespielt werden"
                 }
             ],
             "prompt": {
-                "text": "Name Any Fictional Character"
+                "text": "Nenne irgendeinen fiktionalen Charakter"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "physics"
+                    "text": "Physik"
                 },
                 {
-                    "text": "sports medicine"
+                    "text": "Sportmedizin"
                 },
                 {
-                    "text": "electrical engineering"
+                    "text": "BWL"
                 },
                 {
-                    "text": "communications"
+                    "text": "Kommunikationswissenschaften"
                 },
                 {
-                    "text": "nuclear engineering"
+                    "text": "Philosophie"
                 },
                 {
-                    "text": "economics"
+                    "text": "Hauswirtschaftswissenschaften"
                 },
                 {
-                    "text": "psychology"
+                    "text": "Psychologie"
                 },
                 {
-                    "text": "geology"
+                    "text": "Geologie"
                 }
             ],
             "x": false,
@@ -5197,18 +5197,18 @@
             "category": "College",
             "twists": [
                 {
-                    "text": "College major of the person most likely to survive a zombie outbreak on campus"
+                    "text": "Studierende von diesem Fach überleben am ehesten eine Zombieapokalypse"
                 }
             ],
             "prompt": {
-                "text": "Name any college major"
+                "text": "Nenne einen Studiengang"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Brave New World"
+                    "text": "Schöne neue Welt"
                 },
                 {
                     "text": "Dracula"
@@ -5220,13 +5220,13 @@
                     "text": "Frankenstein"
                 },
                 {
-                    "text": "The Hobbit"
+                    "text": "Der Hobbit"
                 },
                 {
-                    "text": "A Wrinkle in Time"
+                    "text": "Warrior Cats"
                 },
                 {
-                    "text": "Slaughterhouse Five"
+                    "text": "Der dunkle Turm"
                 },
                 {
                     "text": "Ulysses"
@@ -5237,7 +5237,7 @@
             "category": "Books",
             "twists": [
                 {
-                    "text": "Best book to add \u201cin Bed\u201d to the end of the title"
+                    "text": "Bestes Buch um hinter den Titel 'im Bett' hinzuzufügen"
                 }
             ],
             "prompt": {
@@ -5248,10 +5248,10 @@
         {
             "decoys": [
                 {
-                    "text": "To Kill a Mockingbird"
+                    "text": "Wer die Nachtigall stört"
                 },
                 {
-                    "text": "The Catcher in the Rye"
+                    "text": "Robinson Crusoe"
                 },
                 {
                     "text": "Moby Dick"
@@ -5260,13 +5260,13 @@
                     "text": "Little Women"
                 },
                 {
-                    "text": "Lord of the Flies"
+                    "text": "Herr der Fliegen"
                 },
                 {
-                    "text": "Of Mice and Men"
+                    "text": "Slumdog Millionär"
                 },
                 {
-                    "text": "Animal Farm"
+                    "text": "Metro 2033"
                 },
                 {
                     "text": "1984"
@@ -5277,11 +5277,11 @@
             "category": "Books",
             "twists": [
                 {
-                    "text": "The best book to have on your shelf purely to impress people"
+                    "text": "Das beste Buch um es nur zu haben um damit anzugeben"
                 }
             ],
             "prompt": {
-                "text": "Name Any Classic Book"
+                "text": "Nenne ein Buch"
             },
             "facts": []
         },
@@ -5317,11 +5317,11 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Most likely to secretly be a vampire"
+                    "text": "Am ehesten insgeheim ein Vampir"
                 }
             ],
             "prompt": {
-                "text": "Name Any Celebrity"
+                "text": "Nenne eine berühmte Person"
             },
             "facts": []
         },
@@ -5331,25 +5331,25 @@
                     "text": "Sylvester Stallone"
                 },
                 {
-                    "text": "Richard Dreyfuss"
+                    "text": "Ralf Schmitz"
                 },
                 {
                     "text": "Jimmy Kimmel"
                 },
                 {
-                    "text": "David Letterman"
+                    "text": "Stefan Raab"
                 },
                 {
-                    "text": "Christina Applegate"
+                    "text": "Carmen Geiss"
                 },
                 {
-                    "text": "Paul Rudd"
+                    "text": "Olivia Jones"
                 },
                 {
-                    "text": "Josh Brolin"
+                    "text": "RuPaul"
                 },
                 {
-                    "text": "Kevin Hart"
+                    "text": "Carolin Kebekus"
                 }
             ],
             "x": false,
@@ -5357,36 +5357,36 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "The celebrity it would be most exciting to see on the next season of \u201cDancing with the Stars\u201d"
+                    "text": "Wäre der beste Kandidat für Takeshis Castle"
                 }
             ],
             "prompt": {
-                "text": "Name Any Celebrity"
+                "text": "Nenne eine berühmte Person"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "John Wayne"
+                    "text": "Selena Gomez"
                 },
                 {
-                    "text": "Richard Gere"
+                    "text": "Hape Kerkeling"
                 },
                 {
                     "text": "Adam Sandler"
                 },
                 {
-                    "text": "Michael Keaton"
+                    "text": "Andy Samberg"
                 },
                 {
-                    "text": "Will Ferrell"
+                    "text": "Bruno Mars"
                 },
                 {
-                    "text": "Mike Myers"
+                    "text": "Lady Gaga"
                 },
                 {
-                    "text": "Amy Poehler"
+                    "text": "Karolin Herfurth"
                 },
                 {
                     "text": "Tina Fey"
@@ -5397,11 +5397,11 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Best voice to always hear in your head as your inner thoughts"
+                    "text": "Beste Stimme für deine inneren Gedanken"
                 }
             ],
             "prompt": {
-                "text": "Name Any Celebrity"
+                "text": "Nenne eine berühmte Person"
             },
             "facts": []
         },
@@ -5414,22 +5414,22 @@
                     "text": "Snickers"
                 },
                 {
-                    "text": "Hershey\u2019s kisses"
+                    "text": "KitKats"
                 },
                 {
-                    "text": "lemon drops"
+                    "text": "Grünohrhasen"
                 },
                 {
-                    "text": "swedish fish"
+                    "text": "Lakritzstangen"
                 },
                 {
-                    "text": "nerds"
+                    "text": "Nerds"
                 },
                 {
-                    "text": "jolly ranchers"
+                    "text": "Balla Balla"
                 },
                 {
-                    "text": "sugar daddy"
+                    "text": "Colaflaschen"
                 }
             ],
             "x": false,
@@ -5437,33 +5437,33 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Best candy to eat if you don\u2019t have any teeth"
+                    "text": "Beste Süßigkeit, wenn man keine Zähne hat"
                 }
             ],
             "prompt": {
-                "text": "Name any candy"
+                "text": "Nenne eine Süßigkeit"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "boogers"
+                    "text": "Popel"
                 },
                 {
-                    "text": "You crazy"
+                    "text": "Du bist verrückt"
                 },
                 {
-                    "text": "The Lion King"
+                    "text": "König der Löwen"
                 },
                 {
                     "text": "Skittles"
                 },
                 {
-                    "text": "puffy clouds"
+                    "text": "fluffige Wolken"
                 },
                 {
-                    "text": "I\u2019m Batman"
+                    "text": "Ich bin Batman"
                 },
                 {
                     "text": "Lucky Charms"
@@ -5477,45 +5477,45 @@
             "category": "Anything",
             "twists": [
                 {
-                    "text": "Stupidest thing to type in when asked to \u201cjust type in anything at all\u201d"
+                    "text": "Dämlichste Antwort wenn du danach gefragt wirst einfach irgendwas zu schreiben"
                 },
                 {
-                    "text": "Weirdest text message for a baby to send from your phone<br />when just mashing buttons"
+                    "text": "Komischste Textnachricht von einem Baby"
                 },
                 {
-                    "text": "Dumbest thing you could say in response to \u201cI love you\u201d"
+                    "text": "Dümmste Antwort auf Ich liebe Dich"
                 }
             ],
             "prompt": {
-                "text": "Just type in anything at all, really, just type in anything"
+                "text": "Schreib einfach irgendwas. Wirklich. Einfach irgendwas."
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "ring finger"
+                    "text": "Ringfinger"
                 },
                 {
-                    "text": "big toe"
+                    "text": "Großer Zeh"
                 },
                 {
-                    "text": "nostril"
+                    "text": "Nasenloch"
                 },
                 {
-                    "text": "kneecap"
+                    "text": "Kniescheibe"
                 },
                 {
-                    "text": "spleen"
+                    "text": "Milz"
                 },
                 {
-                    "text": "lymph nodes"
+                    "text": "Lymphknoten"
                 },
                 {
-                    "text": "wisdom teeth"
+                    "text": "Weisheitszähne"
                 },
                 {
-                    "text": "eyelid"
+                    "text": "Augenlid"
                 }
             ],
             "x": true,
@@ -5523,39 +5523,39 @@
             "category": "Body",
             "twists": [
                 {
-                    "text": "Body part you are DEFINITELY getting pierced"
+                    "text": "Bestes Körperteil für ein Piercing"
                 }
             ],
             "prompt": {
-                "text": "Name any body part"
+                "text": "Nenne ein Körperteil"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "sheep"
+                    "text": "Schaf"
                 },
                 {
-                    "text": "chicken"
+                    "text": "Hühnchen"
                 },
                 {
-                    "text": "gila monster"
+                    "text": "Krustenechse"
                 },
                 {
-                    "text": "rattlesnake"
+                    "text": "Klapperschlange"
                 },
                 {
-                    "text": "flying squirrel"
+                    "text": "Flughörnchen"
                 },
                 {
-                    "text": "goldfish"
+                    "text": "Goldfisch"
                 },
                 {
-                    "text": "oyster"
+                    "text": "Auster"
                 },
                 {
-                    "text": "mackerel"
+                    "text": "Makrele"
                 }
             ],
             "x": false,
@@ -5563,39 +5563,39 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Animal that would make the best Pokémon"
+                    "text": "Würde das beste Pokémon abgeben"
                 }
             ],
             "prompt": {
-                "text": "Name Any Animal"
+                "text": "Nenne ein Tier"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "swan"
+                    "text": "Schwan"
                 },
                 {
-                    "text": "pufferfish"
+                    "text": "Kugelfisch"
                 },
                 {
-                    "text": "octopus"
+                    "text": "Oktopus"
                 },
                 {
-                    "text": "sea lion"
+                    "text": "Seelöwe"
                 },
                 {
-                    "text": "mountain goat"
+                    "text": "Bergziege"
                 },
                 {
-                    "text": "grizzly bear"
+                    "text": "Grizzly"
                 },
                 {
-                    "text": "labrador retriever"
+                    "text": "Labrador"
                 },
                 {
-                    "text": "hamster"
+                    "text": "Hamster"
                 }
             ],
             "x": false,
@@ -5603,7 +5603,7 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Animal you\u2019re most likely to follow on Instagram"
+                    "text": "Diesem Tier würdest du am ehesten auf Instagram folgen"
                 }
             ],
             "prompt": {
@@ -5614,28 +5614,28 @@
         {
             "decoys": [
                 {
-                    "text": "penguin"
+                    "text": "Pinguin"
                 },
                 {
-                    "text": "rabbit"
+                    "text": "Hase"
                 },
                 {
-                    "text": "squirrel"
+                    "text": "Eichhörnchen"
                 },
                 {
-                    "text": "baboon"
+                    "text": "Lemur"
                 },
                 {
-                    "text": "hippo"
+                    "text": "Nilpferd"
                 },
                 {
-                    "text": "platypus"
+                    "text": "Schnabeltier"
                 },
                 {
-                    "text": "raccoon"
+                    "text": "Waschbär"
                 },
                 {
-                    "text": "mallard duck"
+                    "text": "Erpel"
                 }
             ],
             "x": false,
@@ -5643,39 +5643,39 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Best animal to be found and raised by"
+                    "text": "Bestes Tier um davon gefunden und aufgezogen zu werden"
                 }
             ],
             "prompt": {
-                "text": "Name any animal"
+                "text": "Nenne ein Tier"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "ostrich"
+                    "text": "Strauß"
                 },
                 {
-                    "text": "mountain lion"
+                    "text": "Berglöwe"
                 },
                 {
-                    "text": "racehorse"
+                    "text": "Rennpferd"
                 },
                 {
-                    "text": "gorilla"
+                    "text": "Gorilla"
                 },
                 {
-                    "text": "anaconda"
+                    "text": "Anakonda"
                 },
                 {
-                    "text": "yak"
+                    "text": "Yak"
                 },
                 {
-                    "text": "leopard"
+                    "text": "Leopard"
                 },
                 {
-                    "text": "camel"
+                    "text": "Kamel"
                 }
             ],
             "x": false,
@@ -5683,39 +5683,39 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Best nickname to earn at summer camp"
+                    "text": "Bester Spitzname fürs Sommercamp"
                 }
             ],
             "prompt": {
-                "text": "Name an Animal that Is Bigger Than You"
+                "text": "Nenne ein Tier, das größer ist als du"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "elephant"
+                    "text": "Elefant"
                 },
                 {
-                    "text": "hippo"
+                    "text": "Nilpferd"
                 },
                 {
-                    "text": "rhino"
+                    "text": "Nashorn"
                 },
                 {
-                    "text": "polar bear"
+                    "text": "Eisbär"
                 },
                 {
-                    "text": "walrus"
+                    "text": "Walross"
                 },
                 {
-                    "text": "elk"
+                    "text": "Elch"
                 },
                 {
-                    "text": "caribou"
+                    "text": "Rentier"
                 },
                 {
-                    "text": "crocodile"
+                    "text": "Krokodil"
                 }
             ],
             "x": false,
@@ -5723,39 +5723,39 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Best high school football mascot"
+                    "text": "Bestes Maskottchen für eine Fußballmannschaft"
                 }
             ],
             "prompt": {
-                "text": "Name an Animal that Is Bigger Than You"
+                "text": "Nenne ein Tier, das größer ist als du"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "camel"
+                    "text": "Kamel"
                 },
                 {
-                    "text": "bear"
+                    "text": "Bär"
                 },
                 {
-                    "text": "manatee"
+                    "text": "Seekuh"
                 },
                 {
-                    "text": "lion"
+                    "text": "Löwe"
                 },
                 {
-                    "text": "jaguar"
+                    "text": "Jaguar"
                 },
                 {
                     "text": "T-rex"
                 },
                 {
-                    "text": "milk cow"
+                    "text": "Kuh"
                 },
                 {
-                    "text": "buffalo"
+                    "text": "Büffel"
                 }
             ],
             "x": false,
@@ -5763,11 +5763,11 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Best animal for a magician<br />to make disappear"
+                    "text": "Bestes Tier um es von einem Magier verschwinden zu lassen"
                 }
             ],
             "prompt": {
-                "text": "Name an Animal that Is Bigger Than You"
+                "text": "Nenne ein Tier das größer ist als du"
             },
             "facts": []
         },
@@ -5780,10 +5780,10 @@
                     "text": "Goofy"
                 },
                 {
-                    "text": "Elmer Fudd"
+                    "text": "Daniel Düsentrieb"
                 },
                 {
-                    "text": "Spongebob Squarepants"
+                    "text": "Spongebob Schwammkopf"
                 },
                 {
                     "text": "Homer Simpson"
@@ -5795,7 +5795,7 @@
                     "text": "Superman"
                 },
                 {
-                    "text": "Sylvester the cat"
+                    "text": "Sylvester die Katze"
                 }
             ],
             "x": true,
@@ -5803,39 +5803,39 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "If they became real, the cartoon character that would end up dead the fastest"
+                    "text": "Wenn dieser Cartooncharakter echt wäre, würde er am schnellsten draufgehen"
                 }
             ],
             "prompt": {
-                "text": "Name a cartoon character"
+                "text": "Nenne einen Cartooncharakter"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "doodlepoot"
+                    "text": "Schinkenspicker"
                 },
                 {
-                    "text": "bumfumble"
+                    "text": "Fugdiwub"
                 },
                 {
-                    "text": "loodletoo"
+                    "text": "Loodledoo"
                 },
                 {
-                    "text": "gumbooltoonia"
+                    "text": "Huckelpuckel"
                 },
                 {
-                    "text": "loosieloo"
+                    "text": "Fratzspatz"
                 },
                 {
-                    "text": "frappapular"
+                    "text": "Frappapular"
                 },
                 {
-                    "text": "poopaddler"
+                    "text": "Poopaddler"
                 },
                 {
-                    "text": "liptickler"
+                    "text": "Schlippernipper"
                 }
             ],
             "x": true,
@@ -5843,11 +5843,11 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Best name for a male strip club"
+                    "text": "Bester Name für einen Stripclub mit männlicher Besatzung"
                 }
             ],
             "prompt": {
-                "text": "Give the Silliest Word You Can Think Of"
+                "text": "Schreibe das dämlichste Wort, das dir einfällt"
             },
             "facts": []
         },
@@ -5883,39 +5883,39 @@
             "category": "Age",
             "twists": [
                 {
-                    "text": "The best age to be when turned into a vampire"
+                    "text": "Das beste Alter um in einen Vampir verwandelt zu werden"
                 }
             ],
             "prompt": {
-                "text": "Give any age (in years old)"
+                "text": "Nenne irgendein Alter (in Zahlen)"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "pizza slice"
+                    "text": "Pizza"
                 },
                 {
-                    "text": "kissy face"
+                    "text": "Küsschen"
                 },
                 {
-                    "text": "fuming angry"
+                    "text": "Wütend"
                 },
                 {
-                    "text": "scared"
+                    "text": "Ängstlich"
                 },
                 {
-                    "text": "sweating"
+                    "text": "Schwitzend"
                 },
                 {
-                    "text": "ice cream cone"
+                    "text": "Eiscreme"
                 },
                 {
-                    "text": "police car"
+                    "text": "Feuerwehrauto"
                 },
                 {
-                    "text": "thumbs up"
+                    "text": "Daumen hoch"
                 }
             ],
             "x": false,
@@ -5923,39 +5923,39 @@
             "category": "Emoji",
             "twists": [
                 {
-                    "text": "Best thing to tattoo on your body"
+                    "text": "Bestes Tattoo"
                 }
             ],
             "prompt": {
-                "text": "Describe Any Emoji"
+                "text": "Beschreibe irgendein Emoji"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "winking"
+                    "text": "Zwinkern"
                 },
                 {
-                    "text": "a lollipop"
+                    "text": "Lollipop"
                 },
                 {
-                    "text": "two beers"
+                    "text": "Bier"
                 },
                 {
-                    "text": "vomiting"
+                    "text": "Brechen"
                 },
                 {
-                    "text": "crying"
+                    "text": "Weinen"
                 },
                 {
-                    "text": "anguished"
+                    "text": "Fragend"
                 },
                 {
-                    "text": "a firefighter"
+                    "text": "Arzt"
                 },
                 {
-                    "text": "happy dog"
+                    "text": "Hund"
                 }
             ],
             "x": false,
@@ -5963,18 +5963,18 @@
             "category": "Emoji",
             "twists": [
                 {
-                    "text": "Emoji that most deserves its own spinoff movie"
+                    "text": "Emoji das ein eigens Spinoff verdient"
                 }
             ],
             "prompt": {
-                "text": "Describe Any Emoji"
+                "text": "Beschreibe irgendein Emoji"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Rover"
+                    "text": "Bello"
                 },
                 {
                     "text": "Daisy"
@@ -5983,13 +5983,13 @@
                     "text": "Muffin"
                 },
                 {
-                    "text": "Poopsie"
+                    "text": "Pupsi"
                 },
                 {
                     "text": "Mac"
                 },
                 {
-                    "text": "Mittens"
+                    "text": "Kätzchen"
                 },
                 {
                     "text": "Rex"
@@ -6003,39 +6003,39 @@
             "category": "Name",
             "twists": [
                 {
-                    "text": "Best nickname for a wise old cop to give their rookie partner"
+                    "text": "Bester Name für den Partner eines alten, weisen Cops"
                 }
             ],
             "prompt": {
-                "text": "Any name for a pet"
+                "text": "Ein Name, den du einem Haustier geben würdest"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "a piece of popcorn"
+                    "text": "ein Stückchen Popcorn"
                 },
                 {
-                    "text": "safety scissors"
+                    "text": "Nagelschere"
                 },
                 {
-                    "text": "a fancy pen"
+                    "text": "ein cooler Stift"
                 },
                 {
-                    "text": "a curly straw"
+                    "text": "ein fancy Trinkhalm"
                 },
                 {
-                    "text": "car keys"
+                    "text": "Autoschlüssel"
                 },
                 {
-                    "text": "an air freshener"
+                    "text": "Lufterfrischer"
                 },
                 {
-                    "text": "a candle"
+                    "text": "Kerze"
                 },
                 {
-                    "text": "a bran muffin"
+                    "text": "Muffin"
                 }
             ],
             "x": false,
@@ -6043,39 +6043,39 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Best item to use as a power-up in a video game"
+                    "text": "Bestes Item als Power Up in einem Videospiel"
                 }
             ],
             "prompt": {
-                "text": "Any small object"
+                "text": "Nenne ein kleines Objekt"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Blu-ray of Iron Man 3"
+                    "text": "Blu-ray vpn Iron Man 3"
                 },
                 {
-                    "text": "a bell pepper"
+                    "text": "eine Paprika"
                 },
                 {
-                    "text": "a thimble"
+                    "text": "ein Fingerhut"
                 },
                 {
-                    "text": "a button"
+                    "text": "ein Knopf"
                 },
                 {
-                    "text": "a subway token"
+                    "text": "eine Subway Karte"
                 },
                 {
-                    "text": "a railroad spike"
+                    "text": "eine Nadel"
                 },
                 {
-                    "text": "a fishing lure"
+                    "text": "eine Angelschnur"
                 },
                 {
-                    "text": "a dead canary"
+                    "text": "ein Kanarienvogel"
                 }
             ],
             "x": false,
@@ -6083,36 +6083,36 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Best item to pretend is a family treasure and then pass on to your grandchildren"
+                    "text": "Bestes Objekt um so zu tun als wäre es ein Familienerbstück"
                 }
             ],
             "prompt": {
-                "text": "Any small object"
+                "text": "Nenne ein kleines Objekt"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "a flashlight"
+                    "text": "Taschenlampe"
                 },
                 {
-                    "text": "roll of Scotch tape"
+                    "text": "Klebestreifen"
                 },
                 {
-                    "text": "dry erase marker"
+                    "text": "ein Tintenkiller"
                 },
                 {
-                    "text": "a cherry tomato"
+                    "text": "eine Cherrytomate"
                 },
                 {
-                    "text": "Optimus Prime toy"
+                    "text": "Optimus Prime Spielzeug"
                 },
                 {
-                    "text": "dress socks"
+                    "text": "Socken"
                 },
                 {
-                    "text": "a bow tie"
+                    "text": "eine Fliege"
                 },
                 {
                     "text": "Lego Batman"
@@ -6123,39 +6123,39 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Thing most worth reaching into a fire to save"
+                    "text": "Dieses Ding sollte man ehesten aus einem Feuer retten"
                 }
             ],
             "prompt": {
-                "text": "Any small object"
+                "text": "Nenne ein kleines Objekt"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "a golf ball"
+                    "text": "ein Golfball"
                 },
                 {
-                    "text": "a chess bishop"
+                    "text": "eine Schachfigur"
                 },
                 {
-                    "text": "a lemon"
+                    "text": "eine Zitrone"
                 },
                 {
-                    "text": "a salad fork"
+                    "text": "eine Salatgabel"
                 },
                 {
-                    "text": "a goldfish"
+                    "text": "ein Goldfisch"
                 },
                 {
-                    "text": "tennis ball"
+                    "text": "Tennisball"
                 },
                 {
-                    "text": "book of stamps"
+                    "text": "eine Briefmarkensammlung"
                 },
                 {
-                    "text": "sugar packet"
+                    "text": "Zuckerpäckchen"
                 }
             ],
             "x": true,
@@ -6163,11 +6163,11 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Thing you\u2019d be most willing to smuggle in your butt (if you had to smuggle something)"
+                    "text": "Würdest du am ehesten in deinem Hintern irgendwo hinschmuggeln"
                 }
             ],
             "prompt": {
-                "text": "Any small object"
+                "text": "Nenne irgendein kleines Objekt"
             },
             "facts": []
         },
@@ -6177,22 +6177,22 @@
                     "text": "Jimmy Buffet"
                 },
                 {
-                    "text": "I\u2019m a silly goose"
+                    "text": "Ich bin eine dumme Gans"
                 },
                 {
                     "text": "I\u2019m a maniac, maniac on the floor"
                 },
                 {
-                    "text": "I\u2019m a pudding man"
+                    "text": "Kennt ihr den Muffin Mann"
                 },
                 {
-                    "text": "The grasshoppers are watching me"
+                    "text": "Ich bin zu alt für so eine Scheiße"
                 },
                 {
-                    "text": "They\u2019ll never get my oatmeal"
+                    "text": "Nach Hause telefonieren"
                 },
                 {
-                    "text": "I\u2019m becoming a submarine"
+                    "text": "Yippie-Ya-Yeah, Schweinebacke!"
                 },
                 {
                     "text": "I like to move it, move it"
@@ -6203,35 +6203,35 @@
             "category": "Sentence",
             "twists": [],
             "prompt": {
-                "text": "Most satisfying thing to type on a typewriter over and over when you\u2019re slowly losing your mind"
+                "text": "Beste Sache um sie auf einer Schreibmaschine immer wieder und wieder und wieder zu schreiben"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "snotball"
+                    "text": "Rotzkugel"
                 },
                 {
-                    "text": "diarrhea"
+                    "text": "Dünnschiss"
                 },
                 {
-                    "text": "poopdeck"
+                    "text": "Kackherr"
                 },
                 {
-                    "text": "boondoggle"
+                    "text": "Boondoggle"
                 },
                 {
-                    "text": "onomatopoeia"
+                    "text": "Arachnophobia"
                 },
                 {
-                    "text": "crawfish"
+                    "text": "Anglerfisch"
                 },
                 {
                     "text": "Saskatchewan"
                 },
                 {
-                    "text": "manatee"
+                    "text": "Salami"
                 }
             ],
             "x": false,
@@ -6239,7 +6239,7 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "Coolest word anyone can work into a crossword puzzle"
+                "text": "Coolstes Wort um es in einem Kreuzworträtsel zu verbauen"
             },
             "facts": []
         },
@@ -6275,42 +6275,42 @@
             "category": "Time",
             "twists": [
                 {
-                    "text": "Coolest age to be turned into<br />by a magic fortune telling machine"
+                    "text": "Bestes Alter in das man verwandelt werden kann, von einem magischen Wahrsager"
                 },
                 {
-                    "text": "Weirdest age to lose your baby teeth"
+                    "text": "Komischstes Alter um seine Milchzähne zu verlieren"
                 },
                 {
-                    "text": "The best age to have $10,000 and a free night in Vegas"
+                    "text": "Das beste Alter um 5000€ und Freizeit in Las Vegas zu haben"
                 }
             ],
             "prompt": {
-                "text": "Give Any Age (in Years Old)"
+                "text": "Nenne irgendein Alter (in Zahlen)"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Babysitter\u2019s Revenge"
+                    "text": "Die Rache des Babysitters"
                 },
                 {
-                    "text": "Werewolf Summer Camp"
+                    "text": "Werwold Sommer Camp"
                 },
                 {
                     "text": "Zombie High School"
                 },
                 {
-                    "text": "Vampire Lawyer"
+                    "text": "Vampire Anwalt"
                 },
                 {
-                    "text": "My Dad Married a Chupacabra"
+                    "text": "Mein Dad hat ein Murmeltier geheiratet"
                 },
                 {
-                    "text": "I\u2019m in Love with a Mummy"
+                    "text": "Ich habe mich in eine Mumie verliebt"
                 },
                 {
-                    "text": "Invisible Bigfoot"
+                    "text": "Unsichtbarer Bigfoot"
                 },
                 {
                     "text": "Internet Dracula"
@@ -6321,35 +6321,35 @@
             "category": "Books",
             "twists": [],
             "prompt": {
-                "text": "Best title for a modern scary campfire story"
+                "text": "Bester Titel für eine gruselige Lagerfeuergeschichte"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "punching bag"
+                    "text": "Sandsack"
                 },
                 {
-                    "text": "a mattress"
+                    "text": "Matratze"
                 },
                 {
-                    "text": "a car door"
+                    "text": "Autotür"
                 },
                 {
-                    "text": "a glass window"
+                    "text": "Glastür"
                 },
                 {
-                    "text": "a brick wall"
+                    "text": "Backsteinmauer"
                 },
                 {
-                    "text": "an old refrigerator"
+                    "text": "ein alter Kühlschrank"
                 },
                 {
-                    "text": "a block of cheese"
+                    "text": "ein Käserad"
                 },
                 {
-                    "text": "a park bench"
+                    "text": "eine Parkbank"
                 }
             ],
             "x": false,
@@ -6357,35 +6357,35 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Most satisfying inanimate object<br />to punch"
+                "text": "Am angenehmsten zu schlagen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "gasoline"
+                    "text": "Benzin"
                 },
                 {
-                    "text": "a scarecrow"
+                    "text": "Vogelscheuche"
                 },
                 {
-                    "text": "old Christmas trees"
+                    "text": "alter Weihnachtsbaum"
                 },
                 {
-                    "text": "your alarm clock"
+                    "text": "Wecker"
                 },
                 {
-                    "text": "a pot of coffee"
+                    "text": "eine Kanne Kaffee"
                 },
                 {
-                    "text": "your clothes"
+                    "text": "deine Klamotten"
                 },
                 {
-                    "text": "a picture of your ex"
+                    "text": "ein Bild deines Ex"
                 },
                 {
-                    "text": "a bag of stolen cash"
+                    "text": "ein Sack voll gestohlenem Geld"
                 }
             ],
             "x": false,
@@ -6393,35 +6393,35 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Coolest thing to throw on a bonfire"
+                "text": "Coolste Sache um sie in ein Lagerfeuer zu werden"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "a solar eclipse"
+                    "text": "eine Sonnenfinsternis"
                 },
                 {
-                    "text": "in a shark reef"
+                    "text": "ein Hairiff"
                 },
                 {
-                    "text": "in a football stadium"
+                    "text": "in einem Fußballstadion"
                 },
                 {
-                    "text": "a volcano explosion"
+                    "text": "ein Vulkanausbruch"
                 },
                 {
-                    "text": "an Apple store"
+                    "text": "ein Apple store"
                 },
                 {
-                    "text": "a busy NYC street"
+                    "text": "eine Straße in Berlin"
                 },
                 {
-                    "text": "in a courtroom"
+                    "text": "in einem Gerichtssaal"
                 },
                 {
-                    "text": "during a boxing match"
+                    "text": "während eines Boxkampfes"
                 }
             ],
             "x": false,
@@ -6429,35 +6429,35 @@
             "category": "Emoji",
             "twists": [],
             "prompt": {
-                "text": "Most enthralling image for a computer\u2019s screensaver"
+                "text": "Bestes Emoji für einen Desktophintergrund"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "behind their ear"
+                    "text": "hinter deinem Ohr"
                 },
                 {
-                    "text": "behind your ear"
+                    "text": "hinter meinem Ohr"
                 },
                 {
-                    "text": "in a locked vault"
+                    "text": "in einem Safe"
                 },
                 {
-                    "text": "in a hat"
+                    "text": "in einem Hut"
                 },
                 {
-                    "text": "across the street"
+                    "text": "auf der anderen Straßenseite"
                 },
                 {
                     "text": "Montana"
                 },
                 {
-                    "text": "in their pocket"
+                    "text": "in deiner Tasche"
                 },
                 {
-                    "text": "in their mom\u2019s house"
+                    "text": "im Haus deiner Mutter"
                 }
             ],
             "x": false,
@@ -6465,35 +6465,35 @@
             "category": "Place",
             "twists": [],
             "prompt": {
-                "text": "Most impressive place to magically make someone\u2019s card appear during a card trick"
+                "text": "Beeindruckenster Platz an der ein Zauberer deine Karte herbeizaubern würde"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "haircut"
+                    "text": "Haarschnitt"
                 },
                 {
-                    "text": "compliments"
+                    "text": "Komplimente"
                 },
                 {
-                    "text": "pet fish"
+                    "text": "Fisch"
                 },
                 {
-                    "text": "gas"
+                    "text": "Gas"
                 },
                 {
-                    "text": "advice"
+                    "text": "Rat"
                 },
                 {
-                    "text": "basketball tickets"
+                    "text": "Basketball Tickets"
                 },
                 {
-                    "text": "dance lessons"
+                    "text": "Tanzstunden"
                 },
                 {
-                    "text": "candy"
+                    "text": "Süßigkeiten"
                 }
             ],
             "x": false,
@@ -6501,7 +6501,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "The most satisfying thing<br />to get for free"
+                "text": "Das beste Werbegeschenk"
             },
             "facts": []
         },
@@ -6514,10 +6514,10 @@
                     "text": "Stiff Stan"
                 },
                 {
-                    "text": "Huff N Puff"
+                    "text": "Hupfen und Pupfen"
                 },
                 {
-                    "text": "Limp Larry"
+                    "text": "Schwacher Larry"
                 },
                 {
                     "text": "Dummy Dave"
@@ -6537,35 +6537,35 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Best nickname for a CPR dummy"
+                "text": "Bester Spitzname für einen CPR Dummy"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "car repair"
+                    "text": "Autoreperatur"
                 },
                 {
-                    "text": "haircuts"
+                    "text": "Haarschnitte"
                 },
                 {
-                    "text": "massages"
+                    "text": "Massage"
                 },
                 {
-                    "text": "dog neutering"
+                    "text": "Kastration"
                 },
                 {
-                    "text": "French lessons"
+                    "text": "Französischstunden"
                 },
                 {
-                    "text": "eye appointment"
+                    "text": "Augenarzttermin"
                 },
                 {
-                    "text": "back waxing"
+                    "text": "Rückenwachsen"
                 },
                 {
-                    "text": "orthodontics"
+                    "text": "Orthopäde"
                 }
             ],
             "x": false,
@@ -6573,32 +6573,32 @@
             "category": "Action",
             "twists": [],
             "prompt": {
-                "text": "Best service to have a drive-through window for"
+                "text": "Service der am ehesten einen Drive Through Schalter bräuchte"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "free oil change"
+                    "text": "Gratis Ölwechsel"
                 },
                 {
-                    "text": "shoe repair center"
+                    "text": "Schuhreperatur"
                 },
                 {
-                    "text": "free loaf of bread"
+                    "text": "gratis Brot"
                 },
                 {
-                    "text": "the tango emporium"
+                    "text": "das Tango Emporium"
                 },
                 {
-                    "text": "IHOP"
+                    "text": "McDonalds"
                 },
                 {
-                    "text": "Office Max"
+                    "text": "Euroshop"
                 },
                 {
-                    "text": "K-Mart"
+                    "text": "Kaufland"
                 },
                 {
                     "text": "Pizza Hut"
@@ -6609,35 +6609,35 @@
             "category": "Store",
             "twists": [],
             "prompt": {
-                "text": "The most disappointing gift card to be given on your birthday"
+                "text": "Ein Geschenkgutschein dieses Unternehmens wäre sehr enttäuschend"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "a lot of red in that"
+                    "text": "da ist eine Menge rot drin"
                 },
                 {
-                    "text": "that was the final sign"
+                    "text": "das war das letzte Zeichen"
                 },
                 {
-                    "text": "they heard you"
+                    "text": "Sie haben dich gehört"
                 },
                 {
-                    "text": "that snot looks like the devil"
+                    "text": "das ist teuflisch viel Rotze"
                 },
                 {
-                    "text": "can I have that?"
+                    "text": "Kann ich das haben?"
                 },
                 {
-                    "text": "you allergic to holy water?"
+                    "text": "Reagierst du allergisch auf Weihwasser?"
                 },
                 {
-                    "text": "I\u2019m no doctor but..."
+                    "text": "Ich bin zwar kein Arzt, aber..."
                 },
                 {
-                    "text": "That smells like brimstone"
+                    "text": "Das riecht nach Brimstone"
                 }
             ],
             "x": false,
@@ -6645,35 +6645,35 @@
             "category": "Quote",
             "twists": [],
             "prompt": {
-                "text": "The most ominous thing to say when someone sneezes"
+                "text": "Das Skurrilste was man sagen kann, nachdem jemand geniest hat"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Volcano warning signs"
+                    "text": "Vulkanwarnzeichen"
                 },
                 {
-                    "text": "your tax returns"
+                    "text": "deine Steuererklärung"
                 },
                 {
                     "text": "Tom Hanks"
                 },
                 {
-                    "text": "your old hockey trophies"
+                    "text": "deine alten Fußballtrophäen"
                 },
                 {
-                    "text": "lists of your failures"
+                    "text": "Liste deiner Fehler"
                 },
                 {
-                    "text": "voodoo dolls"
+                    "text": "Voodoo Puppe"
                 },
                 {
-                    "text": "fire extinguishers"
+                    "text": "Feuerlöscher"
                 },
                 {
-                    "text": "some old bottle rockets"
+                    "text": "ein paar alte Feuerwerksraketen"
                 }
             ],
             "x": false,
@@ -6681,35 +6681,35 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Most satisfying thing to angrily throw into the mouth of a volcano"
+                "text": "Coolste Sache um sie in den Schlund eines Vulkans zu werfen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "What are birds?"
+                    "text": "Was sind Vögel?"
                 },
                 {
-                    "text": "How hot is the sun?"
+                    "text": "Wie heiß ist die Sonne?"
                 },
                 {
-                    "text": "Can the moon hear us?"
+                    "text": "Kann der Mond uns hören?"
                 },
                 {
-                    "text": "Are snakes lizards?"
+                    "text": "Sind Schlangen Eidechsen?"
                 },
                 {
-                    "text": "What is ice?"
+                    "text": "Was ist Eis?"
                 },
                 {
-                    "text": "Can you juggle like, seven things?"
+                    "text": "Kannst du sieben Sachen gleichzeitig jonglieren?"
                 },
                 {
-                    "text": "How do yo-yos work?"
+                    "text": "Wie funktionieren Yo-Yos?"
                 },
                 {
-                    "text": "Where is Australia?"
+                    "text": "Wo ist Australien?"
                 }
             ],
             "x": false,
@@ -6717,7 +6717,7 @@
             "category": "Sentence",
             "twists": [],
             "prompt": {
-                "text": "The question that science still most needs to find an answer to"
+                "text": "Die Frage auf die die Wissenschaft noch unbedingt eine Antwort finden muss."
             },
             "facts": []
         },
@@ -6730,16 +6730,16 @@
                     "text": "Big Zero"
                 },
                 {
-                    "text": "Tremors"
+                    "text": "Schüttelfrost"
                 },
                 {
-                    "text": "Shakey Shake"
+                    "text": "Schütelldischüttel"
                 },
                 {
                     "text": "Insta-Crash"
                 },
                 {
-                    "text": "Non-sugar High"
+                    "text": "Ohne Zucker-Hoch"
                 },
                 {
                     "text": "Laser Blast"
@@ -6753,7 +6753,7 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Coolest name for a diet energy drink"
+                "text": "Coolster Name für einen zuckerfreien Energy Drink."
             },
             "facts": []
         },
