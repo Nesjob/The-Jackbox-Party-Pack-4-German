@@ -7226,28 +7226,28 @@
         {
             "decoys": [
                 {
-                    "text": "The pubbie hubbies"
+                    "text": "die schlauen Jungs"
                 },
                 {
-                    "text": "Trivial Her Suit"
+                    "text": "Smarties"
                 },
                 {
-                    "text": "You Don\u2019t Know Mack"
+                    "text": "Never Clever"
                 },
                 {
-                    "text": "Mind over batter"
+                    "text": "Großhirne"
                 },
                 {
-                    "text": "The Smarty Party"
+                    "text": "die schlauen Hosen"
                 },
                 {
                     "text": "Singing in the Brain"
                 },
                 {
-                    "text": "The Quiz-ard King"
+                    "text": "Die Quizkönige"
                 },
                 {
-                    "text": "Triv and Let Triv"
+                    "text": "SmortSmort"
                 }
             ],
             "x": false,
@@ -7255,35 +7255,35 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Best name for a pub trivia team"
+                "text": "Bester Name für ein Quiz-Team"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "But you already paid!"
+                    "text": "Aber du hast schon bezahlt!"
                 },
                 {
                     "text": "Punchline!"
                 },
                 {
-                    "text": "Oh, I\u2019m not a doctor"
+                    "text": "Oh, ich bin kein Arzt."
                 },
                 {
-                    "text": "Know it? I wrote it!"
+                    "text": "Ich weiß und schmeiß!"
                 },
                 {
-                    "text": "Nantucket is that way!"
+                    "text": "Lecker Schmecker!"
                 },
                 {
-                    "text": "He died ten years ago!"
+                    "text": "Sie ist vor 10 Jahren gestorben!"
                 },
                 {
-                    "text": "I thought you said \u201cwe\u2019re ducks!\u201d"
+                    "text": "Wir sind am Ente!"
                 },
                 {
-                    "text": "That wasn\u2019t spaghetti!"
+                    "text": "Das waren keine Nudeln!"
                 }
             ],
             "x": false,
@@ -7291,35 +7291,35 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "The word or phrase that works best as the punch line for any joke"
+                "text": "Wort oder Satz, der als Punchline für jeden Witz funktioniert"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "You\u2019re neat"
+                    "text": "Du bist toll"
                 },
                 {
-                    "text": "Keep reaching for the stars!"
+                    "text": "Greife nach den Sternen!"
                 },
                 {
                     "text": "Hang in there, baby!"
                 },
                 {
-                    "text": "Whatever"
+                    "text": "Was auch immer.."
                 },
                 {
-                    "text": "Believe in yourself"
+                    "text": "Glaub an dich selbst!"
                 },
                 {
-                    "text": "The first chapter of Lord of the Flies"
+                    "text": "Das erste Kapitel vom Herr der Fliegen"
                 },
                 {
-                    "text": "I still haven\u2019t seen Mad Men"
+                    "text": "Ich hab Mad Men immer noch nicht gesehen"
                 },
                 {
-                    "text": "I like pie"
+                    "text": "Ich mag Kuchen"
                 }
             ],
             "x": false,
@@ -7327,7 +7327,7 @@
             "category": "Quote",
             "twists": [],
             "prompt": {
-                "text": "Most inspiring thing you could write on a bathroom stall wall"
+                "text": "Die inspirierendste Sache, die man an eine Toilettenwand schreiben kann"
             },
             "facts": []
         },
