@@ -6760,28 +6760,28 @@
         {
             "decoys": [
                 {
-                    "text": "Saskatchewan street"
+                    "text": "Stinker Straße"
                 },
                 {
-                    "text": "Stink street"
+                    "text": "Schusselweg"
                 },
                 {
-                    "text": "Alabama Avenue"
+                    "text": "Knorzstraße"
                 },
                 {
                     "text": "Bigfoot Boulevard"
                 },
                 {
-                    "text": "Pittsburgh Parkway"
+                    "text": "Knickerbocker Parkplatz"
                 },
                 {
-                    "text": "Dead End Drive"
+                    "text": "Brumm Brumm Straße"
                 },
                 {
-                    "text": "Mullholland Drive"
+                    "text": "Kuhmuh Weide"
                 },
                 {
-                    "text": "Sesame Street"
+                    "text": "Sesamstraße"
                 }
             ],
             "x": false,
@@ -6789,7 +6789,7 @@
             "category": "Game",
             "twists": [],
             "prompt": {
-                "text": "Best street name to add to the Monopoly board"
+                "text": "Bestes neues Feld für ein Monopoly Brett"
             },
             "facts": []
         },
@@ -6825,45 +6825,45 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "Best cartoon character to see on a trucker\u2019s mud flaps"
+                    "text": "Bester Charakter um ihn auf einen LKW zu drucken"
                 },
                 {
-                    "text": "Most acceptable to wear on your underwear as an adult"
+                    "text": "Bester Charakter um ihn auf seiner Untwerwäsche zu haben"
                 },
                 {
-                    "text": "If real, the cartoon character that would have the best chances<br />of winning a presidential election"
+                    "text": "Dieser Charakter sollte am ehesten Bundeskanzler werden"
                 }
             ],
             "prompt": {
-                "text": "Name a cartoon character"
+                "text": "Nenne einen Cartooncharakter"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "ostrich"
+                    "text": "Strauß"
                 },
                 {
-                    "text": "vulture"
+                    "text": "Geier"
                 },
                 {
-                    "text": "hawk"
+                    "text": "Falke"
                 },
                 {
-                    "text": "penguin"
+                    "text": "Pinguin"
                 },
                 {
-                    "text": "jaguar"
+                    "text": "Jaguar"
                 },
                 {
-                    "text": "elephant"
+                    "text": "Elefant"
                 },
                 {
-                    "text": "parrot"
+                    "text": "Papagei"
                 },
                 {
-                    "text": "monkey"
+                    "text": "Affe"
                 }
             ],
             "x": false,
@@ -6871,17 +6871,17 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Would make the coolest animal butler"
+                    "text": "Wäre der coolste Butler"
                 },
                 {
-                    "text": "Animal that would be the best CEO of a company"
+                    "text": "Wäre der beste CEO"
                 },
                 {
-                    "text": "Animal you suspect would give the most touching speech at your wedding"
+                    "text": "Würde die berührendste Rede bei deiner Hochzeit geben"
                 }
             ],
             "prompt": {
-                "text": "Name any animal"
+                "text": "Nenne ein Tier"
             },
             "facts": []
         },
@@ -6891,25 +6891,25 @@
                     "text": "1996"
                 },
                 {
-                    "text": "Tuesday"
+                    "text": "Dienstag"
                 },
                 {
                     "text": "1492"
                 },
                 {
-                    "text": "4:45 PM CT"
+                    "text": "4:45Uhr Morgens"
                 },
                 {
-                    "text": "Monday morning"
+                    "text": "Montag Morgen"
                 },
                 {
                     "text": "2017"
                 },
                 {
-                    "text": "Wednesday"
+                    "text": "Mittwoch"
                 },
                 {
-                    "text": "4 AM"
+                    "text": "16 Uhr"
                 }
             ],
             "x": false,
@@ -6917,17 +6917,17 @@
             "category": "Time",
             "twists": [
                 {
-                    "text": "The best time to go to a movie theater"
+                    "text": "Bester Zeitpunkt um einen Film in Kino zu sehen"
                 },
                 {
-                    "text": "Best time to suggest meeting for a duel"
+                    "text": "Bester Zeitpunkt für ein Duell"
                 },
                 {
-                    "text": "The best time to have to live over and over and over"
+                    "text": "Die beste Zeit um sie wieder und wieder und wieder zu erleben"
                 }
             ],
             "prompt": {
-                "text": "Name any time (hour of the day, day of the week, year, whatever)"
+                "text": "Nenne irgendeinen Zeitpunkt (egal ob Tag, Jahr, Uhrzeit etc.)"
             },
             "facts": []
         },
@@ -6946,10 +6946,10 @@
                     "text": "Darth Vader"
                 },
                 {
-                    "text": "The Scarecrow"
+                    "text": "Poison Ivy"
                 },
                 {
-                    "text": "Lex Luther"
+                    "text": "Huntress"
                 },
                 {
                     "text": "Iron Man"
@@ -6963,45 +6963,45 @@
             "category": "Super",
             "twists": [
                 {
-                    "text": "Superhero or supervillain that would be the most fun to go on a road trip with"
+                    "text": "Bester Partner für einen spaßigen Roadtrip"
                 },
                 {
-                    "text": "Would make the best lover"
+                    "text": "Wäre der beste Liebhaber"
                 },
                 {
-                    "text": "Probably takes the smelliest poops"
+                    "text": "Hat wahrscheinlich die stinkigste Kacke"
                 }
             ],
             "prompt": {
-                "text": "Name any superhero or supervillain"
+                "text": "Nenne einen Comiccharakter"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "horse"
+                    "text": "Pferd"
                 },
                 {
-                    "text": "giraffe"
+                    "text": "Giraffe"
                 },
                 {
-                    "text": "deer"
+                    "text": "Rentier"
                 },
                 {
-                    "text": "moose"
+                    "text": "Elch"
                 },
                 {
-                    "text": "penguin"
+                    "text": "Pinguin"
                 },
                 {
-                    "text": "cat"
+                    "text": "Löwe"
                 },
                 {
-                    "text": "elk"
+                    "text": "Rentier"
                 },
                 {
-                    "text": "cow"
+                    "text": "Kuh"
                 }
             ],
             "x": false,
@@ -7009,45 +7009,45 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Best animal to use to scare kids off your lawn"
+                    "text": "Bestes Tier um damit Kinder zu erschrecken"
                 },
                 {
-                    "text": "Coolest animal to saddle up and ride into battle"
+                    "text": "Coolstes Tier um darauf in eine Schlacht zu reiten"
                 },
                 {
-                    "text": "Which animal would be the best star of a hilarious talking animal movie?"
+                    "text": "Bester Hauptcharakter für einen Animationsfilm?"
                 }
             ],
             "prompt": {
-                "text": "Name an animal that is bigger than you"
+                "text": "Nenne ein Tier, das größer ist als du"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "paper clip"
+                    "text": "Büroklammer"
                 },
                 {
                     "text": "fidget spinner"
                 },
                 {
-                    "text": "wedding ring"
+                    "text": "Hochzeitsring"
                 },
                 {
-                    "text": "fingernail clippers"
+                    "text": "Fingernagel Clipper"
                 },
                 {
-                    "text": "a penny"
+                    "text": "ein Penny"
                 },
                 {
-                    "text": "a button"
+                    "text": "ein Knopf"
                 },
                 {
-                    "text": "a rock"
+                    "text": "ein Stein"
                 },
                 {
-                    "text": "a marble"
+                    "text": "eine Murmel"
                 }
             ],
             "x": false,
@@ -7055,17 +7055,17 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Best item to give to trick-or-treaters instead of candy"
+                    "text": "Beste Sache um sie an Halloween Kindern zu geben"
                 },
                 {
-                    "text": "Thing that would make the awesomest horcrux"
+                    "text": "Würde den besten Horcrux abgeben"
                 },
                 {
-                    "text": "Most likely to be voiced by Gilbert Gottfried in a Pixar film"
+                    "text": "Würde in einem Animationsfilm am ehesten von Julien Bam gesprochen werden"
                 }
             ],
             "prompt": {
-                "text": "Any Small Object"
+                "text": "Irgendeine kleine Sache"
             },
             "facts": []
         },
@@ -7075,7 +7075,7 @@
                     "text": "IKEA"
                 },
                 {
-                    "text": "Best Buy"
+                    "text": "Kaufland"
                 },
                 {
                     "text": "KFC"
@@ -7087,10 +7087,10 @@
                     "text": "Burger King"
                 },
                 {
-                    "text": "Target"
+                    "text": "Penny"
                 },
                 {
-                    "text": "Walmart"
+                    "text": "Netto"
                 },
                 {
                     "text": "Taco Bell"
@@ -7101,45 +7101,45 @@
             "category": "Store",
             "twists": [
                 {
-                    "text": "Place you\u2019re most likely to run into John Goodman"
+                    "text": "Hier würdest du am ehesten auf Mark Forster treffen"
                 },
                 {
-                    "text": "Best public bathrooms to be forced to use as your only bathroom for a year"
+                    "text": "Beste Toilette"
                 },
                 {
-                    "text": "Most romantic wedding location"
+                    "text": "Eignet sich am besten für eine Hochzeit"
                 }
             ],
             "prompt": {
-                "text": "Name any store or recognizable restaurant"
+                "text": "Nenne einen Laden oder ein Restaurant"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "clouds"
+                    "text": "Wolken"
                 },
                 {
-                    "text": "question mark"
+                    "text": "Fragezeichen"
                 },
                 {
-                    "text": "a small desk"
+                    "text": "ein kleiner Tisch"
                 },
                 {
-                    "text": "fish"
+                    "text": "Fisch"
                 },
                 {
-                    "text": "a turkey leg"
+                    "text": "ein Chicken Wing"
                 },
                 {
-                    "text": "a coffee cup"
+                    "text": "eine Kaffeetasse"
                 },
                 {
-                    "text": "pouty lips"
+                    "text": "operierte Lippen"
                 },
                 {
-                    "text": "an octagon"
+                    "text": "ein Octagon"
                 }
             ],
             "x": false,
@@ -7147,35 +7147,35 @@
             "category": "Game",
             "twists": [],
             "prompt": {
-                "text": "Coolest shape to add as the fifth suit in a deck of cards"
+                "text": "Würde sich am ehesten als fünfte Farbe für ein Kartenspiel eignen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "birds migrating"
+                    "text": "ziehende Vögel"
                 },
                 {
-                    "text": "a flower blooming"
+                    "text": "eine blühende Blume"
                 },
                 {
-                    "text": "paint drying"
+                    "text": "trocknende Farbe"
                 },
                 {
-                    "text": "a bird being born"
+                    "text": "ein Vogel der geboren wird"
                 },
                 {
-                    "text": "clouds"
+                    "text": "Wolken"
                 },
                 {
-                    "text": "a baby sleeping"
+                    "text": "ein schlafendes Baby"
                 },
                 {
-                    "text": "people at the airport"
+                    "text": "Leute am Flughafen"
                 },
                 {
-                    "text": "my neighbors"
+                    "text": "meine Nachbarn"
                 }
             ],
             "x": false,
@@ -7183,32 +7183,32 @@
             "category": "Activity",
             "twists": [],
             "prompt": {
-                "text": "The thing you could watch the longest that\u2019s not a movie, video game or TV show"
+                "text": "Die Sache, die du am längsten beobachten könntest"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "In a steel mill"
+                    "text": "im Untergrund"
                 },
                 {
-                    "text": "on a racetrack"
+                    "text": "auf einer Rennbahn"
                 },
                 {
-                    "text": "while moose hunting"
+                    "text": "während man auf der Jadg ist"
                 },
                 {
-                    "text": "in a cigar store"
+                    "text": "in einem Vape Shop"
                 },
                 {
-                    "text": "at the barber shop"
+                    "text": "beim Friseur"
                 },
                 {
                     "text": "Detroit"
                 },
                 {
-                    "text": "at a bowling alley"
+                    "text": "beim Bowling"
                 },
                 {
                     "text": "Alaska"
@@ -7219,7 +7219,7 @@
             "category": "Place",
             "twists": [],
             "prompt": {
-                "text": "Most masculine place to have a picnic"
+                "text": "der männlichste Ort um ein Picknick zu veranstalten"
             },
             "facts": []
         },
