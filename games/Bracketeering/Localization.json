@@ -1,0 +1,237 @@
+{
+
+    "table":{
+
+    "en": {
+
+        "LANGUAGE_NAME": "English",
+
+        "LANGUAGE": "Language",
+
+        "INTERNET_CONNECTED": "We've just found the internet.",
+
+        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+
+        "ROOM_DESTROYED": "We're sorry, a network error occurred and your room was destroyed.<br />Please check that your internet connection is working properly.",
+
+        "SOCKET_DISCONNECTED ": "We're sorry, we've lost your connection to the Jackbox Games servers.",
+
+        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+
+        "USER_DISCONNECT": "We're sorry, the server has disconnected you. Please try again.",
+
+        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+
+        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+
+        "TWITCH_PRIME_ERROR": "We're sorry, we couldn't validate your Twitch Prime license.",
+
+        "LOST_DLC": "We're sorry, the license for your DLC could not be found. Returning you to the menu...",
+
+        "BACK": "ZURÜCK",
+
+        "CLOSE": "SCHLIESSEN",
+
+        "CANCEL": "ABBRECHEN",
+
+        "SELECT": "BESTÄTIGEN",
+
+        "OR": "Oder",
+
+        "ON": "An",
+
+        "OFF": "Aus",
+
+        "HIDE": "VERSTECKEN",
+
+        "UNHIDE": "ZEIGEN",
+
+        "JOIN": "Beitreten!",
+
+        "PLAY": "SPIELEN",
+
+        "SETTINGS": "OPTIONEN",
+
+        "LEADERBOARD": "Rangliste",
+
+        "BACK_TO_PACK": "ZURÜCK",
+
+        "PLAY_DESCRIPTION": "Erstelle einen Raum & spiele!",
+
+        "SETTINGS_DESCRIPTION": "Familien-Modus, Publikum & mehr.",
+
+        "LEADERBOARD_DESCRIPTION": "Statistiken der letzten Spiele anschauen.",
+
+        "BACK_TO_PACK_DESCRIPTION": "Zurück zum Party Pack.",
+
+        "SETTINGS_TITLE": "OPTIONEN",
+
+        "LEADERBOARD_TITLE": "RANDLISTE",
+
+        "CONNECTING": "Verbinde mit den Jackbox Games Services",
+
+        "CONNECTING_DELAY": "Das dauert eine Weile...<br>Bitte überprüfe deine Internetverbindung.",
+
+        "GO_TO": "Geht zu",
+
+        "JOIN_ON_YOUR_DEVICE": "auf euren Geräten zum beitreten",
+
+        "USING_ROOM_CODE": "mit dem Raum-Code",
+
+        "EVERYBODYS_IN": "ALLE BEREIT",
+
+        "PRESS": "DRÜCKE",
+
+        "TO_START": "ZUM STARTEN",
+
+        "TO_CANCEL": "ZUM ABBRECHEN",
+
+        "JOIN_AUDIENCE": "Komm ins Publikum!",
+
+        "AUDIENCE": "PUBLIKUM",
+
+        "PLAY_AGAIN_WITH": "NOCHMAL MIT",
+
+        "PLAY_AGAIN": "NOCHMAL?",
+
+        "SAME_PLAYERS": "GLEICHE SPIELER",
+
+        "LOBBY_OR": "ODER",
+
+        "NEW_PLAYERS": "NEUE SPIELER",
+
+        "NUMBER_0": "null",
+
+        "NUMBER_1": "eins",
+
+        "NUMBER_2": "zwei",
+
+        "NUMBER_3": "drei",
+
+        "NUMBER_4": "vier",
+
+        "NUMBER_5": "fünf",
+
+        "NUMBER_6": "sechs",
+
+        "NUMBER_7": "sieben",
+
+        "NUMBER_8": "acht",
+
+        "NUMBER_9": "neun",
+
+        "NUMBER_10": "zehn",
+
+        "FULL_SCREEN": "Vollbildmodus",
+
+        "FULL_SCREEN_DESCRIPTION": "Macht das Spiel Voll...bild.",
+
+        "VOLUME": "Gesamtlautstärke",
+
+        "VOLUME_DESCRIPTION": "Macht das Spiel LAUT oder LEISE.",
+
+        "VOLUME_HOST": "Moderatoren-Lautstärke",
+
+        "VOLUME_HOST_DESCRIPTION": "Stelle den Moderator leise wenn du dich einsam fühlen möchtest.",
+
+        "VOLUME_SFX": "Effekte-Lautstärke",
+
+        "VOLUME_SFX_DESCRIPTION": "Wir haben hart an den Furzgeräuschen gearbeitet, aber du kannst sie ruhig leiser stellen.",
+
+        "VOLUME_MUSIC": "Musik-Lautstärke",
+
+        "VOLUME_MUSIC_DESCRIPTION": "Stelle unsere tolle Musik leiser. Wir nehmen es nicht persönlich.",
+
+        "FAMILY_FRIENDLY": "Familien-Modus",
+
+        "FAMILY_FRIENDLY_DESCRIPTION": "Deaktiviert provozierende Inhalte... im Spiel. Wir haben keinen Einfluss auf die Spieler.",
+
+        "AUDIENCE_MODE": "Publikum",
+
+        "AUDIENCE_MODE_DESCRIPTION": "Sorgt dafür, dass Zuschauer beitreten können und das Spiel beeinflussen können.",
+
+        "TWITCH_REQUIRED": "Twitch voraussetzen",
+
+        "TWITCH_REQUIRED_DESCRIPTION": "Die Spieler müssen sich mit Twitch verbinden um teilzunehmen. Empfohlen für gestreamte Spiele.",
+
+        "MANUAL_CENSORING": "Manuelles Zensieren",
+
+        "MANUAL_CENSORING_DESCRIPTION": "Erlaubt dem VIP (erster Spieler), manuell Antworten zu zensieren.",
+
+        "POSTGAME_SHARING": "Nachträgliches Teilen",
+
+        "POSTGAME_SHARING_DESCRIPTION": "Erlaubt es den Spielern, ihre Antworten später über Social Media zu teilen.",
+
+        "START_GAMEPAD": "Spiel nur vom PC starten",
+
+        "START_GAMEPAD_DESCRIPTION": "Das Spiel muss vom PC aus gestartet werden, statt durch den ersten Spieler in der Lobby.",
+
+        "HIDE_ROOM_CODE": "Raum Code verstecken erlauben",
+
+        "HIDE_ROOM_CODE_DESCRIPTION": "Ermöglicht das Verstecken des Raum-Codes. Nur geeignet für gestreamte Spiele.",
+
+        "SESSION_STATS": "Sitzungs-Statistiken",
+
+        "SESSION_STATS_DESCRIPTION": "Statistiken dieser Sitzung (Werden bei einem Neustart zurückgesetzt.)",
+
+        "SKIP_TUTORIAL": "Tutorials überspringen",
+
+        "SKIP_TUTORIAL_DESCRIPTION": "Überspringt die Tutorials, wenn ihr wisst, wie man spielt.",
+
+        "TWITCH_STATS": "Twitch Statistiken",
+
+        "TWITCH_STATS_DESCRIPTION": "Statistiken von Twitch-Sitzungen (Werden auch nach einem Neustart noch gespeichert.)",
+
+        "EXTENDED_TIMERS": "Längere Timer",
+
+        "EXTENDED_TIMERS_DESCRIPTION": "Aktiviert längere Timer. Nur empfohlen für gestreamte Spiele mit hoher Verzögerung.",
+
+        "PLAYER_NAME": "Spieler Name",
+
+        "HIGH_SCORE": "High Score",
+
+        "AVERAGE_SCORE": "Durchschnittlicher Score",
+
+        "GAMES_PLAYED": "Gespielte Spiele",
+
+        "TOTAL_DATES": "Anzahl an Dates",
+
+        "AVERAGE_DATES": "Durchschnittliche Dates",
+
+        
+
+        "BLIND_BRACKET": "BLINDE KLAMMER",
+
+        "TRIPLE_BLIND_BRACKET" : "DREIFACHE BLINDE KLAMMER",
+
+
+
+        "OVERTIME": "VERLÄNGERUNG!",
+
+        
+
+        "SCORE": "PUNKTE",
+
+        "SCORES": "PUNKTE",
+
+        "FINAL": "FINAL",
+
+        
+
+        "BY": "VON",
+
+        "BRACKET_WINNERS": "KLAMMER GEWINNER"
+
+    },
+
+    "fr": {},
+
+    "it": {},
+
+    "de": {},
+
+    "es": {}
+
+}
+
+}
