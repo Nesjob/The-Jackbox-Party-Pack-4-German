@@ -570,15 +570,6 @@
         },
         {
             "x": false,
-            "personal": "Von welchem Knabberzeug könntest du eine ganze Packung essen ohne nachzudenken?",
-            "id": 47703,
-            "portrait": false,
-            "category": "",
-            "bumper": "",
-            "us": false
-        },
-        {
-            "x": false,
             "personal": "Was ist etwas Merkwürdiges, das dir mal ein Familienmitglied erzählt hat?",
             "id": 47698,
             "portrait": false,
@@ -1103,15 +1094,6 @@
             "x": false,
             "personal": "Welche berühmte Person hast du einmal getroffen oder bist ihr begegnet?",
             "id": 44852,
-            "portrait": false,
-            "category": "",
-            "bumper": "",
-            "us": false
-        },
-        {
-            "x": false,
-            "personal": "Eine seltsame Sache, bei der du dich nicht dazu überwinden kannst sie wegzuwerfen, ist <BLANK>.",
-            "id": 44851,
             "portrait": false,
             "category": "",
             "bumper": "",
