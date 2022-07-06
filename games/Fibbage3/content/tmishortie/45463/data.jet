@@ -1,1 +1,104 @@
-{"fields":[{"t":"B","v":"false","n":"HasBumperAudio"},{"t":"B","v":"false","n":"HasKeywordAudio"},{"t":"B","v":"false","n":"HasBumperType"},{"t":"B","v":"false","n":"HasCorrectAudio"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"S","v":"Beerdigung erfunden,mein Handy ist in den See gefallen,behauptet FlÃ¶tenunterricht zu haben ohne sie spielen zu kÃ¶nnen,Lebensmittelvergiftung,so getan als wÃ¤re ich in Holland,eine Verlobte erfunden,behauptet mein Kind hÃ¤tte ein Knicklicht verschluckt","n":"Suggestions"},{"t":"S","v":"Was ist die dÃ¼mmste Ausrede, die du benutzt hast, um aus etwas herauszukommen?","n":"PersonalQuestionText"},{"t":"S","v":"","n":"Category"},{"t":"S","v":"","n":"CorrectText"},{"t":"S","v":"None","n":"BumperType"},{"t":"S","v":"Die dÃ¼mmste Ausrede, die <PLAYER> benutzt hat, um aus etwas herauszukommen, war <BLANK>.","n":"QuestionText"},{"t":"S","v":"","n":"SocialMediaDate"},{"t":"S","v":"","n":"KeywordResponse"},{"t":"S","v":"","n":"SocialMediaName"},{"t":"S","v":"","n":"AlternateSpellings"},{"s":"[category=host]","t":"A","n":"KeywordResponseAudio"},{"s":"[category=host]","t":"A","n":"BumperAudio"},{"t":"G","n":"Pic"},{"s":"[category=host]","t":"A","n":"CorrectAudio"},{"s":"[category=host]The dumbest excuse <PLAYER> has used to get out of something was <BLANK>.","t":"A","v":"615761_0","n":"QuestionAudio"}]}
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Beerdigung erfunden,mein Handy ist in den See gefallen,behauptet FlÃ¶tenunterricht zu haben ohne sie spielen zu kÃ¶nnen,Lebensmittelvergiftung,so getan als wÃ¤re ich in Holland,eine Verlobte erfunden,behauptet mein Kind hÃ¤tte ein Knicklicht verschluckt",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Was ist die dümmste Ausrede, die du benutzt hast, um aus etwas herauszukommen?",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Die dümmste Ausrede, die <PLAYER> benutzt hat, um aus etwas herauszukommen, war <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]The dumbest excuse <PLAYER> has used to get out of something was <BLANK>.",
+            "t": "A",
+            "v": "615761_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

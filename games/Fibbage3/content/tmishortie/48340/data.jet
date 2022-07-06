@@ -1,1 +1,104 @@
-{"fields":[{"t":"B","v":"false","n":"HasBumperAudio"},{"t":"B","v":"false","n":"HasKeywordAudio"},{"t":"B","v":"false","n":"HasBumperType"},{"t":"B","v":"false","n":"HasCorrectAudio"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"S","v":"Lemur,Kanalratte,Beutelratte,Stubenfliege,Bettwanze,Ohrmilben,Krebse","n":"Suggestions"},{"t":"S","v":"Wenn du ein Tier/Insekt/Kreatur von der Erde entfernen könntest, welches wäre das?","n":"PersonalQuestionText"},{"t":"S","v":"","n":"Category"},{"t":"S","v":"","n":"CorrectText"},{"t":"S","v":"None","n":"BumperType"},{"t":"S","v":"Wenn <PLAYER> ein Tier von der Erde entfernen könnte, fiele die Wahl auf <BLANK>.","n":"QuestionText"},{"t":"S","v":"","n":"SocialMediaDate"},{"t":"S","v":"","n":"KeywordResponse"},{"t":"S","v":"","n":"SocialMediaName"},{"t":"S","v":"","n":"AlternateSpellings"},{"s":"[category=host]","t":"A","n":"KeywordResponseAudio"},{"s":"[category=host]","t":"A","n":"BumperAudio"},{"t":"G","n":"Pic"},{"s":"[category=host]","t":"A","n":"CorrectAudio"},{"s":"[category=host]If <PLAYER> could eliminate one animal from the face of the Earth, they would choose <BLANK>.","t":"A","v":"684265_0","n":"QuestionAudio"}]}
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasKeywordAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lemur,Kanalratte,Beutelratte,Stubenfliege,Bettwanze,Ohrmilben,Krebse",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Wenn du ein Tier von der Erde auslöschen könntest, welches wäre das?",
+            "n": "PersonalQuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Wenn <PLAYER> ein Tier von der Erde auslöschen könnte, fiele die Wahl auf <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaDate"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponse"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "SocialMediaName"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        },
+        {
+            "s": "[category=host]",
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "s": "[category=host]If <PLAYER> could eliminate one animal from the face of the Earth, they would choose <BLANK>.",
+            "t": "A",
+            "v": "684265_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

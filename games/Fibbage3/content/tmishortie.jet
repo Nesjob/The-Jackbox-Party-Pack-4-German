@@ -480,7 +480,7 @@
         },
         {
             "x": false,
-            "personal": "Wenn du ein Tier/Insekt/Kreatur von der Erde entfernen könntest, welches wäre das?",
+            "personal": "Wenn du ein Tier von der Erde auslöschen könntest, welches wäre das?",
             "id": 48340,
             "portrait": false,
             "category": "",
@@ -939,7 +939,7 @@
         },
         {
             "x": false,
-            "personal": "In welcher fiktionalen Arbeit wärst du gerne ein Charakter?",
+            "personal": "In welchem fiktionalen Werk wärst du gerne ein Charakter?",
             "id": 45323,
             "portrait": false,
             "category": "",
@@ -1299,7 +1299,7 @@
         },
         {
             "x": false,
-            "personal": "Eine Fertigkeit, die du gerne hättest.",
+            "personal": "Eine Fähigkeit, die du gerne hättest.",
             "id": 16250,
             "portrait": false,
             "category": "biggest",
