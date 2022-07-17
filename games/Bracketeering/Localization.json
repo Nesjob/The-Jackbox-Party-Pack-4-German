@@ -8,29 +8,29 @@
 
         "LANGUAGE": "Language",
 
-        "INTERNET_CONNECTED": "We've just found the internet.",
+        "INTERNET_CONNECTED": "Internetverbindung hergestellt.",
 
-        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "INTERNET_DISCONNECTED": "Es kann keine Verbindung zu den Jackbox Games Services aufgebaut werden.<br />Überprüfe, ob deine Internetverbindung funktioniert.",
 
-        "ROOM_DESTROYED": "We're sorry, a network error occurred and your room was destroyed.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "Aufgrund eines Netzwerkfehlers wurde der Raum zerstört.<br />Überprüfe, ob deine Internetverbindung funktioniert.",
 
-        "SOCKET_DISCONNECTED ": "We're sorry, we've lost your connection to the Jackbox Games servers.",
+        "SOCKET_DISCONNECTED ": "Die Verbindung zu den Jackbox Games Services wurde verloren.",
 
-        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "TIMEOUT": "Eine Verbindung zu den Jackbox Games Services kann nicht aufgebaut werden.<br />Überprüfe, ob deine Internetverbindung funktioniert.",
 
-        "USER_DISCONNECT": "We're sorry, the server has disconnected you. Please try again.",
+        "USER_DISCONNECT": "Bedauerlicherweise hat der Server die Verbindung unterbrochen.<br />Bitte versuche es später erneut.",
 
-        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+        "LOST_LICENSE": "Entschuldigung, wir haben die Lizenz für diesen Inhalt verloren.",
 
-        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+        "STEAM_ERROR": "Leider konnte deine Steam-Spielelizenz nicht verifiziert werden.",
 
-        "TWITCH_PRIME_ERROR": "We're sorry, we couldn't validate your Twitch Prime license.",
+        "TWITCH_PRIME_ERROR": "Leider konnte deine Twitch Prime-Mitgliedschaft nicht verifiziert werden.",
 
-        "LOST_DLC": "We're sorry, the license for your DLC could not be found. Returning you to the menu...",
+        "LOST_DLC": "Leider konnte die Lizenz für diesen DLC nicht gefunden werden.<br />Kehre zurück zum Menü...",
 
         "BACK": "ZURÜCK",
 
-        "CLOSE": "SCHLIESSEN",
+        "CLOSE": "SCHLIEßEN",
 
         "CANCEL": "ABBRECHEN",
 
@@ -46,7 +46,7 @@
 
         "UNHIDE": "ZEIGEN",
 
-        "JOIN": "Beitreten!",
+        "JOIN": "Beitreten",
 
         "PLAY": "SPIELEN",
 
@@ -56,29 +56,29 @@
 
         "BACK_TO_PACK": "ZURÜCK",
 
-        "PLAY_DESCRIPTION": "Erstelle einen Raum & spiele!",
+        "PLAY_DESCRIPTION": "Raum erstellen & spielen",
 
-        "SETTINGS_DESCRIPTION": "Familien-Modus, Publikum & mehr.",
+        "SETTINGS_DESCRIPTION": "Zensieren, Publikum & mehr",
 
-        "LEADERBOARD_DESCRIPTION": "Statistiken der letzten Spiele anschauen.",
+        "LEADERBOARD_DESCRIPTION": "",
 
-        "BACK_TO_PACK_DESCRIPTION": "Zurück zum Party Pack.",
+        "BACK_TO_PACK_DESCRIPTION": "Zurück zum Party Pack",
 
         "SETTINGS_TITLE": "OPTIONEN",
 
-        "LEADERBOARD_TITLE": "RANDLISTE",
+        "LEADERBOARD_TITLE": "RANGLISTE",
 
         "CONNECTING": "Verbinde mit den Jackbox Games Services",
 
-        "CONNECTING_DELAY": "Das dauert eine Weile...<br>Bitte überprüfe deine Internetverbindung.",
+        "CONNECTING_DELAY": "Das dauert eine Weile...<br/>Bitte überprüfe deine Internetverbindung.",
 
-        "GO_TO": "Geht zu",
+        "GO_TO": "Gehe auf",
 
-        "JOIN_ON_YOUR_DEVICE": "auf euren Geräten zum beitreten",
+        "JOIN_ON_YOUR_DEVICE": "mit deinem Gerät um beizutreten",
 
-        "USING_ROOM_CODE": "mit dem Raum-Code",
+        "USING_ROOM_CODE": "mit dem Raumcode",
 
-        "EVERYBODYS_IN": "ALLE BEREIT",
+        "EVERYBODYS_IN": "Drücke ALLE BEREIT zum starten!",
 
         "PRESS": "DRÜCKE",
 
@@ -90,7 +90,7 @@
 
         "AUDIENCE": "PUBLIKUM",
 
-        "PLAY_AGAIN_WITH": "NOCHMAL MIT",
+        "PLAY_AGAIN_WITH": "NOCHMAL?",
 
         "PLAY_AGAIN": "NOCHMAL?",
 
@@ -98,7 +98,7 @@
 
         "LOBBY_OR": "ODER",
 
-        "NEW_PLAYERS": "NEUE SPIELER",
+        "NEW_PLAYERS": "ANDERE SPIELER",
 
         "NUMBER_0": "null",
 
@@ -124,67 +124,67 @@
 
         "FULL_SCREEN": "Vollbildmodus",
 
-        "FULL_SCREEN_DESCRIPTION": "Macht das Spiel Voll...bild.",
+        "FULL_SCREEN_DESCRIPTION": "Schaltet das Spiel auf Vollbild.",
 
         "VOLUME": "Gesamtlautstärke",
 
-        "VOLUME_DESCRIPTION": "Macht das Spiel LAUT oder LEISE.",
+        "VOLUME_DESCRIPTION": "Passt die Gesamtlautstärke an.",
 
-        "VOLUME_HOST": "Moderatoren-Lautstärke",
+        "VOLUME_HOST": "Moderator-Lautstärke",
 
-        "VOLUME_HOST_DESCRIPTION": "Stelle den Moderator leise wenn du dich einsam fühlen möchtest.",
+        "VOLUME_HOST_DESCRIPTION": "Passt die Lautstärke des Moderators an.",
 
-        "VOLUME_SFX": "Effekte-Lautstärke",
+        "VOLUME_SFX": "Soundeffekt-Lautstärke",
 
-        "VOLUME_SFX_DESCRIPTION": "Wir haben hart an den Furzgeräuschen gearbeitet, aber du kannst sie ruhig leiser stellen.",
+        "VOLUME_SFX_DESCRIPTION": "Passt die Lautstärke der Soundeffekte an.",
 
         "VOLUME_MUSIC": "Musik-Lautstärke",
 
-        "VOLUME_MUSIC_DESCRIPTION": "Stelle unsere tolle Musik leiser. Wir nehmen es nicht persönlich.",
+        "VOLUME_MUSIC_DESCRIPTION": "Passt die Lautstärke der Musik an.",
 
-        "FAMILY_FRIENDLY": "Familien-Modus",
+        "FAMILY_FRIENDLY": "Familienmodus",
 
-        "FAMILY_FRIENDLY_DESCRIPTION": "Deaktiviert provozierende Inhalte... im Spiel. Wir haben keinen Einfluss auf die Spieler.",
+        "FAMILY_FRIENDLY_DESCRIPTION": "Einschalten, um kontroverse Spielinhalte zu filtern.",
 
         "AUDIENCE_MODE": "Publikum",
 
-        "AUDIENCE_MODE_DESCRIPTION": "Sorgt dafür, dass Zuschauer beitreten können und das Spiel beeinflussen können.",
+        "AUDIENCE_MODE_DESCRIPTION": "Einschalten, damit Zuschauer das Spiel beeinflussen können.",
 
         "TWITCH_REQUIRED": "Twitch voraussetzen",
 
-        "TWITCH_REQUIRED_DESCRIPTION": "Die Spieler müssen sich mit Twitch verbinden um teilzunehmen. Empfohlen für gestreamte Spiele.",
+        "TWITCH_REQUIRED_DESCRIPTION": "Spieler müssen sich mit Twitch anmelden.",
 
-        "MANUAL_CENSORING": "Manuelles Zensieren",
+        "MANUAL_CENSORING": "Manuelle Zensur",
 
-        "MANUAL_CENSORING_DESCRIPTION": "Erlaubt dem VIP (erster Spieler), manuell Antworten zu zensieren.",
+        "MANUAL_CENSORING_DESCRIPTION": "Erlaubt dem VIP (Spieler 1) Spielerantworten zu zensieren.",
 
         "POSTGAME_SHARING": "Nachträgliches Teilen",
 
-        "POSTGAME_SHARING_DESCRIPTION": "Erlaubt es den Spielern, ihre Antworten später über Social Media zu teilen.",
+        "POSTGAME_SHARING_DESCRIPTION": "Erlaubt es den Spielern, nach dem Spiel ihre Ergebnisse über Social Media zu teilen.",
 
         "START_GAMEPAD": "Spiel nur vom PC starten",
 
-        "START_GAMEPAD_DESCRIPTION": "Das Spiel muss vom PC aus gestartet werden, statt durch den ersten Spieler in der Lobby.",
+        "START_GAMEPAD_DESCRIPTION": "Das Spiel muss am PC gestartet werden, anstatt vom VIP.",
 
-        "HIDE_ROOM_CODE": "Raum Code verstecken erlauben",
+        "HIDE_ROOM_CODE": "Raumcode verstecken",
 
-        "HIDE_ROOM_CODE_DESCRIPTION": "Ermöglicht das Verstecken des Raum-Codes. Nur geeignet für gestreamte Spiele.",
+        "HIDE_ROOM_CODE_DESCRIPTION": "Erlaubt es, den Raumcode zu verstecken.",
 
-        "SESSION_STATS": "Sitzungs-Statistiken",
+        "SESSION_STATS": "Spiel-Statistiken",
 
-        "SESSION_STATS_DESCRIPTION": "Statistiken dieser Sitzung (Werden bei einem Neustart zurückgesetzt.)",
+        "SESSION_STATS_DESCRIPTION": "Statistiken der aktuellen Spielsession. (Werden zurückgesetzt, wenn das Spiel verlassen wird).",
 
         "SKIP_TUTORIAL": "Tutorials überspringen",
 
-        "SKIP_TUTORIAL_DESCRIPTION": "Überspringt die Tutorials, wenn ihr wisst, wie man spielt.",
+        "SKIP_TUTORIAL_DESCRIPTION": "Überspringt die Tutorials.",
 
-        "TWITCH_STATS": "Twitch Statistiken",
+        "TWITCH_STATS": "Twitch-Statistiken",
 
-        "TWITCH_STATS_DESCRIPTION": "Statistiken von Twitch-Sitzungen (Werden auch nach einem Neustart noch gespeichert.)",
+        "TWITCH_STATS_DESCRIPTION": "Statistiken für Spiele mit Twitch. (Bleiben gespeichert, wenn das Spiel verlassen wird).",
 
         "EXTENDED_TIMERS": "Längere Timer",
 
-        "EXTENDED_TIMERS_DESCRIPTION": "Aktiviert längere Timer. Nur empfohlen für gestreamte Spiele mit hoher Verzögerung.",
+        "EXTENDED_TIMERS_DESCRIPTION": "Längere Timer geben dir mehr Zeit zum Antworten. Geeignet für Livestreams.",
 
         "PLAYER_NAME": "Spieler Name",
 
